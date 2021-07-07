@@ -24,6 +24,9 @@ range(2, 10, 2)
 # 10 8 6 4
 range(10, 2, -2)
 
+# 9 8 7 6 5 4 3 2 1 0
+x = reversed(range(10))
+
 ####### Invalid Usages
 
 # Floats are not allowed
