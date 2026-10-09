@@ -1,0 +1,4 @@
+[
+  {"name": "Pancakes", "minutes": 20, "vegan": false, "tags": ["breakfast", "sweet"]},
+  {"name": "Lentil soup", "minutes": 45, "vegan": true, "tags": ["dinner"]}
+]
