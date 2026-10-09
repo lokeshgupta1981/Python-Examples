@@ -1,0 +1,10 @@
+{
+    "cmd": ["$folder/.venv/bin/python", "-u", "$file"],
+    "windows": {
+        "cmd": ["$folder\\.venv\\Scripts\\python.exe", "-u", "$file"]
+    },
+    "file_regex": "^[ ]*File \"(...*?)\", line ([0-9]*)",
+    "selector": "source.python",
+    "interactive": true,
+    "env": {"PYTHONIOENCODING": "utf-8"}
+}
