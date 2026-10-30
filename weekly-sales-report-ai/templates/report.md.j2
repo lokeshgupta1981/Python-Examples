@@ -1,0 +1,24 @@
+# BeanBox Weekly Sales Report, {{ week }}
+
+| Metric | This week | Last week | Change |
+|---|---|---|---|
+| Revenue | {{ facts.revenue.display }} | {{ facts.revenue_prev.display }} | {{ facts.revenue_change.display }} |
+| Orders | {{ facts.orders.display }} | {{ facts.orders_prev.display }} | {{ facts.orders_change.display }} |
+
+![Revenue by week]({{ chart }})
+
+## Summary
+
+{{ n.summary.text }}
+
+## Highlights
+
+{% for line in n.highlights %}- {{ line.text }}
+{% endfor %}
+## Risks
+
+{% for line in n.risks %}- {{ line.text }}
+{% endfor %}
+## Week Over Week
+
+{{ n.week_over_week.text }}

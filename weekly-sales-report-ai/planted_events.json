@@ -1,0 +1,17 @@
+[
+  {
+    "week": "2026-W41",
+    "fact_id": "marketplace_return_rate",
+    "story": "Marketplace returns more than double"
+  },
+  {
+    "week": "2026-W42",
+    "fact_id": "north_change",
+    "story": "North region orders halve"
+  },
+  {
+    "week": "2026-W43",
+    "fact_id": "cold_brew_kit_change",
+    "story": "New product Cold Brew Kit launches"
+  }
+]

@@ -1,0 +1,9 @@
+pandas==3.1.0
+ollama==0.6.3
+pydantic==2.14.1
+Jinja2==3.1.6
+Markdown==3.11.2
+weasyprint==70.0
+matplotlib==3.11.2
+APScheduler==3.11.3
+pytest==8.4.2
