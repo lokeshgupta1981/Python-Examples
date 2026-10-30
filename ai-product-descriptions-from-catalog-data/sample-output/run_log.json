@@ -1,0 +1,192 @@
+[
+  {
+    "sku": "TG-7420",
+    "model": "qwen2.5:3b",
+    "prompt": "v1",
+    "status": "passed on attempt 1",
+    "attempts": [
+      {
+        "raw": "{\n  \"title\": \"Alpine Backpacking Pack\",\n  \"description\": \"This pack is made of recycled nylon and has a load-bearing hip belt. It's 75 cm long, 33 cm wide, and 25 cm deep. The top lid has two pockets. It's available in slate blue and has a 55-liter capacity. The warranty is for 5 years.\",\n  \"bullets\": [\n    \"Made of recycled nylon\",\n    \"Has a load-bearing hip belt\",\n    \"Top lid with two pockets\",\n    \"75 x 33 x 25 cm dimensions\",\n    \"55-liter capacity\"\n  ],\n  \"meta_title\": \"Alpine Backpacking Pack - 55L Recycled Nylon Backpack\",\n  \"meta_description\": \"55-liter recycled nylon backpack with a load-bearing hip belt and two pockets on the top lid. Warranty for 5 years.\",\n  \"used_attributes\": [\n    \"material\",\n    \"weight_g\",\n    \"dimensions\",\n    \"color\",\n    \"capacity_l\",\n    \"warranty_years\"\n  ]\n}",
+        "violations": [],
+        "seconds": 51.3
+      }
+    ]
+  },
+  {
+    "sku": "TG-5594",
+    "model": "qwen2.5:3b",
+    "prompt": "v1",
+    "status": "passed on attempt 1",
+    "attempts": [
+      {
+        "raw": "{\n  \"title\": \"Basecamp Daypack\",\n  \"description\": \"This pack has a forest green color and a capacity of 22 liters. It weighs 680 grams and measures 48 x 28 x 18 cm. It has a padded back panel and a removable hip belt for comfort and versatility.\",\n  \"bullets\": [\n    \"forest green color\",\n    \"capacity 22 liters\",\n    \"padded back panel\",\n    \"removable hip belt\",\n    \"680 g weight\"\n  ],\n  \"meta_title\": \"Basecamp Daypack - 22L Pack\",\n  \"meta_description\": \"22L daypack in forest green with a padded back and removable hip belt. Weight 680g, measures 48x28x18cm. Warranty 2 years.\",\n  \"used_attributes\": [\n    \"material\",\n    \"weight_g\",\n    \"dimensions\",\n    \"color\",\n    \"capacity_l\",\n    \"warranty_years\"\n  ]\n}",
+        "violations": [],
+        "seconds": 41.5
+      }
+    ]
+  },
+  {
+    "sku": "TG-9459",
+    "model": "qwen2.5:3b",
+    "prompt": "v1",
+    "status": "passed on attempt 1",
+    "attempts": [
+      {
+        "raw": "{\n  \"title\": \"Summit Dry Bag\",\n  \"description\": \"This orange 70D nylon bag with TPU coating is lightweight and waterproof. It has a roll-top closure and a D-ring for attaching gear. Comes with a 1-year warranty.\",\n  \"bullets\": [\n    \"70D nylon with TPU coating\",\n    \"Orange color\",\n    \"10 liters capacity\",\n    \"IPX6 waterproof rating\",\n    \"Roll-top closure\"\n  ],\n  \"meta_title\": \"Summit Dry Bag - 10L Orange Nylon Pack\",\n  \"meta_description\": \"Orange 70D nylon Summit Dry Bag with roll-top closure, IPX6 waterproof, 10L capacity. 1-year warranty.\",\n  \"used_attributes\": [\n    \"material\",\n    \"color\",\n    \"capacity_l\",\n    \"waterproof_rating\",\n    \"features\"\n  ]\n}",
+        "violations": [],
+        "seconds": 53.8
+      }
+    ]
+  },
+  {
+    "sku": "TG-3106",
+    "model": "qwen2.5:3b",
+    "prompt": "v1",
+    "status": "passed on attempt 1",
+    "attempts": [
+      {
+        "raw": "{\n  \"title\": \"Granite Rain Jacket\",\n  \"description\": \"This jacket is made of 2.5-layer nylon and weighs 230 grams. It's red and waterproof to 20000 mm. It packs into its own pocket and has taped seams and an adjustable hood.\",\n  \"bullets\": [\n    \"2.5-layer nylon material\",\n    \"Red color\",\n    \"230 grams weight\",\n    \"Waterproof to 20000 mm\",\n    \"Packs into its own pocket\"\n  ],\n  \"meta_title\": \"Granite Rain Jacket - TrailGear\",\n  \"meta_description\": \"Red 2.5-layer nylon Granite Rain Jacket, 230g, waterproof to 20000 mm, packs into its own pocket.\",\n  \"used_attributes\": [\n    \"material\",\n    \"color\",\n    \"weight_g\",\n    \"waterproof_rating\",\n    \"features\"\n  ]\n}",
+        "violations": [],
+        "seconds": 41.0
+      }
+    ]
+  },
+  {
+    "sku": "TG-4971",
+    "model": "qwen2.5:3b",
+    "prompt": "v1",
+    "status": "passed on attempt 2",
+    "attempts": [
+      {
+        "raw": "{\n  \"title\": \"Basecamp Down Jacket\",\n  \"description\": \"This jacket is perfect for keeping you warm and dry. It has a hood and two hand pockets.\",\n  \"bullets\": [\n    \"Hooded design\",\n    \"Two zip hand pockets\",\n    \"800-fill goose down insulation\",\n    \"Nylon shell for durability\",\n    \"Weight: 300g\"\n  ],\n  \"meta_title\": \"Basecamp Down Jacket\",\n  \"meta_description\": \"Basecamp Down Jacket, 800-fill goose down, hooded, two hand pockets, 300g weight, 2-year warranty.\",\n  \"used_attributes\": [\n    \"material\",\n    \"weight_g\",\n    \"color\",\n    \"warranty_years\"\n  ]\n}",
+        "violations": [
+          "banned word: perfect"
+        ],
+        "seconds": 32.2
+      },
+      {
+        "raw": "{\n  \"title\": \"Basecamp Down Jacket\",\n  \"description\": \"This jacket keeps you warm and dry with 800-fill goose down and a nylon shell. It has a hood and two hand pockets.\",\n  \"bullets\": [\n    \"Hooded design\",\n    \"Two zip hand pockets\",\n    \"800-fill goose down insulation\",\n    \"Nylon shell for durability\",\n    \"Weight: 300g\"\n  ],\n  \"meta_title\": \"Basecamp Down Jacket\",\n  \"meta_description\": \"Basecamp Down Jacket, 800-fill goose down, hooded, two hand pockets, 300g weight, 2-year warranty.\",\n  \"used_attributes\": [\n    \"material\",\n    \"weight_g\",\n    \"color\",\n    \"warranty_years\"\n  ]\n}",
+        "violations": [],
+        "seconds": 34.8
+      }
+    ]
+  },
+  {
+    "sku": "TG-3063",
+    "model": "qwen2.5:3b",
+    "prompt": "v1",
+    "status": "passed on attempt 1",
+    "attempts": [
+      {
+        "raw": "{\n  \"title\": \"Basecamp Backpacking Tent\",\n  \"description\": \"This grey tent is made of polyester for the fly and aluminium poles. It weighs 1.4 kg and is 213 x 127 x 102 cm. It has two doors and is freestanding. It sleeps two and has a waterproof rating of 3000 mm. Warranty is for 3 years.\",\n  \"bullets\": [\n    \"Grey in color\",\n    \"Sleeps 2\",\n    \"Two doors\",\n    \"Freestanding\",\n    \"Weight 1.4 kg\"\n  ],\n  \"meta_title\": \"Basecamp Backpacking Tent\",\n  \"meta_description\": \"Grey Basecamp Backpacking Tent, 213 x 127 x 102 cm, 1.4 kg, 3000 mm waterproof, 2 doors, freestanding, 3 year warranty.\",\n  \"used_attributes\": [\n    \"material\",\n    \"weight_g\",\n    \"dimensions\",\n    \"color\",\n    \"waterproof_rating\",\n    \"warranty_years\",\n    \"features\"\n  ]\n}",
+        "violations": [],
+        "seconds": 46.3
+      }
+    ]
+  },
+  {
+    "sku": "TG-7640",
+    "model": "qwen2.5:3b",
+    "prompt": "v1",
+    "status": "passed on attempt 1",
+    "attempts": [
+      {
+        "raw": "{\n  \"title\": \"Granite Down Sleeping Bag\",\n  \"description\": \"This mummy shape sleeping bag is water-resistant and made of down and nylon. It's navy and comes with a 5-year warranty.\",\n  \"bullets\": [\n    \"Mummy shape for efficient warmth retention\",\n    \"Water-resistant down and nylon shell\",\n    \"Navy color\",\n    \"Comfort rating for -5 C\",\n    \"5-year warranty included\"\n  ],\n  \"meta_title\": \"Granite Down Sleeping Bag\",\n  \"meta_description\": \"Water-resistant mummy shape sleeping bag with down and nylon shell, navy color, -5 C comfort rating, and 5-year warranty.\",\n  \"used_attributes\": [\n    \"material\",\n    \"weight_g\",\n    \"color\",\n    \"warranty_years\",\n    \"features\"\n  ]\n}",
+        "violations": [],
+        "seconds": 35.2
+      }
+    ]
+  },
+  {
+    "sku": "TG-8571",
+    "model": "qwen2.5:3b",
+    "prompt": "v1",
+    "status": "passed on attempt 1",
+    "attempts": [
+      {
+        "raw": "{\n  \"title\": \"Summit Headlamp\",\n  \"description\": \"This headlamp is tough and waterproof. It's black and gives 400 lumens. It has a red light mode and can be charged via USB-C. Comes with a 2-year warranty.\",\n  \"bullets\": [\n    \"Tough polycarbonate material\",\n    \"Black color\",\n    \"400 lumens output\",\n    \"Red light mode\",\n    \"USB-C charging\"\n  ],\n  \"meta_title\": \"Summit Headlamp - 400 Lumens Headlamp\",\n  \"meta_description\": \"Tough polycarbonate headlamp with 400 lumens, red light mode, and USB-C charging. Waterproof IPX4. 2-year warranty.\",\n  \"used_attributes\": [\n    \"material\",\n    \"weight_g\",\n    \"color\",\n    \"waterproof_rating\",\n    \"warranty_years\",\n    \"features\"\n  ]\n}",
+        "violations": [],
+        "seconds": 41.4
+      }
+    ]
+  },
+  {
+    "sku": "TG-4757",
+    "model": "qwen2.5:3b",
+    "prompt": "v1",
+    "status": "passed on attempt 1",
+    "attempts": [
+      {
+        "raw": "{\n  \"title\": \"Alpine Insulated Bottle\",\n  \"description\": \"This bottle keeps drinks hot for 12 hours and is vacuum insulated. It's made of stainless steel, weighs 340 grams, and comes in sage color. Warranty is for 1 year.\",\n  \"bullets\": [\n    \"Vacuum insulated\",\n    \"Keeps drinks hot for 12 hours\",\n    \"Stainless steel material\",\n    \"Sage color\",\n    \"340 grams weight\"\n  ],\n  \"meta_title\": \"Alpine Insulated Bottle - Stainless Steel Bottle\",\n  \"meta_description\": \"Stainless steel bottle with vacuum insulation, keeps drinks hot for 12 hours. Sage color, 340g weight, 1 year warranty.\",\n  \"used_attributes\": [\n    \"material\",\n    \"weight_g\",\n    \"color\",\n    \"warranty_years\"\n  ]\n}",
+        "violations": [],
+        "seconds": 38.1
+      }
+    ]
+  },
+  {
+    "sku": "TG-7703",
+    "model": "qwen2.5:3b",
+    "prompt": "v1",
+    "status": "review",
+    "attempts": [
+      {
+        "raw": "{\n  \"title\": \"Cedar Beanie\",\n  \"description\": \"Warm and cozy, perfect for chilly hikes. Made from soft, natural cedar.\",\n  \"bullets\": [\n    \"Made from soft cedar\",\n    \"Warm and cozy for cold weather\",\n    \"Natural material feels natural on the trail\"\n  ],\n  \"meta_title\": \"Cedar Beanie TrailGear\",\n  \"meta_description\": \"Warm and cozy cedar beanie for chilly hikes. Made from soft, natural cedar.\",\n  \"used_attributes\": [\"material\"]\n}",
+        "violations": [
+          "unknown attribute: material",
+          "banned word: perfect"
+        ],
+        "seconds": 21.3
+      },
+      {
+        "raw": "{\n  \"title\": \"Cedar Beanie\",\n  \"description\": \"Warm and cozy, perfect for chilly hikes. Made from soft cedar.\",\n  \"bullets\": [\n    \"Made from soft cedar\",\n    \"Warm and cozy for cold weather\",\n    \"Natural material feels natural on the trail\"\n  ],\n  \"meta_title\": \"Cedar Beanie TrailGear\",\n  \"meta_description\": \"Warm and cozy cedar beanie for chilly hikes. Made from soft cedar.\",\n  \"used_attributes\": [\"material\"]\n}",
+        "violations": [
+          "unknown attribute: material",
+          "banned word: perfect"
+        ],
+        "seconds": 22.0
+      }
+    ]
+  },
+  {
+    "sku": "TG-4070",
+    "model": "qwen2.5:3b",
+    "prompt": "v1",
+    "status": "review",
+    "attempts": [
+      {
+        "raw": "{\n  \"title\": \"Granite Camp Sandals\",\n  \"description\": \"These sandals are perfect for keeping your feet dry and comfortable on the trail. They're lightweight and won't weigh you down.\",\n  \"bullets\": [\n    \"Lightweight design\",\n    \"Perfect for keeping feet dry\",\n    \"Comfortable for long hikes\"\n  ],\n  \"meta_title\": \"Granite Camp Sandals - TrailGear\",\n  \"meta_description\": \"Lightweight sandals for keeping feet dry and comfortable on the trail. Perfect for long hikes.\",\n  \"used_attributes\": [\"name\"]\n}",
+        "violations": [
+          "banned word: perfect"
+        ],
+        "seconds": 23.0
+      },
+      {
+        "raw": "{\n  \"title\": \"Granite Camp Sandals\",\n  \"description\": \"These sandals are perfect for keeping your feet dry and comfortable on the trail. They're lightweight and won't weigh you down.\",\n  \"bullets\": [\n    \"Lightweight design\",\n    \"Keeps feet dry\",\n    \"Comfortable for long hikes\"\n  ],\n  \"meta_title\": \"Granite Camp Sandals - TrailGear\",\n  \"meta_description\": \"Lightweight sandals for keeping feet dry and comfortable on the trail. Keeps feet dry, comfortable for long hikes.\",\n  \"used_attributes\": [\"name\"]\n}",
+        "violations": [
+          "banned word: perfect"
+        ],
+        "seconds": 23.7
+      }
+    ]
+  },
+  {
+    "sku": "TG-6447",
+    "model": "qwen2.5:3b",
+    "prompt": "v1",
+    "status": "passed on attempt 2",
+    "attempts": [
+      {
+        "raw": "{\n  \"title\": \"Granite Microspikes\",\n  \"description\": \"These microspikes are perfect for icy trails. They grip well and are easy to put on and take off.\",\n  \"bullets\": [\n    \"Grip icy trails\",\n    \"Easy to put on and take off\",\n    \"Lightweight and compact\"\n  ],\n  \"meta_title\": \"Granite Microspikes Trail Gear\",\n  \"meta_description\": \"Lightweight microspikes for icy trails. Easy to put on and take off.\",\n  \"used_attributes\": [\"name\"]\n}",
+        "violations": [
+          "banned word: perfect"
+        ],
+        "seconds": 20.9
+      },
+      {
+        "raw": "{\n  \"title\": \"Granite Microspikes\",\n  \"description\": \"These microspikes are good for icy trails. They grip well and are easy to put on and take off.\",\n  \"bullets\": [\n    \"Grip icy trails well\",\n    \"Easy to put on and take off\",\n    \"Lightweight and compact\"\n  ],\n  \"meta_title\": \"Granite Microspikes Trail Gear\",\n  \"meta_description\": \"Lightweight microspikes for icy trails. Easy to put on and take off.\",\n  \"used_attributes\": [\"name\"]\n}",
+        "violations": [],
+        "seconds": 23.1
+      }
+    ]
+  }
+]

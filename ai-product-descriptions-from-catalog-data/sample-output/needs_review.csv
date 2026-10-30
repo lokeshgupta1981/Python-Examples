@@ -1,0 +1,25 @@
+sku,reasons,last_answer
+TG-7703,unknown attribute: material; banned word: perfect,"{
+  ""title"": ""Cedar Beanie"",
+  ""description"": ""Warm and cozy, perfect for chilly hikes. Made from soft cedar."",
+  ""bullets"": [
+    ""Made from soft cedar"",
+    ""Warm and cozy for cold weather"",
+    ""Natural material feels natural on the trail""
+  ],
+  ""meta_title"": ""Cedar Beanie TrailGear"",
+  ""meta_description"": ""Warm and cozy cedar beanie for chilly hikes. Made from soft cedar."",
+  ""used_attributes"": [""material""]
+}"
+TG-4070,banned word: perfect,"{
+  ""title"": ""Granite Camp Sandals"",
+  ""description"": ""These sandals are perfect for keeping your feet dry and comfortable on the trail. They're lightweight and won't weigh you down."",
+  ""bullets"": [
+    ""Lightweight design"",
+    ""Keeps feet dry"",
+    ""Comfortable for long hikes""
+  ],
+  ""meta_title"": ""Granite Camp Sandals - TrailGear"",
+  ""meta_description"": ""Lightweight sandals for keeping feet dry and comfortable on the trail. Keeps feet dry, comfortable for long hikes."",
+  ""used_attributes"": [""name""]
+}"
