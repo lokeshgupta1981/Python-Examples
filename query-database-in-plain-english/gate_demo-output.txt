@@ -1,0 +1,8 @@
+ALLOWED SELECT name FROM products ORDER BY unit_price DESC LIMIT 200
+BLOCKED DELETE FROM orders -> only queries are allowed, got Delete
+BLOCKED SELECT COUNT(*) FROM orders; DROP TABLE orders -> expected one statement, got 2
+BLOCKED WITH gone AS (DELETE FROM orders RETURNING id) SELECT COUNT(*) FROM gone -> Delete is not allowed anywhere in the query
+BLOCKED SELECT sql FROM sqlite_master -> unknown table sqlite_master
+BLOCKED PRAGMA table_info(customers) -> only queries are allowed, got Pragma
+READ-ONLY attempt to write a readonly database
+TIME LIMIT interrupted
