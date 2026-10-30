@@ -1,0 +1,20 @@
+{"id":"T01","ticket":"I bought a desk lamp three weeks ago and it's still in the box. Can I still return it?","covered":true,"expected":"A01","keyFact":"30 days"}
+{"id":"T02","ticket":"You got my returned printer yesterday. How long until I see the money?","covered":true,"expected":"A02","keyFact":"5 business days"}
+{"id":"T03","ticket":"I typed the wrong street on my order. It still says Received. Can I fix the address?","covered":true,"expected":"A03","keyFact":"Edit address"}
+{"id":"T04","ticket":"The password reset email never shows up. I tried twice.","covered":true,"expected":"A04","keyFact":"spam"}
+{"id":"T05","ticket":"My card was declined when I ordered printer paper. What happens to my order now?","covered":true,"expected":"A05","keyFact":"24 hours"}
+{"id":"T06","ticket":"Where is my package? I'd like to see where it is right now.","covered":true,"expected":"A06","keyFact":"Track package"}
+{"id":"T07","ticket":"I ordered on Monday. When should it get here?","covered":true,"expected":"A07","keyFact":"3 to 5 business days"}
+{"id":"T08","ticket":"My stapler arrived with a cracked base. What should I do?","covered":true,"expected":"A08","keyFact":"7 days"}
+{"id":"T09","ticket":"I don't need the notebooks anymore, please stop it.","covered":true,"expected":"A09","keyFact":"Cancel order"}
+{"id":"T10","ticket":"I need a PDF invoice for my company's accounting.","covered":true,"expected":"A10","keyFact":"Download invoice"}
+{"id":"T11","ticket":"Please remove my account and all my data.","covered":true,"expected":"A11","keyFact":"Delete account"}
+{"id":"T12","ticket":"I forgot to enter my discount code at checkout yesterday. Can I still get the discount?","covered":true,"expected":"A12","keyFact":"14 days"}
+{"id":"T13","ticket":"Do you have a faster shipping option? I need toner by Thursday.","covered":true,"expected":"A07","keyFact":"1 to 2 business days"}
+{"id":"T14","ticket":"Can I send back a box of pens I already opened and used a few of?","covered":true,"expected":"A01","keyFact":"unused"}
+{"id":"T15","ticket":"Do you ship to Canada?","covered":false,"expected":null,"keyFact":null}
+{"id":"T16","ticket":"How do I change the email address on my account?","covered":false,"expected":null,"keyFact":null}
+{"id":"T17","ticket":"When will the Ergo office chair be back in stock?","covered":false,"expected":null,"keyFact":null}
+{"id":"T18","ticket":"Can I pay with PayPal?","covered":false,"expected":null,"keyFact":null}
+{"id":"T19","ticket":"Do you give bulk discounts to schools?","covered":false,"expected":null,"keyFact":null}
+{"id":"T20","ticket":"Can I pick up my order at your warehouse instead of shipping?","covered":false,"expected":null,"keyFact":null}
