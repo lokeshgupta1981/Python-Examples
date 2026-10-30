@@ -1,0 +1,23 @@
+{
+  "categories": [
+    {"name": "BILLING", "queue": "billing",
+     "definition": "charges, payments, invoices, receipts, prices and tax."},
+    {"name": "SHIPPING", "queue": "delivery",
+     "definition": "delivery times, tracking, addresses, couriers, late or missing parcels."},
+    {"name": "RETURNS", "queue": "returns",
+     "definition": "returning items, damaged, faulty or wrong items, refunds after a return."},
+    {"name": "ACCOUNT", "queue": "tech-support",
+     "definition": "login, passwords, profile details, personal data, account security."},
+    {"name": "TECHNICAL", "queue": "tech-support",
+     "definition": "the website or app not working: errors, crashes, buttons, pages."},
+    {"name": "OTHER", "queue": "customer-care",
+     "definition": "product questions, feedback, business enquiries and anything else."}
+  ],
+  "priorities": [
+    {"name": "P1",
+     "definition": "money taken wrongly, a possible account takeover, or the customer cannot pay."},
+    {"name": "P2",
+     "definition": "a problem with an existing order, account access or the app that needs action."},
+    {"name": "P3", "definition": "questions, requests and feedback."}
+  ]
+}

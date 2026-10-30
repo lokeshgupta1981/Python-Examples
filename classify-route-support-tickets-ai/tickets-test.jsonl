@@ -1,0 +1,60 @@
+{"id": 1, "text": "I was charged twice for order 1043. Please refund one of the payments.", "category": "BILLING", "priority": "P1"}
+{"id": 2, "text": "The search bar returns no results for any product.", "category": "TECHNICAL", "priority": "P2"}
+{"id": 3, "text": "My card was charged 89.40 but the order confirmation says 64.90. Please fix the difference.", "category": "BILLING", "priority": "P1"}
+{"id": 5, "text": "Where is my parcel? Tracking hasn't changed for four days.", "category": "SHIPPING", "priority": "P2"}
+{"id": 6, "text": "Can I get a VAT invoice for order 2281 with our company name on it?", "category": "BILLING", "priority": "P3"}
+{"id": 7, "text": "The website shows an error 500 when I open my order history.", "category": "TECHNICAL", "priority": "P2"}
+{"id": 8, "text": "The desk lamp arrived with a cracked base. I'd like a replacement.", "category": "RETURNS", "priority": "P2"}
+{"id": 10, "text": "I got an email saying my password was changed, but I didn't change it.", "category": "ACCOUNT", "priority": "P1"}
+{"id": 11, "text": "How many days do I have to return an unopened printer?", "category": "RETURNS", "priority": "P3"}
+{"id": 14, "text": "I sent the stapler back two weeks ago, when will I get my refund?", "category": "RETURNS", "priority": "P2"}
+{"id": 15, "text": "Can you deliver to a different address than the one on my order 5520?", "category": "SHIPPING", "priority": "P2"}
+{"id": 17, "text": "Do you sell standing desks that go above 120 cm?", "category": "OTHER", "priority": "P3"}
+{"id": 18, "text": "Just wanted to say the delivery driver was very friendly.", "category": "OTHER", "priority": "P3"}
+{"id": 19, "text": "Can I return ink cartridges if the box has been opened?", "category": "RETURNS", "priority": "P3"}
+{"id": 20, "text": "You took payment for an order I cancelled within five minutes.", "category": "BILLING", "priority": "P1"}
+{"id": 22, "text": "My account is locked after too many login attempts.", "category": "ACCOUNT", "priority": "P2"}
+{"id": 23, "text": "Do your prices include sales tax, or is it added at checkout?", "category": "BILLING", "priority": "P3"}
+{"id": 24, "text": "The shredder stopped working after three days.", "category": "RETURNS", "priority": "P2"}
+{"id": 26, "text": "Is the A4 paper you sell made from recycled material?", "category": "OTHER", "priority": "P3"}
+{"id": 27, "text": "Do you offer discounts for charities?", "category": "OTHER", "priority": "P3"}
+{"id": 29, "text": "The tracking says delivered but nothing arrived at my door.", "category": "SHIPPING", "priority": "P2"}
+{"id": 32, "text": "Please delete my account and all my personal data.", "category": "ACCOUNT", "priority": "P3"}
+{"id": 33, "text": "Can I add a second user to our company account?", "category": "ACCOUNT", "priority": "P3"}
+{"id": 34, "text": "Please send me a returns label for order 6631.", "category": "RETURNS", "priority": "P2"}
+{"id": 37, "text": "The images on the product pages don't load.", "category": "TECHNICAL", "priority": "P3"}
+{"id": 41, "text": "There is a delivery address in my profile that I never added.", "category": "ACCOUNT", "priority": "P1"}
+{"id": 45, "text": "Do I have to pay for return postage if the item was faulty?", "category": "RETURNS", "priority": "P3"}
+{"id": 47, "text": "Can I pick a delivery time slot for a large furniture order?", "category": "SHIPPING", "priority": "P3"}
+{"id": 50, "text": "The website is very slow today, pages take a minute to load.", "category": "TECHNICAL", "priority": "P3"}
+{"id": 53, "text": "Half of my order arrived and the rest is missing with no tracking.", "category": "SHIPPING", "priority": "P2"}
+{"id": 55, "text": "The calculator doesn't turn on even with new batteries.", "category": "RETURNS", "priority": "P2"}
+{"id": 56, "text": "The discount was shown in the basket but the full price was charged.", "category": "BILLING", "priority": "P1"}
+{"id": 57, "text": "I returned the wrong item by mistake, can you send it back to me?", "category": "RETURNS", "priority": "P2"}
+{"id": 60, "text": "Please unsubscribe me from the marketing emails.", "category": "ACCOUNT", "priority": "P3"}
+{"id": 64, "text": "I moved house, please change the delivery address on my open order.", "category": "SHIPPING", "priority": "P2"}
+{"id": 65, "text": "The filing cabinet arrived dented on two sides.", "category": "RETURNS", "priority": "P2"}
+{"id": 66, "text": "Can I pay for a large office order by invoice with 30-day terms?", "category": "BILLING", "priority": "P3"}
+{"id": 67, "text": "My parcel has been 'out for delivery' since Monday.", "category": "SHIPPING", "priority": "P2"}
+{"id": 68, "text": "The checkout page shows a blank screen when I press Pay, so I cannot place my order.", "category": "TECHNICAL", "priority": "P1"}
+{"id": 69, "text": "We'd like to become a supplier, who should we contact?", "category": "OTHER", "priority": "P3"}
+{"id": 71, "text": "Why did the price of the printer paper go up between yesterday and today?", "category": "BILLING", "priority": "P3"}
+{"id": 72, "text": "Every time I enter my card details the app crashes and I can't pay for my basket.", "category": "TECHNICAL", "priority": "P1"}
+{"id": 73, "text": "The invoice for order 3170 has the wrong billing address on it.", "category": "BILLING", "priority": "P2"}
+{"id": 74, "text": "Your promo code box says 'invalid' for every code, even the one you emailed me yesterday.", "category": "TECHNICAL", "priority": "P2"}
+{"id": 77, "text": "Is there free delivery above a certain order value?", "category": "SHIPPING", "priority": "P3"}
+{"id": 79, "text": "Please update my phone number to the one in this message.", "category": "ACCOUNT", "priority": "P3"}
+{"id": 81, "text": "The page keeps asking me to accept cookies again and again.", "category": "TECHNICAL", "priority": "P3"}
+{"id": 83, "text": "The driver said the address doesn't exist but I've had deliveries here for years.", "category": "SHIPPING", "priority": "P2"}
+{"id": 85, "text": "Can you recommend a label printer that works with a Mac?", "category": "OTHER", "priority": "P3"}
+{"id": 86, "text": "I keep getting payment reminders for an invoice I already paid.", "category": "BILLING", "priority": "P2"}
+{"id": 87, "text": "I'd like to suggest you stock more left-handed scissors.", "category": "OTHER", "priority": "P3"}
+{"id": 88, "text": "What are your customer service opening hours?", "category": "OTHER", "priority": "P3"}
+{"id": 90, "text": "I want to merge my two accounts into one.", "category": "ACCOUNT", "priority": "P3"}
+{"id": 91, "text": "Is the gel pen ink waterproof?", "category": "OTHER", "priority": "P3"}
+{"id": 92, "text": "Can you hold my order until I'm back from holiday next week?", "category": "SHIPPING", "priority": "P3"}
+{"id": 94, "text": "The app says my order was refunded but the order is still on its way to me.", "category": "TECHNICAL", "priority": "P2"}
+{"id": 95, "text": "The reorder button in the app opens an empty basket.", "category": "TECHNICAL", "priority": "P2"}
+{"id": 96, "text": "My saved card in the account shows someone else's name.", "category": "ACCOUNT", "priority": "P1"}
+{"id": 97, "text": "Can I request a printed catalogue by post?", "category": "OTHER", "priority": "P3"}
+{"id": 98, "text": "I changed my password but I'm still logged out on every page.", "category": "ACCOUNT", "priority": "P2"}

@@ -1,0 +1,6 @@
+{"id": 101, "text": "The payment for order 8120 was declined but the money has left my account.", "category": "BILLING", "priority": "P1"}
+{"id": 102, "text": "My order shows as dispatched but the courier has no record of it.", "category": "SHIPPING", "priority": "P2"}
+{"id": 103, "text": "The ring binders came with the rings bent so they don't close.", "category": "RETURNS", "priority": "P2"}
+{"id": 104, "text": "I need to update the company name shown in my profile.", "category": "ACCOUNT", "priority": "P3"}
+{"id": 105, "text": "The 'Track my order' button in the app opens a white page.", "category": "TECHNICAL", "priority": "P2"}
+{"id": 106, "text": "Do you have chair mats that are safe for wooden floors?", "category": "OTHER", "priority": "P3"}
