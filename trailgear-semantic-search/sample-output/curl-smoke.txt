@@ -1,0 +1,18 @@
+== keyword?q=something+to+keep+my+feet+warm+on+a+winter+hike
+[]
+== hybrid?q=something+to+keep+my+feet+warm+on+a+winter+hike
+[{"sku":"TG-9785","name":"Trailhead Insulated Winter Boots","score":0.01639344262295082},{"sku":"TG-6925","name":"Juniper Insulated Winter Boots","score":0.016129032258064516},{"sku":"TG-6235","name":"Juniper Microspikes","score":0.015873015873015872},{"sku":"TG-2520","name":"Trailhead Insulated Gloves","score":0.015625},{"sku":"TG-1520","name":"Juniper Merino Wool Socks","score":0.015384615384615385}]
+== semantic?q=something+to+keep+my+feet+warm+on+a+winter+hike
+[{"sku":"TG-9785","name":"Trailhead Insulated Winter Boots","score":0.7418000505090044},{"sku":"TG-6925","name":"Juniper Insulated Winter Boots","score":0.7330522100299856},{"sku":"TG-6235","name":"Juniper Microspikes","score":0.7300425446085025},{"sku":"TG-2520","name":"Trailhead Insulated Gloves","score":0.7300416788694831},{"sku":"TG-1520","name":"Juniper Merino Wool Socks","score":0.725410829557988}]
+== keyword?q=TG-7071
+[{"sku":"TG-7071","name":"Trailhead Mosquito Head Net","score":0.9910322}]
+== hybrid?q=TG-7071
+[{"sku":"TG-7071","name":"Trailhead Mosquito Head Net","score":0.01639344262295082},{"sku":"TG-5421","name":"Granite Ultralight Tarp","score":0.01639344262295082},{"sku":"TG-7640","name":"Granite Down Sleeping Bag","score":0.016129032258064516},{"sku":"TG-7482","name":"Ridgeline Ultralight Tarp","score":0.015873015873015872},{"sku":"TG-7407","name":"Granite Camping Hammock","score":0.015625}]
+== semantic?q=TG-7071
+[{"sku":"TG-5421","name":"Granite Ultralight Tarp","score":0.4620188933009701},{"sku":"TG-7640","name":"Granite Down Sleeping Bag","score":0.45190311538309347},{"sku":"TG-7482","name":"Ridgeline Ultralight Tarp","score":0.44908224322373225},{"sku":"TG-7407","name":"Granite Camping Hammock","score":0.4481258464047245},{"sku":"TG-1041","name":"Granite Base Layer Top","score":0.4456727310440778}]
+== keyword?q=TG7071
+[]
+== keyword?q=merino+socks
+[{"sku":"TG-1520","name":"Juniper Merino Wool Socks","score":0.9978147149085999},{"sku":"TG-2679","name":"Basecamp Merino Wool Socks","score":0.9978147149085999},{"sku":"TG-2824","name":"Alpine Merino Wool Socks","score":0.9978147149085999},{"sku":"TG-4811","name":"Granite Merino Wool Socks","score":0.9978147149085999},{"sku":"TG-5012","name":"Cedar Merino Wool Socks","score":0.9978147149085999}]
+== keyword?q=boots+-winter
+[{"sku":"TG-1899","name":"Basecamp Rain Pants","score":9.999999682655225E-21},{"sku":"TG-2407","name":"Ridgeline Rain Pants","score":9.999999682655225E-21},{"sku":"TG-2467","name":"Ridgeline Microspikes","score":9.999999682655225E-21},{"sku":"TG-3891","name":"Trailhead Microspikes","score":9.999999682655225E-21},{"sku":"TG-4193","name":"Juniper Rain Pants","score":9.999999682655225E-21}]

@@ -1,0 +1,31 @@
+id,group,query,relevant_skus
+Q01,exact,merino wool socks,TG-2824 TG-5012 TG-2679 TG-1520 TG-4811
+Q02,exact,rain jacket,TG-3106 TG-6664 TG-4011 TG-7848 TG-8506
+Q03,exact,down sleeping bag,TG-7640 TG-6091 TG-5150 TG-5849 TG-1226
+Q04,exact,headlamp,TG-8571 TG-1036 TG-5526 TG-9276 TG-3256
+Q05,exact,trekking poles,TG-4302 TG-6316 TG-8154 TG-8617 TG-7777
+Q06,exact,water filter,TG-4261 TG-7490 TG-4448 TG-5259 TG-8200
+Q07,exact,backpacking tent,TG-3063 TG-7594 TG-6817 TG-9687 TG-7214
+Q08,exact,insulated gloves,TG-2520 TG-8409 TG-8121 TG-7687 TG-2942
+Q09,exact,hydration bladder,TG-1396 TG-5124 TG-5068 TG-4841 TG-1539
+Q10,exact,trail running shoes,TG-9652 TG-9830 TG-3907 TG-5164 TG-9829
+Q11,meaning,something to keep my feet warm on a winter hike,TG-9785 TG-8936 TG-6792 TG-6925 TG-1535 TG-2824 TG-5012 TG-2679 TG-1520 TG-4811
+Q12,meaning,stop bugs from biting me,TG-8886 TG-8052 TG-2278 TG-8803 TG-7071
+Q13,meaning,keep my phone dry when kayaking,TG-9459 TG-1836 TG-6401 TG-5493 TG-5119
+Q14,meaning,make dirty creek water safe to drink,TG-4261 TG-7490 TG-4448 TG-5259 TG-8200
+Q15,meaning,somewhere soft to rest my head at camp,TG-4850 TG-9542 TG-1165 TG-8887 TG-6417
+Q16,meaning,take strain off my knees on steep downhills,TG-4302 TG-6316 TG-8154 TG-8617 TG-7777
+Q17,meaning,not slip on icy paths,TG-6447 TG-3891 TG-2467 TG-7539 TG-6235
+Q18,meaning,cook hot dinner in the backcountry,TG-2875 TG-4141 TG-1450 TG-7296 TG-5355 TG-9769 TG-6716 TG-8874 TG-7215 TG-9886
+Q19,meaning,see where I walk after dark,TG-8571 TG-1036 TG-5526 TG-9276 TG-3256
+Q20,meaning,stay warm if I get stuck outside overnight,TG-9502 TG-8865 TG-8767 TG-6126 TG-7452
+Q21,code,TG-3677,TG-3677
+Q22,code,TG-7071,TG-7071
+Q23,code,TG-6817,TG-6817
+Q24,code,TG-7848,TG-7848
+Q25,code,TG-9039,TG-9039
+Q26,code,TG-4791,TG-4791
+Q27,code,TG-8893,TG-8893
+Q28,code,TG-8668,TG-8668
+Q29,code,TG-8874,TG-8874
+Q30,code,TG-4261,TG-4261

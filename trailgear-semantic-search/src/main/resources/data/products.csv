@@ -1,0 +1,201 @@
+sku,name,category,description,attributes,price
+TG-2824,Alpine Merino Wool Socks,Footwear,Cushioned hiking socks knitted from merino wool that wicks moisture and resists odour on multi-day trips.,"crew height, medium cushion",26.99
+TG-5012,Cedar Merino Wool Socks,Footwear,Cushioned hiking socks knitted from merino wool that wicks moisture and resists odour on multi-day trips.,"quarter height, light cushion",24.99
+TG-2679,Basecamp Merino Wool Socks,Footwear,Cushioned hiking socks knitted from merino wool that wicks moisture and resists odour on multi-day trips.,"crew height, heavy cushion",16.99
+TG-1520,Juniper Merino Wool Socks,Footwear,Cushioned hiking socks knitted from merino wool that wicks moisture and resists odour on multi-day trips.,"mid-calf, reinforced heel",18.99
+TG-4811,Granite Merino Wool Socks,Footwear,Cushioned hiking socks knitted from merino wool that wicks moisture and resists odour on multi-day trips.,"crew height, seamless toe",18.99
+TG-6514,Summit Liner Socks,Footwear,"Thin, snug socks worn under a thicker hiking sock to reduce friction and blisters.","polyester blend, 2 pairs",13.99
+TG-5557,Granite Liner Socks,Footwear,"Thin, snug socks worn under a thicker hiking sock to reduce friction and blisters.","silk blend, single pair",14.99
+TG-8189,Basecamp Liner Socks,Footwear,"Thin, snug socks worn under a thicker hiking sock to reduce friction and blisters.",toe-sock design,15.99
+TG-2730,Ridgeline Liner Socks,Footwear,"Thin, snug socks worn under a thicker hiking sock to reduce friction and blisters.","coolmax fibre, 3 pairs",11.99
+TG-4868,Cedar Liner Socks,Footwear,"Thin, snug socks worn under a thicker hiking sock to reduce friction and blisters.","nylon mesh, ankle height",19.99
+TG-9785,Trailhead Insulated Winter Boots,Footwear,"Waterproof snow boots with 400 g synthetic insulation and a lugged rubber outsole, rated to -25 C.","leather upper, removable felt liner",197.99
+TG-8936,Granite Insulated Winter Boots,Footwear,"Waterproof snow boots with 400 g synthetic insulation and a lugged rubber outsole, rated to -25 C.","nylon upper, gusseted tongue",201.99
+TG-6792,Ridgeline Insulated Winter Boots,Footwear,"Waterproof snow boots with 400 g synthetic insulation and a lugged rubber outsole, rated to -25 C.","mid-height, speed lacing",159.99
+TG-6925,Juniper Insulated Winter Boots,Footwear,"Waterproof snow boots with 400 g synthetic insulation and a lugged rubber outsole, rated to -25 C.","tall shaft, gaiter ring",199.99
+TG-1535,Cedar Insulated Winter Boots,Footwear,"Waterproof snow boots with 400 g synthetic insulation and a lugged rubber outsole, rated to -25 C.","wide fit, thermal footbed",208.99
+TG-9652,Cedar Trail Running Shoes,Footwear,Lightweight running shoes with a grippy outsole and rock plate for fast travel on dirt and gravel paths.,"4 mm drop, 280 g",119.99
+TG-9830,Basecamp Trail Running Shoes,Footwear,Lightweight running shoes with a grippy outsole and rock plate for fast travel on dirt and gravel paths.,"8 mm drop, breathable mesh",127.99
+TG-3907,Summit Trail Running Shoes,Footwear,Lightweight running shoes with a grippy outsole and rock plate for fast travel on dirt and gravel paths.,waterproof membrane,165.99
+TG-5164,Alpine Trail Running Shoes,Footwear,Lightweight running shoes with a grippy outsole and rock plate for fast travel on dirt and gravel paths.,"wide toe box, zero drop",116.99
+TG-9829,Juniper Trail Running Shoes,Footwear,Lightweight running shoes with a grippy outsole and rock plate for fast travel on dirt and gravel paths.,"max cushion, 6 mm drop",134.99
+TG-6850,Alpine Hiking Boots,Footwear,"Mid-cut boots with ankle support, a waterproof membrane and a stiff sole for rough terrain under a heavy pack.",full-grain leather,255.99
+TG-6708,Juniper Hiking Boots,Footwear,"Mid-cut boots with ankle support, a waterproof membrane and a stiff sole for rough terrain under a heavy pack.",suede and mesh,193.99
+TG-4821,Cedar Hiking Boots,Footwear,"Mid-cut boots with ankle support, a waterproof membrane and a stiff sole for rough terrain under a heavy pack.",vegan synthetic upper,182.99
+TG-5115,Granite Hiking Boots,Footwear,"Mid-cut boots with ankle support, a waterproof membrane and a stiff sole for rough terrain under a heavy pack.",resoleable Vibram sole,175.99
+TG-6934,Trailhead Hiking Boots,Footwear,"Mid-cut boots with ankle support, a waterproof membrane and a stiff sole for rough terrain under a heavy pack.","lightweight, 1.1 kg per pair",181.99
+TG-4070,Granite Camp Sandals,Footwear,Open sandals to wear around camp and for river crossings so the hiking shoes can dry.,adjustable webbing straps,55.99
+TG-6336,Juniper Camp Sandals,Footwear,Open sandals to wear around camp and for river crossings so the hiking shoes can dry.,"toe loop, 180 g",71.99
+TG-2505,Ridgeline Camp Sandals,Footwear,Open sandals to wear around camp and for river crossings so the hiking shoes can dry.,closed toe bumper,70.99
+TG-2162,Cedar Camp Sandals,Footwear,Open sandals to wear around camp and for river crossings so the hiking shoes can dry.,quick-dry footbed,47.99
+TG-2698,Basecamp Camp Sandals,Footwear,Open sandals to wear around camp and for river crossings so the hiking shoes can dry.,"packable, folds flat",76.99
+TG-8668,Juniper Trail Gaiters,Footwear,"Ankle covers that keep sand, scree and trail debris out of shoes, attached with a hook and an under-strap.","stretch fabric, low height",26.99
+TG-3819,Cedar Trail Gaiters,Footwear,"Ankle covers that keep sand, scree and trail debris out of shoes, attached with a hook and an under-strap.","water-resistant, mid height",35.99
+TG-4496,Alpine Trail Gaiters,Footwear,"Ankle covers that keep sand, scree and trail debris out of shoes, attached with a hook and an under-strap.",breathable mesh panels,34.99
+TG-9451,Ridgeline Trail Gaiters,Footwear,"Ankle covers that keep sand, scree and trail debris out of shoes, attached with a hook and an under-strap.",replaceable instep strap,35.99
+TG-5623,Summit Trail Gaiters,Footwear,"Ankle covers that keep sand, scree and trail debris out of shoes, attached with a hook and an under-strap.",reflective trim,52.99
+TG-6447,Granite Microspikes,Footwear,Stainless steel spikes on a rubber harness that stretch over boots for traction on packed snow and ice.,"12 spikes, size S",57.99
+TG-3891,Trailhead Microspikes,Footwear,Stainless steel spikes on a rubber harness that stretch over boots for traction on packed snow and ice.,"12 spikes, size M",77.99
+TG-2467,Ridgeline Microspikes,Footwear,Stainless steel spikes on a rubber harness that stretch over boots for traction on packed snow and ice.,"14 spikes, size L",54.99
+TG-7539,Summit Microspikes,Footwear,Stainless steel spikes on a rubber harness that stretch over boots for traction on packed snow and ice.,"10 spikes, size XL",65.99
+TG-6235,Juniper Microspikes,Footwear,Stainless steel spikes on a rubber harness that stretch over boots for traction on packed snow and ice.,"18 spikes, carry bag included",62.99
+TG-3106,Granite Rain Jacket,Clothing,"Waterproof, breathable shell jacket with taped seams and an adjustable hood for wet weather.","2.5-layer, 230 g",198.99
+TG-6664,Basecamp Rain Jacket,Clothing,"Waterproof, breathable shell jacket with taped seams and an adjustable hood for wet weather.","3-layer, pit zips",112.99
+TG-4011,Alpine Rain Jacket,Clothing,"Waterproof, breathable shell jacket with taped seams and an adjustable hood for wet weather.",packs into its own pocket,225.99
+TG-7848,Cedar Rain Jacket,Clothing,"Waterproof, breathable shell jacket with taped seams and an adjustable hood for wet weather.","longer cut, two-way zip",237.99
+TG-8506,Trailhead Rain Jacket,Clothing,"Waterproof, breathable shell jacket with taped seams and an adjustable hood for wet weather.","recycled nylon, helmet-compatible hood",120.99
+TG-4971,Basecamp Down Jacket,Clothing,"Warm, packable jacket filled with 800-fill goose down for cold mornings and evenings at camp.","hooded, 300 g",239.99
+TG-3576,Summit Down Jacket,Clothing,"Warm, packable jacket filled with 800-fill goose down for cold mornings and evenings at camp.","vest-style, sleeveless",316.99
+TG-7740,Alpine Down Jacket,Clothing,"Warm, packable jacket filled with 800-fill goose down for cold mornings and evenings at camp.",water-resistant down treatment,185.99
+TG-4222,Granite Down Jacket,Clothing,"Warm, packable jacket filled with 800-fill goose down for cold mornings and evenings at camp.",baffled box construction,290.99
+TG-3626,Trailhead Down Jacket,Clothing,"Warm, packable jacket filled with 800-fill goose down for cold mornings and evenings at camp.",longer parka cut,183.99
+TG-7025,Cedar Fleece Pullover,Clothing,Mid-weight fleece layer that traps warmth and dries quickly when damp.,"quarter zip, 200 weight",98.99
+TG-4246,Basecamp Fleece Pullover,Clothing,Mid-weight fleece layer that traps warmth and dries quickly when damp.,"grid fleece, hooded",58.99
+TG-4540,Granite Fleece Pullover,Clothing,Mid-weight fleece layer that traps warmth and dries quickly when damp.,"full zip, chest pocket",70.99
+TG-8512,Alpine Fleece Pullover,Clothing,Mid-weight fleece layer that traps warmth and dries quickly when damp.,"high-pile, 300 weight",80.99
+TG-4769,Summit Fleece Pullover,Clothing,Mid-weight fleece layer that traps warmth and dries quickly when damp.,"recycled polyester, 100 weight",71.99
+TG-9888,Juniper Base Layer Top,Clothing,Close-fitting long-sleeve top worn next to the skin to move sweat away and keep the body warm.,merino 200 g/m2,97.99
+TG-6936,Summit Base Layer Top,Clothing,Close-fitting long-sleeve top worn next to the skin to move sweat away and keep the body warm.,"synthetic, crew neck",61.99
+TG-3512,Basecamp Base Layer Top,Clothing,Close-fitting long-sleeve top worn next to the skin to move sweat away and keep the body warm.,"merino blend, zip neck",97.99
+TG-1041,Granite Base Layer Top,Clothing,Close-fitting long-sleeve top worn next to the skin to move sweat away and keep the body warm.,"lightweight, 150 g/m2",47.99
+TG-8624,Trailhead Base Layer Top,Clothing,Close-fitting long-sleeve top worn next to the skin to move sweat away and keep the body warm.,"heavyweight, thumb loops",108.99
+TG-6507,Ridgeline Hiking Pants,Clothing,Stretch nylon trousers with a durable finish that shed light rain and dry fast.,convertible zip-off legs,70.99
+TG-5821,Juniper Hiking Pants,Clothing,Stretch nylon trousers with a durable finish that shed light rain and dry fast.,articulated knees,108.99
+TG-6633,Granite Hiking Pants,Clothing,Stretch nylon trousers with a durable finish that shed light rain and dry fast.,"belted, six pockets",94.99
+TG-8430,Basecamp Hiking Pants,Clothing,Stretch nylon trousers with a durable finish that shed light rain and dry fast.,"insulated, fleece-lined",92.99
+TG-2523,Summit Hiking Pants,Clothing,Stretch nylon trousers with a durable finish that shed light rain and dry fast.,roll-up leg tabs,80.99
+TG-5307,Cedar Rain Pants,Clothing,Waterproof over-trousers with ankle zips that pull on over boots during a downpour.,full-length side zips,148.99
+TG-1899,Basecamp Rain Pants,Clothing,Waterproof over-trousers with ankle zips that pull on over boots during a downpour.,"2.5-layer, 180 g",70.99
+TG-7821,Summit Rain Pants,Clothing,Waterproof over-trousers with ankle zips that pull on over boots during a downpour.,"3-layer, reinforced cuffs",129.99
+TG-4193,Juniper Rain Pants,Clothing,Waterproof over-trousers with ankle zips that pull on over boots during a downpour.,packs into a stuff sack,103.99
+TG-2407,Ridgeline Rain Pants,Clothing,Waterproof over-trousers with ankle zips that pull on over boots during a downpour.,"elastic waist, drawcord",140.99
+TG-1178,Ridgeline Sun Hoodie,Clothing,Lightweight long-sleeve hoodie with UPF 50 fabric that blocks the sun on exposed trails.,"thumb loops, scuba hood",63.99
+TG-5893,Cedar Sun Hoodie,Clothing,Lightweight long-sleeve hoodie with UPF 50 fabric that blocks the sun on exposed trails.,cooling fabric,82.99
+TG-4497,Summit Sun Hoodie,Clothing,Lightweight long-sleeve hoodie with UPF 50 fabric that blocks the sun on exposed trails.,"loose fit, side vents",47.99
+TG-6873,Granite Sun Hoodie,Clothing,Lightweight long-sleeve hoodie with UPF 50 fabric that blocks the sun on exposed trails.,odour-control treatment,54.99
+TG-8000,Trailhead Sun Hoodie,Clothing,Lightweight long-sleeve hoodie with UPF 50 fabric that blocks the sun on exposed trails.,recycled polyester,79.99
+TG-7703,Cedar Beanie,Clothing,Knit hat that keeps the head and ears warm in cold wind.,"merino wool, double layer",21.99
+TG-4791,Basecamp Beanie,Clothing,Knit hat that keeps the head and ears warm in cold wind.,fleece-lined acrylic,32.99
+TG-2943,Granite Beanie,Clothing,Knit hat that keeps the head and ears warm in cold wind.,"cuffed, chunky knit",29.99
+TG-3402,Alpine Beanie,Clothing,Knit hat that keeps the head and ears warm in cold wind.,"lightweight, packable",38.99
+TG-7929,Ridgeline Beanie,Clothing,Knit hat that keeps the head and ears warm in cold wind.,windproof ear band,20.99
+TG-2520,Trailhead Insulated Gloves,Clothing,Waterproof gloves with synthetic insulation and a grippy palm for snow and cold rain.,"leather palm, gauntlet cuff",41.99
+TG-8409,Granite Insulated Gloves,Clothing,Waterproof gloves with synthetic insulation and a grippy palm for snow and cold rain.,touchscreen fingertips,72.99
+TG-8121,Cedar Insulated Gloves,Clothing,Waterproof gloves with synthetic insulation and a grippy palm for snow and cold rain.,removable liner glove,48.99
+TG-7687,Basecamp Insulated Gloves,Clothing,Waterproof gloves with synthetic insulation and a grippy palm for snow and cold rain.,mitten shell with fleece liner,54.99
+TG-2942,Ridgeline Insulated Gloves,Clothing,Waterproof gloves with synthetic insulation and a grippy palm for snow and cold rain.,"lightweight, 3 season",45.99
+TG-9696,Ridgeline Neck Gaiter,Clothing,"Stretch tube of fabric worn around the neck or over the face against sun, wind and dust.","UPF 50, lightweight",17.99
+TG-3436,Summit Neck Gaiter,Clothing,"Stretch tube of fabric worn around the neck or over the face against sun, wind and dust.","fleece, winter weight",16.99
+TG-1948,Trailhead Neck Gaiter,Clothing,"Stretch tube of fabric worn around the neck or over the face against sun, wind and dust.",merino wool,22.99
+TG-8148,Granite Neck Gaiter,Clothing,"Stretch tube of fabric worn around the neck or over the face against sun, wind and dust.",cooling fabric,16.99
+TG-3374,Alpine Neck Gaiter,Clothing,"Stretch tube of fabric worn around the neck or over the face against sun, wind and dust.",reflective print,17.99
+TG-5719,Juniper Wide-Brim Sun Hat,Clothing,"Packable hat with a wide brim and a chin strap that shades the face, ears and neck.","UPF 50, mesh crown",44.99
+TG-1538,Basecamp Wide-Brim Sun Hat,Clothing,"Packable hat with a wide brim and a chin strap that shades the face, ears and neck.",waxed cotton,36.99
+TG-7784,Cedar Wide-Brim Sun Hat,Clothing,"Packable hat with a wide brim and a chin strap that shades the face, ears and neck.",neck cape,33.99
+TG-8829,Trailhead Wide-Brim Sun Hat,Clothing,"Packable hat with a wide brim and a chin strap that shades the face, ears and neck.","crushable, floats in water",53.99
+TG-4712,Ridgeline Wide-Brim Sun Hat,Clothing,"Packable hat with a wide brim and a chin strap that shades the face, ears and neck.",ventilation eyelets,36.99
+TG-7640,Granite Down Sleeping Bag,Sleep,Mummy sleeping bag filled with water-resistant down for cold nights on the trail.,"comfort rating -5 C, 900 g",392.99
+TG-6091,Summit Down Sleeping Bag,Sleep,Mummy sleeping bag filled with water-resistant down for cold nights on the trail.,"comfort rating 0 C, 750 g",285.99
+TG-5150,Cedar Down Sleeping Bag,Sleep,Mummy sleeping bag filled with water-resistant down for cold nights on the trail.,"comfort rating -12 C, 1.3 kg",357.99
+TG-5849,Ridgeline Down Sleeping Bag,Sleep,Mummy sleeping bag filled with water-resistant down for cold nights on the trail.,"quilt style, 650 g",273.99
+TG-1226,Alpine Down Sleeping Bag,Sleep,Mummy sleeping bag filled with water-resistant down for cold nights on the trail.,"wide cut, two-way zip",249.99
+TG-4741,Juniper Sleeping Pad,Sleep,Inflatable pad that cushions and insulates the body from the cold ground.,"R-value 4.2, 450 g",160.99
+TG-1141,Alpine Sleeping Pad,Sleep,Inflatable pad that cushions and insulates the body from the cold ground.,"R-value 7.0, winter",77.99
+TG-9644,Ridgeline Sleeping Pad,Sleep,Inflatable pad that cushions and insulates the body from the cold ground.,"foam, closed cell",106.99
+TG-3530,Basecamp Sleeping Pad,Sleep,Inflatable pad that cushions and insulates the body from the cold ground.,"wide, 64 cm",137.99
+TG-3880,Cedar Sleeping Pad,Sleep,Inflatable pad that cushions and insulates the body from the cold ground.,"self-inflating, 5 cm thick",160.99
+TG-4850,Basecamp Camping Pillow,Sleep,Small inflatable pillow with a soft cover that packs to the size of a fist.,"ultralight, 60 g",36.99
+TG-9542,Summit Camping Pillow,Sleep,Small inflatable pillow with a soft cover that packs to the size of a fist.,"foam topper, 120 g",41.99
+TG-1165,Alpine Camping Pillow,Sleep,Small inflatable pillow with a soft cover that packs to the size of a fist.,contoured shape,36.99
+TG-8887,Trailhead Camping Pillow,Sleep,Small inflatable pillow with a soft cover that packs to the size of a fist.,"large, brushed fabric",25.99
+TG-6417,Cedar Camping Pillow,Sleep,Small inflatable pillow with a soft cover that packs to the size of a fist.,pump sack included,48.99
+TG-4905,Summit Sleeping Bag Liner,Sleep,Fabric liner that adds a few degrees of warmth and keeps the sleeping bag clean.,"silk, 130 g",77.99
+TG-7755,Basecamp Sleeping Bag Liner,Sleep,Fabric liner that adds a few degrees of warmth and keeps the sleeping bag clean.,"thermal fleece, adds 8 C",34.99
+TG-3474,Cedar Sleeping Bag Liner,Sleep,Fabric liner that adds a few degrees of warmth and keeps the sleeping bag clean.,cotton travel sheet,54.99
+TG-9841,Juniper Sleeping Bag Liner,Sleep,Fabric liner that adds a few degrees of warmth and keeps the sleeping bag clean.,"mummy shape, insect shield",69.99
+TG-5483,Granite Sleeping Bag Liner,Sleep,Fabric liner that adds a few degrees of warmth and keeps the sleeping bag clean.,"coolmax, warm nights",33.99
+TG-3063,Basecamp Backpacking Tent,Shelter,Lightweight freestanding tent with a rainfly and two doors for overnight trips.,"2 person, 1.4 kg",358.99
+TG-7594,Juniper Backpacking Tent,Shelter,Lightweight freestanding tent with a rainfly and two doors for overnight trips.,"1 person, 0.9 kg",243.99
+TG-6817,Granite Backpacking Tent,Shelter,Lightweight freestanding tent with a rainfly and two doors for overnight trips.,"3 person, 2.1 kg",342.99
+TG-9687,Summit Backpacking Tent,Shelter,Lightweight freestanding tent with a rainfly and two doors for overnight trips.,"semi-freestanding, trekking pole pitch",490.99
+TG-7214,Ridgeline Backpacking Tent,Shelter,Lightweight freestanding tent with a rainfly and two doors for overnight trips.,"4 season, snow skirts",401.99
+TG-5421,Granite Ultralight Tarp,Shelter,Silnylon tarp pitched with trekking poles as a minimal rain shelter.,"3 x 3 m, 380 g",312.99
+TG-7258,Juniper Ultralight Tarp,Shelter,Silnylon tarp pitched with trekking poles as a minimal rain shelter.,"flat tarp, 12 tie-outs",227.99
+TG-7357,Cedar Ultralight Tarp,Shelter,Silnylon tarp pitched with trekking poles as a minimal rain shelter.,cat cut ridgeline,158.99
+TG-7482,Ridgeline Ultralight Tarp,Shelter,Silnylon tarp pitched with trekking poles as a minimal rain shelter.,"dyneema, 220 g",306.99
+TG-9047,Summit Ultralight Tarp,Shelter,Silnylon tarp pitched with trekking poles as a minimal rain shelter.,"hammock tarp, door panels",122.99
+TG-7407,Granite Camping Hammock,Shelter,Hanging hammock with tree straps for sleeping off the ground between two trees.,"single, 450 g",136.99
+TG-2314,Ridgeline Camping Hammock,Shelter,Hanging hammock with tree straps for sleeping off the ground between two trees.,double width,121.99
+TG-3693,Trailhead Camping Hammock,Shelter,Hanging hammock with tree straps for sleeping off the ground between two trees.,integrated bug net,138.99
+TG-1437,Summit Camping Hammock,Shelter,Hanging hammock with tree straps for sleeping off the ground between two trees.,asymmetric lay,116.99
+TG-9039,Alpine Camping Hammock,Shelter,Hanging hammock with tree straps for sleeping off the ground between two trees.,underquilt loops,95.99
+TG-5594,Basecamp Daypack,Packs,Small backpack for day hikes with a padded back panel and a hip belt.,22 litres,109.99
+TG-4605,Granite Daypack,Packs,Small backpack for day hikes with a padded back panel and a hip belt.,"28 litres, rain cover",138.99
+TG-3677,Summit Daypack,Packs,Small backpack for day hikes with a padded back panel and a hip belt.,"18 litres, running vest style",125.99
+TG-4697,Juniper Daypack,Packs,Small backpack for day hikes with a padded back panel and a hip belt.,"30 litres, ventilated back",117.99
+TG-1620,Cedar Daypack,Packs,Small backpack for day hikes with a padded back panel and a hip belt.,"20 litres, hydration sleeve",97.99
+TG-7420,Alpine Backpacking Pack,Packs,Large internal frame pack that carries gear for several nights with a load-bearing hip belt.,"55 litres, 1.6 kg",235.99
+TG-5651,Cedar Backpacking Pack,Packs,Large internal frame pack that carries gear for several nights with a load-bearing hip belt.,"65 litres, adjustable torso",318.99
+TG-3251,Ridgeline Backpacking Pack,Packs,Large internal frame pack that carries gear for several nights with a load-bearing hip belt.,"45 litres, frameless",290.99
+TG-9651,Trailhead Backpacking Pack,Packs,Large internal frame pack that carries gear for several nights with a load-bearing hip belt.,"70 litres, removable lid",253.99
+TG-6067,Summit Backpacking Pack,Packs,Large internal frame pack that carries gear for several nights with a load-bearing hip belt.,"50 litres, women's fit",263.99
+TG-1396,Alpine Hydration Bladder,Packs,Water reservoir with a drinking tube that fits inside a backpack sleeve for sipping on the move.,"2 litres, wide opening",25.99
+TG-5124,Cedar Hydration Bladder,Packs,Water reservoir with a drinking tube that fits inside a backpack sleeve for sipping on the move.,"3 litres, insulated tube",37.99
+TG-5068,Basecamp Hydration Bladder,Packs,Water reservoir with a drinking tube that fits inside a backpack sleeve for sipping on the move.,"1.5 litres, slim shape",37.99
+TG-4841,Granite Hydration Bladder,Packs,Water reservoir with a drinking tube that fits inside a backpack sleeve for sipping on the move.,"2 litres, quick-disconnect",36.99
+TG-1539,Summit Hydration Bladder,Packs,Water reservoir with a drinking tube that fits inside a backpack sleeve for sipping on the move.,"3 litres, antimicrobial lining",24.99
+TG-9459,Summit Dry Bag,Packs,Roll-top waterproof bag that keeps clothes and electronics dry on boats and in heavy rain.,10 litres,15.99
+TG-1836,Alpine Dry Bag,Packs,Roll-top waterproof bag that keeps clothes and electronics dry on boats and in heavy rain.,"20 litres, shoulder strap",24.99
+TG-6401,Granite Dry Bag,Packs,Roll-top waterproof bag that keeps clothes and electronics dry on boats and in heavy rain.,"5 litres, clear window",48.99
+TG-5493,Ridgeline Dry Bag,Packs,Roll-top waterproof bag that keeps clothes and electronics dry on boats and in heavy rain.,"35 litres, backpack harness",65.99
+TG-5119,Juniper Dry Bag,Packs,Roll-top waterproof bag that keeps clothes and electronics dry on boats and in heavy rain.,"3 pack, 2/5/10 litres",58.99
+TG-2875,Alpine Backpacking Stove,Cooking,Compact canister stove that screws onto a gas cartridge to boil water and cook meals.,boils 1 litre in 3.5 min,110.99
+TG-4141,Summit Backpacking Stove,Cooking,Compact canister stove that screws onto a gas cartridge to boil water and cook meals.,piezo igniter,87.99
+TG-1450,Granite Backpacking Stove,Cooking,Compact canister stove that screws onto a gas cartridge to boil water and cook meals.,windscreen and pot support,119.99
+TG-7296,Basecamp Backpacking Stove,Cooking,Compact canister stove that screws onto a gas cartridge to boil water and cook meals.,"remote canister, low profile",69.99
+TG-5355,Ridgeline Backpacking Stove,Cooking,Compact canister stove that screws onto a gas cartridge to boil water and cook meals.,integrated pot system,127.99
+TG-9769,Ridgeline Titanium Cook Pot,Cooking,Light titanium pot with a lid and folding handles for cooking on a camp stove.,"750 ml, 105 g",38.99
+TG-6716,Basecamp Titanium Cook Pot,Cooking,Light titanium pot with a lid and folding handles for cooking on a camp stove.,"900 ml, lid strainer",47.99
+TG-8874,Cedar Titanium Cook Pot,Cooking,Light titanium pot with a lid and folding handles for cooking on a camp stove.,1.1 litres,45.99
+TG-7215,Summit Titanium Cook Pot,Cooking,Light titanium pot with a lid and folding handles for cooking on a camp stove.,"1.3 litres, frying pan lid",39.99
+TG-9886,Granite Titanium Cook Pot,Cooking,Light titanium pot with a lid and folding handles for cooking on a camp stove.,550 ml mug pot,35.99
+TG-4261,Ridgeline Water Filter,Cooking,Hollow-fibre filter that removes bacteria and protozoa from stream and lake water.,"squeeze filter, 85 g",72.99
+TG-7490,Summit Water Filter,Cooking,Hollow-fibre filter that removes bacteria and protozoa from stream and lake water.,"gravity filter, 4 litres",79.99
+TG-4448,Juniper Water Filter,Cooking,Hollow-fibre filter that removes bacteria and protozoa from stream and lake water.,pump filter,104.99
+TG-5259,Granite Water Filter,Cooking,Hollow-fibre filter that removes bacteria and protozoa from stream and lake water.,filter straw,112.99
+TG-8200,Basecamp Water Filter,Cooking,Hollow-fibre filter that removes bacteria and protozoa from stream and lake water.,bottle with built-in filter,44.99
+TG-4757,Alpine Insulated Bottle,Cooking,Vacuum-insulated stainless steel bottle that keeps drinks hot or cold for hours.,"750 ml, 12 h hot",40.99
+TG-5291,Cedar Insulated Bottle,Cooking,Vacuum-insulated stainless steel bottle that keeps drinks hot or cold for hours.,"1 litre, cup lid",31.99
+TG-2652,Granite Insulated Bottle,Cooking,Vacuum-insulated stainless steel bottle that keeps drinks hot or cold for hours.,"500 ml, slim",43.99
+TG-1600,Ridgeline Insulated Bottle,Cooking,Vacuum-insulated stainless steel bottle that keeps drinks hot or cold for hours.,"1.2 litres, handle",48.99
+TG-3246,Summit Insulated Bottle,Cooking,Vacuum-insulated stainless steel bottle that keeps drinks hot or cold for hours.,"650 ml, straw lid",24.99
+TG-8571,Summit Headlamp,Safety,Rechargeable head torch with a red light mode and a tilting beam for hands-free light at night.,"400 lumens, USB-C",80.99
+TG-1036,Ridgeline Headlamp,Safety,Rechargeable head torch with a red light mode and a tilting beam for hands-free light at night.,"250 lumens, AAA batteries",57.99
+TG-5526,Basecamp Headlamp,Safety,Rechargeable head torch with a red light mode and a tilting beam for hands-free light at night.,"650 lumens, IPX7",50.99
+TG-9276,Juniper Headlamp,Safety,Rechargeable head torch with a red light mode and a tilting beam for hands-free light at night.,"lightweight, 52 g",30.99
+TG-3256,Trailhead Headlamp,Safety,Rechargeable head torch with a red light mode and a tilting beam for hands-free light at night.,motion sensor switch,57.99
+TG-4302,Trailhead Trekking Poles,Safety,Adjustable aluminium or carbon poles that take load off the knees on climbs and descents.,"carbon, flick locks",171.99
+TG-6316,Basecamp Trekking Poles,Safety,Adjustable aluminium or carbon poles that take load off the knees on climbs and descents.,"aluminium, cork grips",162.99
+TG-8154,Granite Trekking Poles,Safety,Adjustable aluminium or carbon poles that take load off the knees on climbs and descents.,"folding, z-style",150.99
+TG-8617,Cedar Trekking Poles,Safety,Adjustable aluminium or carbon poles that take load off the knees on climbs and descents.,shock absorbing,78.99
+TG-7777,Alpine Trekking Poles,Safety,Adjustable aluminium or carbon poles that take load off the knees on climbs and descents.,"3 section, foam grips",141.99
+TG-5903,Cedar First Aid Kit,Safety,"Compact medical kit with bandages, blister care and wound supplies for the trail.","1 to 2 people, 2 days",65.99
+TG-4813,Basecamp First Aid Kit,Safety,"Compact medical kit with bandages, blister care and wound supplies for the trail.","group, 4 to 6 people",62.99
+TG-2009,Juniper First Aid Kit,Safety,"Compact medical kit with bandages, blister care and wound supplies for the trail.","ultralight, 120 g",72.99
+TG-3785,Alpine First Aid Kit,Safety,"Compact medical kit with bandages, blister care and wound supplies for the trail.",waterproof pouch,82.99
+TG-8893,Trailhead First Aid Kit,Safety,"Compact medical kit with bandages, blister care and wound supplies for the trail.","expedition, 7 days",86.99
+TG-8886,Granite Mosquito Head Net,Safety,"Fine no-see-um mesh that fits over a hat to keep mosquitoes, midges and black flies off the face and neck.",treated with permethrin,14.99
+TG-8052,Summit Mosquito Head Net,Safety,"Fine no-see-um mesh that fits over a hat to keep mosquitoes, midges and black flies off the face and neck.",with elastic hat band,16.99
+TG-2278,Ridgeline Mosquito Head Net,Safety,"Fine no-see-um mesh that fits over a hat to keep mosquitoes, midges and black flies off the face and neck.","fine mesh, 30 g",21.99
+TG-8803,Juniper Mosquito Head Net,Safety,"Fine no-see-um mesh that fits over a hat to keep mosquitoes, midges and black flies off the face and neck.",wide hoop for brimmed hats,19.99
+TG-7071,Trailhead Mosquito Head Net,Safety,"Fine no-see-um mesh that fits over a hat to keep mosquitoes, midges and black flies off the face and neck.",stuff sack included,11.99
+TG-9502,Trailhead Emergency Bivy,Safety,"Reflective, waterproof survival sack that holds body heat in an unplanned night out.","reusable, 110 g",57.99
+TG-8865,Summit Emergency Bivy,Safety,"Reflective, waterproof survival sack that holds body heat in an unplanned night out.",breathable fabric,46.99
+TG-8767,Juniper Emergency Bivy,Safety,"Reflective, waterproof survival sack that holds body heat in an unplanned night out.","bright orange, whistle",53.99
+TG-6126,Alpine Emergency Bivy,Safety,"Reflective, waterproof survival sack that holds body heat in an unplanned night out.",two person,39.99
+TG-7452,Granite Emergency Bivy,Safety,"Reflective, waterproof survival sack that holds body heat in an unplanned night out.",drawstring hood,22.99
+TG-2755,Ridgeline Bear Canister,Safety,Hard-sided container that keeps food and scented items away from bears and rodents at camp.,"7 litres, clear",146.99
+TG-4144,Summit Bear Canister,Safety,Hard-sided container that keeps food and scented items away from bears and rodents at camp.,11 litres,87.99
+TG-4184,Cedar Bear Canister,Safety,Hard-sided container that keeps food and scented items away from bears and rodents at camp.,"lightweight carbon, 900 g",265.99
+TG-9331,Trailhead Bear Canister,Safety,Hard-sided container that keeps food and scented items away from bears and rodents at camp.,tool-free lid,208.99
+TG-6823,Granite Bear Canister,Safety,Hard-sided container that keeps food and scented items away from bears and rodents at camp.,certified for national parks,212.99
