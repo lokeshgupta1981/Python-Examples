@@ -1,0 +1,7 @@
+.venv/
+__pycache__/
+contract-deadlines.ics
+review.csv
+check-deadlines.ics
+check-review.csv
+results.json

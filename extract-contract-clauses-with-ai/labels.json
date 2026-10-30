@@ -1,0 +1,101 @@
+{
+  "C1": {
+    "parties": [
+      "Tallpine Hosting Inc.",
+      "Harbor Lane Studio LLC"
+    ],
+    "effective_date": "2026-04-01",
+    "term_months": 12,
+    "auto_renews": true,
+    "renewal_months": 12,
+    "notice": [
+      "days",
+      60
+    ],
+    "governing_law": "New York",
+    "term_end": "2027-03-31",
+    "notice_deadline": "2027-01-30"
+  },
+  "C2": {
+    "parties": [
+      "Ledgerwise Accounting Inc.",
+      "Harbor Lane Studio LLC"
+    ],
+    "effective_date": "2026-01-15",
+    "term_months": 18,
+    "auto_renews": true,
+    "renewal_months": 12,
+    "notice": [
+      "days",
+      30
+    ],
+    "governing_law": "Massachusetts",
+    "term_end": "2027-07-14",
+    "notice_deadline": "2027-06-14"
+  },
+  "C3": {
+    "parties": [
+      "Brightway Cleaning Co.",
+      "Harbor Lane Studio LLC"
+    ],
+    "effective_date": "2026-03-09",
+    "term_months": 24,
+    "auto_renews": true,
+    "renewal_months": 12,
+    "notice": [
+      "days",
+      90
+    ],
+    "governing_law": "Illinois",
+    "term_end": "2028-03-08",
+    "notice_deadline": "2027-12-09"
+  },
+  "C4": {
+    "parties": [
+      "Northgate Payroll Inc.",
+      "Harbor Lane Studio LLC"
+    ],
+    "effective_date": "2025-03-01",
+    "term_months": 12,
+    "auto_renews": true,
+    "renewal_months": 12,
+    "notice": [
+      "months",
+      2
+    ],
+    "governing_law": "Colorado",
+    "term_end": "2027-02-28",
+    "notice_deadline": "2026-12-28"
+  },
+  "C5": {
+    "parties": [
+      "Sentry Point Security Inc.",
+      "Harbor Lane Studio LLC"
+    ],
+    "effective_date": "2024-10-01",
+    "term_months": 36,
+    "auto_renews": false,
+    "renewal_months": null,
+    "notice": null,
+    "governing_law": "Ohio",
+    "term_end": "2027-09-30",
+    "notice_deadline": null
+  },
+  "C6": {
+    "parties": [
+      "Redline Print Partners Inc.",
+      "Harbor Lane Studio LLC"
+    ],
+    "effective_date": "2025-07-01",
+    "term_months": 12,
+    "auto_renews": true,
+    "renewal_months": 12,
+    "notice": [
+      "days",
+      30
+    ],
+    "governing_law": "Texas",
+    "term_end": "2027-06-30",
+    "notice_deadline": "2027-05-31"
+  }
+}

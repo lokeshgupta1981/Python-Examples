@@ -1,0 +1,5 @@
+ollama==0.6.3
+pydantic==2.14.1
+pypdf==6.21.2
+icalendar==7.3.0
+fpdf2==2.8.9
