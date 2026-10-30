@@ -1,0 +1,4 @@
+vaderSentiment==3.3.2
+ollama==0.6.3
+pydantic==2.14.1
+scikit-learn==1.9.1

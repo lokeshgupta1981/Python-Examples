@@ -1,0 +1,51 @@
+id,customer,text,sentiment,should_escalate,case
+m01,C01,"Hi, can I change the delivery address on order 48213 before it ships?",neutral,no,
+m02,C02,The desk chairs arrived with two broken wheels. Can you send replacements?,neutral,no,
+m03,C03,Your new reorder button saved me ten minutes this morning. Great job!,positive,no,
+m04,C04,Thanks for all your help over the years. Please cancel our business account at the end of the month.,neutral,yes,polite-cancel
+m05,C05,"Great, another week without the printer paper I paid for. Really loving the service.",negative,yes,sarcasm
+m06,C06,Do you offer invoices with our VAT number on them?,neutral,no,
+m07,C07,WHAT is wrong with you people?! I ordered blue pens and got BLACK ones. Unbelievable!!!,negative,no,angry-small
+m08,C08,"Thank you for the quick refund last week, much appreciated.",positive,no,
+m09,C09,"Our ERP export job hangs after the sync. Do we kill the process and rerun it, or will that create duplicate orders?",neutral,no,technical
+m10,C10,"Third time I'm writing about this. Fine, I'll just cancel.",negative,yes,repeat
+m11,C11,Disappointed that the ergonomic keyboard doesn't work with a Mac. Can I swap it?,negative,no,
+m12,C12,"Another supplier offers us next-day delivery on every order. Unless you can match that, we will move our office orders to them next month.",neutral,yes,polite-cancel
+m13,C13,Annoying: the toner you sent is the wrong model for our printer. How do I return it?,negative,no,
+m14,C14,"Love the recycled notebooks, the whole team uses them now.",positive,no,
+m15,C15,"Order 47720 was never delivered, and you charged us anyway. If it is not refunded by Friday, our lawyer will file a claim.",neutral,yes,legal-calm
+m16,C16,Your delivery driver was rude to our receptionist and dropped the boxes on the floor.,negative,no,
+m17,C17,"I got 'fatal error: connection refused', but it turned out our firewall was blocking it. Sorted now, thanks for the quick reply!",positive,no,technical
+m18,C18,Can I get a quote for 200 whiteboard markers?,neutral,no,
+m19,C19,"Oh wonderful, the 'next-day' delivery took four days. Impressive.",negative,no,sarcasm
+m20,C20,My order is three days late. Where is it?,negative,no,
+m21,C21,We decided to consolidate suppliers. Please close our account after the last open order ships.,neutral,yes,polite-cancel
+m22,C22,The new catalogue looks good. Are the prices valid until December?,positive,no,
+m23,C23,You charged my card twice for order 48530. Please refund the second payment.,negative,no,
+m24,C02,Still no replacement wheels for the chairs. It has been two weeks and my staff are sitting on broken chairs.,negative,yes,repeat
+m25,C25,"Thanks, the replacement stapler works perfectly.",positive,no,
+m26,C26,Seriously?! The sticky notes are a slightly different yellow than last time. Terrible!,negative,no,angry-small
+m27,C27,"We have disputed the charge for order 46102 with our bank, because the goods never arrived.",neutral,yes,
+m28,C28,"After the update, the CSV upload throws 'invalid column: sku'. Is the template different now?",neutral,no,technical
+m29,C29,"Your website keeps logging me out, which is really irritating.",negative,no,
+m30,C30,Thanks so much for losing our order. Our clients will just love the empty shelves on Monday.,negative,yes,sarcasm
+m31,C31,Your support agent solved our billing question in minutes. Brilliant service.,positive,no,
+m32,C32,This is a disaster. Half of our order is missing and we can't open the shop tomorrow without the receipt rolls!,negative,yes,
+m33,C33,I'm asking again: the invoice for September still shows the wrong company name. Please fix it.,negative,yes,repeat
+m34,C34,"The binders arrived dented, not great for a client gift.",negative,no,
+m35,C35,The label printer integration throws 'NullPointerException in PrintQueue' on startup. Logs attached. Any idea?,neutral,no,technical
+m36,C36,"Thank you for many years of good service. We are retiring and won't place further orders, so please cancel the subscription.",neutral,yes,polite-cancel
+m37,C37,Checkout keeps showing 'payment failed' errors although my card works everywhere else. Very frustrating.,negative,no,
+m38,C38,"Happy with the order, everything arrived on time.",positive,no,
+m39,C39,Please treat this email as formal notice under clause 8 of our supply contract. The October deliveries did not meet the agreed delivery times.,neutral,yes,legal-calm
+m40,C40,This is outrageous! The coffee pods came in a different box design!!,negative,no,angry-small
+m41,C08,Could you add a second delivery contact to our account?,neutral,no,
+m42,C42,I am FURIOUS. You sent 40 chairs to the wrong building and nobody answers the phone!,negative,yes,
+m43,C43,Our standing order didn't arrive and the warehouse has no packing tape left. We have stopped shipping until it comes.,neutral,yes,
+m44,C44,What are your opening hours over the holidays?,neutral,no,
+m45,C45,We've decided to move all our purchasing to a local supplier from January. Thanks for everything so far.,neutral,yes,polite-cancel
+m46,C46,"The new delivery tracking page is really useful, thank you.",positive,no,
+m47,C47,Absolutely unacceptable. The printer you sold us broke after a week and your returns form doesn't work!,negative,yes,
+m48,C48,"Your bulk discount should start at 100 units, but the cart applied it at 99. Is that a bug?",neutral,no,technical
+m49,C49,"Great prices this month, we stocked up on paper.",positive,no,
+m50,C12,Any news on matching that delivery offer? We need an answer by Friday.,neutral,yes,repeat
