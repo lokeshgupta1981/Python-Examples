@@ -1,0 +1,71 @@
+[
+  {
+    "type": "message",
+    "subtype": "bot_message",
+    "username": "incident-bot",
+    "text": "Incident declared: SEV-1 API TLS errors",
+    "ts": "1790071680.000400"
+  },
+  {
+    "type": "message",
+    "user": "U03",
+    "text": "browsers say the certificate for api.orderdesk.example has expired",
+    "ts": "1790071770.000500"
+  },
+  {
+    "type": "message",
+    "user": "U01",
+    "text": ":fire: :eyes:",
+    "ts": "1790071860.000600"
+  },
+  {
+    "type": "message",
+    "user": "U03",
+    "text": "NotAfter was 2026-09-22 10:00 UTC",
+    "ts": "1790071960.000700"
+  },
+  {
+    "type": "message",
+    "user": "U01",
+    "text": "is the web-ui deploy from 09:40 related?",
+    "ts": "1790072060.000800"
+  },
+  {
+    "type": "message",
+    "user": "U03",
+    "text": "no, web-ui only serves static files, it never touches the API cert",
+    "ts": "1790072105.000900"
+  },
+  {
+    "type": "message",
+    "user": "U02",
+    "text": "the cert-renewer job has failed every night since 2026-09-08 with a rate limit error from the CA",
+    "ts": "1790072250.001000"
+  },
+  {
+    "type": "message",
+    "user": "U02",
+    "text": "its failures only go to a log file, nothing alerts on them",
+    "ts": "1790072290.001100"
+  },
+  {
+    "type": "message",
+    "subtype": "bot_message",
+    "username": "incident-bot",
+    "text": "Status changed to Mitigated",
+    "ts": "1790072940.001300"
+  },
+  {
+    "type": "message",
+    "user": "U01",
+    "text": "Priya, please add an alert on the renewal job",
+    "ts": "1790073840.001500"
+  },
+  {
+    "type": "message",
+    "subtype": "bot_message",
+    "username": "incident-bot",
+    "text": "Status changed to Resolved",
+    "ts": "1790074230.001600"
+  }
+]

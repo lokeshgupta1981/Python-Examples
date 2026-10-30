@@ -1,0 +1,60 @@
+{
+  "checkout-outage": {
+    "root_cause": "A config change lowered the connection pool from 50 to 5",
+    "keywords": [
+      [
+        "pool"
+      ],
+      [
+        "config",
+        "configuration"
+      ]
+    ]
+  },
+  "cert-expiry": {
+    "root_cause": "A TLS certificate expired because its renewal job kept failing",
+    "keywords": [
+      [
+        "certificate",
+        "cert"
+      ],
+      [
+        "expire",
+        "expired"
+      ],
+      [
+        "renewal",
+        "renew"
+      ]
+    ]
+  },
+  "shipping-provider": {
+    "root_cause": "The external shipping-rates provider ShipFast had an outage",
+    "keywords": [
+      [
+        "shipfast",
+        "provider"
+      ],
+      [
+        "outage",
+        "degraded"
+      ]
+    ]
+  },
+  "disk-full": {
+    "root_cause": "Database logs filled the disk after a host migration",
+    "keywords": [
+      [
+        "log",
+        "logs"
+      ],
+      [
+        "disk"
+      ],
+      [
+        "migration",
+        "migrated"
+      ]
+    ]
+  }
+}

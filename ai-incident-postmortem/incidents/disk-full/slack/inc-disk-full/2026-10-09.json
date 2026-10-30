@@ -1,0 +1,48 @@
+[
+  {
+    "type": "message",
+    "subtype": "bot_message",
+    "username": "incident-bot",
+    "text": "Incident declared: SEV-2 orders-db disk full",
+    "ts": "1791515820.000400"
+  },
+  {
+    "type": "message",
+    "user": "U03",
+    "text": "order writes are failing, the database cannot extend its files",
+    "ts": "1791515970.000500"
+  },
+  {
+    "type": "message",
+    "user": "U03",
+    "text": "the database log folder on db-07 holds 180 GB",
+    "ts": "1791516130.000600"
+  },
+  {
+    "type": "message",
+    "user": "U02",
+    "text": "db-02 had a log rotation job, the migration playbook did not copy it to db-07",
+    "ts": "1791516280.000700"
+  },
+  {
+    "type": "message",
+    "subtype": "channel_join",
+    "user": "U01",
+    "text": "<@U01> has joined the channel",
+    "ts": "1791516300.000800"
+  },
+  {
+    "type": "message",
+    "subtype": "bot_message",
+    "username": "incident-bot",
+    "text": "Status changed to Mitigated",
+    "ts": "1791516840.001000"
+  },
+  {
+    "type": "message",
+    "subtype": "bot_message",
+    "username": "incident-bot",
+    "text": "Status changed to Resolved",
+    "ts": "1791518170.001300"
+  }
+]

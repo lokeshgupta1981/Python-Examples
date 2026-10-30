@@ -1,0 +1,32 @@
+[
+  {
+    "at": "2026-10-14T14:06:40Z",
+    "alert": "CheckoutErrorRateHigh",
+    "event": "triggered",
+    "detail": "checkout 5xx rate 38% (threshold 5%)"
+  },
+  {
+    "at": "2026-10-14T14:07:15Z",
+    "alert": "CheckoutLatencyHigh",
+    "event": "triggered",
+    "detail": "checkout p99 latency 12.4s (threshold 2s)"
+  },
+  {
+    "at": "2026-10-14T14:09:02Z",
+    "alert": "CheckoutErrorRateHigh",
+    "event": "acknowledged",
+    "detail": "acknowledged in the pager app"
+  },
+  {
+    "at": "2026-10-14T14:41:12Z",
+    "alert": "CheckoutLatencyHigh",
+    "event": "resolved",
+    "detail": "checkout p99 latency 0.8s"
+  },
+  {
+    "at": "2026-10-14T14:46:03Z",
+    "alert": "CheckoutErrorRateHigh",
+    "event": "resolved",
+    "detail": "checkout 5xx rate 0.4%"
+  }
+]

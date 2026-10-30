@@ -1,0 +1,65 @@
+[
+  {
+    "type": "message",
+    "subtype": "bot_message",
+    "username": "incident-bot",
+    "text": "Incident declared: SEV-2 slow checkout",
+    "ts": "1791044020.000400"
+  },
+  {
+    "type": "message",
+    "user": "U03",
+    "text": "traces show checkout waiting on the ShipFast /rates call, 30 s timeouts",
+    "ts": "1791044100.000500"
+  },
+  {
+    "type": "message",
+    "user": "U01",
+    "text": "did the 15:52 checkout-api deploy change anything there?",
+    "ts": "1791044240.000600"
+  },
+  {
+    "type": "message",
+    "user": "U02",
+    "text": "no, 7.12.0 only changed the coupon code path",
+    "ts": "1791044350.000700"
+  },
+  {
+    "type": "message",
+    "user": "U03",
+    "text": "the ShipFast status page says degraded performance on the rates API",
+    "ts": "1791044560.000800"
+  },
+  {
+    "type": "message",
+    "user": "U01",
+    "text": "+1",
+    "ts": "1791044640.000900"
+  },
+  {
+    "type": "message",
+    "user": "U01",
+    "text": "let's turn on the flat-rate shipping fallback",
+    "ts": "1791044790.001000"
+  },
+  {
+    "type": "message",
+    "subtype": "bot_message",
+    "username": "incident-bot",
+    "text": "Status changed to Mitigated",
+    "ts": "1791045180.001200"
+  },
+  {
+    "type": "message",
+    "user": "U03",
+    "text": "ShipFast reports full recovery, turning the fallback off",
+    "ts": "1791048010.001400"
+  },
+  {
+    "type": "message",
+    "subtype": "bot_message",
+    "username": "incident-bot",
+    "text": "Status changed to Resolved",
+    "ts": "1791048300.001600"
+  }
+]

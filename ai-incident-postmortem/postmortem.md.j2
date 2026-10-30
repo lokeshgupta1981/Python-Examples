@@ -1,0 +1,45 @@
+# Postmortem draft: {{ name }} ({{ facts.date }})
+
+Status: DRAFT for review. Prose by {{ model }}, timeline and facts by code.
+
+## Summary
+
+{{ n.summary }}
+
+## Impact
+
+{{ n.impact }}
+
+- Impact: {{ facts.impact_start }} to {{ facts.impact_end }} UTC ({{ facts.impact_minutes }} minutes)
+- Customers affected: ____ (fill in)
+
+## Timeline (UTC, built by code)
+
+| Id | Time | Source | Event |
+|---|---|---|---|
+{% for e in events -%}
+| {{ e.id }} | {{ e.hhmm }} | {{ e.source }} | {% if e.kind == "chat" %}{{ e.user }}: {% endif %}{{ e.text }} |
+{% endfor %}
+## Root Cause
+
+{{ n.root_cause }}
+
+## Contributing Factors
+
+{% for f in n.contributing_factors -%}
+- {{ f }}
+{% endfor %}
+## Action Items
+
+| Action | Owner role | Priority |
+|---|---|---|
+{% for a in n.action_items -%}
+| {{ a.action }} | {{ a.owner_role }} | {{ a.priority }} |
+{% endfor %}
+## Review Flags
+
+{% for f in flags -%}
+- {{ f }}
+{% else -%}
+- none
+{% endfor %}

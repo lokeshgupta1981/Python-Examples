@@ -1,0 +1,4 @@
+results/
+__pycache__/
+.venv/
+incidents/*/postmortem-draft.md

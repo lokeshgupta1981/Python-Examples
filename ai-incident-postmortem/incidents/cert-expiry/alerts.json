@@ -1,0 +1,20 @@
+[
+  {
+    "at": "2026-09-22T10:03:25Z",
+    "alert": "ApiTlsHandshakeErrors",
+    "event": "triggered",
+    "detail": "TLS handshake failures 64% on api.orderdesk.example (threshold 2%)"
+  },
+  {
+    "at": "2026-09-22T10:07:10Z",
+    "alert": "ApiTlsHandshakeErrors",
+    "event": "acknowledged",
+    "detail": "acknowledged in the pager app"
+  },
+  {
+    "at": "2026-09-22T10:30:02Z",
+    "alert": "ApiTlsHandshakeErrors",
+    "event": "resolved",
+    "detail": "TLS handshake failures 0%"
+  }
+]

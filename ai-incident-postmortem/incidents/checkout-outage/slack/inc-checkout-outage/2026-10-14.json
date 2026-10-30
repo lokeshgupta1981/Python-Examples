@@ -1,0 +1,121 @@
+[
+  {
+    "type": "message",
+    "subtype": "bot_message",
+    "username": "incident-bot",
+    "text": "Incident declared: SEV-1 checkout errors",
+    "ts": "1791987005.000600"
+  },
+  {
+    "type": "message",
+    "subtype": "channel_join",
+    "user": "U04",
+    "text": "<@U04> has joined the channel",
+    "ts": "1791987020.000700"
+  },
+  {
+    "type": "message",
+    "user": "U01",
+    "text": "I'm IC. Checkout 5xx at 38%, opening a bridge",
+    "ts": "1791987040.000800"
+  },
+  {
+    "type": "message",
+    "user": "U04",
+    "text": "support has 30 tickets about failed payments so far",
+    "ts": "1791987090.000900"
+  },
+  {
+    "type": "message",
+    "user": "U03",
+    "text": ":eyes:",
+    "ts": "1791987105.001000"
+  },
+  {
+    "type": "message",
+    "user": "U03",
+    "text": "checkout-api logs are full of 'timeout waiting for connection from pool'",
+    "ts": "1791987130.001100"
+  },
+  {
+    "type": "message",
+    "user": "U03",
+    "text": "the database itself looks healthy, CPU at 22%",
+    "ts": "1791987180.001200"
+  },
+  {
+    "type": "message",
+    "user": "U01",
+    "text": "search-api deployed at 13:48, could that be it? search team, please check",
+    "ts": "1791987310.001300"
+  },
+  {
+    "type": "message",
+    "subtype": "channel_join",
+    "user": "U05",
+    "text": "<@U05> has joined the channel",
+    "ts": "1791987330.001400"
+  },
+  {
+    "type": "message",
+    "user": "U01",
+    "text": "+1",
+    "ts": "1791987780.001600"
+  },
+  {
+    "type": "message",
+    "user": "U03",
+    "text": "found it: db.pool.max_size went from 50 to 5 in the 14:02 config change",
+    "ts": "1791987965.001700"
+  },
+  {
+    "type": "message",
+    "user": "U01",
+    "text": "Marco forgot to check the prod value, classic",
+    "ts": "1791988040.001800"
+  },
+  {
+    "type": "message",
+    "user": "U02",
+    "text": "reverting the pool size now",
+    "ts": "1791988080.001900"
+  },
+  {
+    "type": "message",
+    "user": "U02",
+    "text": "old config for reference: db_password=Ch3ckout!2024 pool=50",
+    "ts": "1791988150.002000"
+  },
+  {
+    "type": "message",
+    "subtype": "bot_message",
+    "username": "incident-bot",
+    "text": "Status changed to Mitigated",
+    "ts": "1791988380.002200"
+  },
+  {
+    "type": "message",
+    "user": "U03",
+    "text": "5xx down to 2%, latency recovering",
+    "ts": "1791988550.002300"
+  },
+  {
+    "type": "message",
+    "user": "U04",
+    "text": "ticket volume is back to normal",
+    "ts": "1791989430.002600"
+  },
+  {
+    "type": "message",
+    "user": "U01",
+    "text": "closing the incident, the backend team owns the postmortem",
+    "ts": "1791990300.002700"
+  },
+  {
+    "type": "message",
+    "subtype": "bot_message",
+    "username": "incident-bot",
+    "text": "Status changed to Resolved",
+    "ts": "1791990320.002800"
+  }
+]

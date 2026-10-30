@@ -1,0 +1,20 @@
+[
+  {
+    "at": "2026-10-03T16:10:20Z",
+    "alert": "CheckoutLatencyHigh",
+    "event": "triggered",
+    "detail": "checkout p99 latency 31.2s (threshold 2s)"
+  },
+  {
+    "at": "2026-10-03T16:13:05Z",
+    "alert": "CheckoutLatencyHigh",
+    "event": "acknowledged",
+    "detail": "acknowledged in the pager app"
+  },
+  {
+    "at": "2026-10-03T16:35:40Z",
+    "alert": "CheckoutLatencyHigh",
+    "event": "resolved",
+    "detail": "checkout p99 latency 0.9s"
+  }
+]
