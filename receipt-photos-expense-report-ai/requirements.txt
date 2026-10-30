@@ -1,0 +1,8 @@
+ollama==0.6.3
+pydantic==2.13.5
+pytesseract==0.3.13
+pillow==12.3.0
+pandas==3.0.5
+reportlab==5.0.1
+PyYAML==6.0.3
+Faker==40.44.0

@@ -1,0 +1,10 @@
+currencies: # fixed sample rates to EUR, set by finance for the month
+  EUR: 1.00
+  GBP: 1.17
+  USD: 0.86
+limits:
+  meals_per_day: 75.00
+  lodging_per_receipt: 180.00
+  transport_per_receipt: 100.00
+  supplies_per_receipt: 50.00
+weekend_allowed: [transport, lodging]
