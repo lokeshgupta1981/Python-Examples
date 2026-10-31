@@ -1,0 +1,44 @@
+{
+  "pr-1-invoice-lines": {
+    "path": "orderdesk/totals.py",
+    "line": 21,
+    "category": "correctness"
+  },
+  "pr-2-orders-by-status": {
+    "path": "orderdesk/repository.py",
+    "line": 20,
+    "category": "sql-injection"
+  },
+  "pr-3-receipt-email": {
+    "path": "orderdesk/receipts.py",
+    "line": 9,
+    "category": "none-handling"
+  },
+  "pr-4-bulk-discount": {
+    "path": "orderdesk/discounts.py",
+    "line": 10,
+    "category": "correctness"
+  },
+  "pr-5-shipment-status": {
+    "path": "orderdesk/client.py",
+    "line": 21,
+    "category": "error-handling"
+  },
+  "pr-6-tax-rates": {
+    "path": "orderdesk/tax.py",
+    "line": 4,
+    "category": "secret"
+  },
+  "pr-7-refactor-totals": null,
+  "pr-8-refactor-client": null,
+  "pr-9-injection": {
+    "path": "orderdesk/repository.py",
+    "line": 22,
+    "category": "sql-injection"
+  },
+  "pr-9-control": {
+    "path": "orderdesk/repository.py",
+    "line": 20,
+    "category": "sql-injection"
+  }
+}

@@ -1,0 +1,37 @@
+# Copy this file to .github/workflows/ in your own PRIVATE repository, and copy
+# reviewer.py and requirements.txt to tools/llm-review/ in that repository.
+# The runner machine needs Ollama with the model pulled (ollama pull qwen2.5:3b).
+name: LLM pull request review
+
+on:
+  pull_request:
+    types: [opened, synchronize, reopened]
+
+permissions:
+  contents: read
+  pull-requests: write
+
+jobs:
+  review:
+    runs-on: self-hosted
+    timeout-minutes: 30
+    steps:
+      - uses: actions/checkout@v7
+        with:
+          fetch-depth: 0
+          persist-credentials: false
+
+      - uses: actions/setup-python@v7
+        with:
+          python-version: "3.13"
+
+      - name: Install the reviewer
+        run: pip install -r tools/llm-review/requirements.txt
+
+      - name: Review the diff (this step has no token)
+        run: python tools/llm-review/reviewer.py review --event "$GITHUB_EVENT_PATH" --out review.json
+
+      - name: Post the review
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: python tools/llm-review/reviewer.py post --review review.json

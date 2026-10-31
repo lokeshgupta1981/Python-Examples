@@ -1,0 +1,5 @@
+ollama==0.6.3
+unidiff==1.0.1
+pydantic==2.14.2
+requests==2.34.2
+pytest==9.2.0

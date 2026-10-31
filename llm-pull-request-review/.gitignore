@@ -1,0 +1,4 @@
+orderdesk-lite/
+__pycache__/
+.pytest_cache/
+review.json
