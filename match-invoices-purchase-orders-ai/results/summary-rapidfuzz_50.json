@@ -1,0 +1,18 @@
+{
+  "config": "rapidfuzz:50",
+  "invoices": 40,
+  "correct_decisions": 37,
+  "exact_codes": 37,
+  "false_approvals": [
+    "case-21.json",
+    "case-25.json",
+    "case-30.json"
+  ],
+  "false_holds": [],
+  "lines_without_code": 27,
+  "lines_paired_correctly": 24,
+  "model_calls": 0,
+  "invalid_model_answers": 0,
+  "pairing_model_seconds": 0.0,
+  "run_seconds": 0.0
+}

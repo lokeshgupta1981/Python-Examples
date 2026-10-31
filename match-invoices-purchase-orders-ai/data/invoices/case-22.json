@@ -1,0 +1,30 @@
+{
+  "vendor_name": "Davis and Sons",
+  "invoice_number": "INV-7196",
+  "invoice_date": "2026-10-25",
+  "po_number": "PO-24021",
+  "currency": "USD",
+  "line_items": [
+    {
+      "line_no": 1,
+      "item_code": "TN-410A-K",
+      "description": "410A black LaserJet toner",
+      "quantity": 4,
+      "unit": "each",
+      "unit_price": 96.0,
+      "amount": 384.0
+    },
+    {
+      "line_no": 2,
+      "item_code": "NB-A5",
+      "description": "Ruled A5 notebooks (10)",
+      "quantity": 20,
+      "unit": "pack",
+      "unit_price": 18.6,
+      "amount": 372.0
+    }
+  ],
+  "subtotal": 756.0,
+  "tax": 60.48,
+  "total": 816.48
+}

@@ -1,0 +1,30 @@
+{
+  "vendor_name": "Rodriguez, Figueroa and Sanchez",
+  "invoice_number": "INV-7126",
+  "invoice_date": "2026-10-04",
+  "po_number": "PO-24006",
+  "currency": "USD",
+  "line_items": [
+    {
+      "line_no": 1,
+      "item_code": "WIPE-100",
+      "description": "Monitor wipes, tub of 100",
+      "quantity": 20,
+      "unit": "each",
+      "unit_price": 5.4,
+      "amount": 108.0
+    },
+    {
+      "line_no": 2,
+      "item_code": "TN-26A",
+      "description": "Black toner cartridge 26A (pack of 2)",
+      "quantity": 5,
+      "unit": "pack",
+      "unit_price": 164.0,
+      "amount": 820.0
+    }
+  ],
+  "subtotal": 928.0,
+  "tax": 74.24,
+  "total": 1002.24
+}

@@ -1,0 +1,112 @@
+po_line_id,po_number,sku,description,unit,quantity,unit_price
+PO-24001-1,PO-24001,STP-HD,"Stapler, heavy duty",each,10,21.40
+PO-24001-2,PO-24001,WIPE-100,"Screen cleaning wipes, tub of 100",each,5,5.40
+PO-24002-1,PO-24002,TN-410A-K,Toner 410A Black,each,10,96.00
+PO-24002-2,PO-24002,HDMI-2M,HDMI cable 2 m,each,4,7.90
+PO-24002-3,PO-24002,MON-24,Monitor 24 inch IPS,each,12,139.00
+PO-24002-4,PO-24002,STP-HD,"Stapler, heavy duty",each,2,21.40
+PO-24003-1,PO-24003,WIPE-100,"Screen cleaning wipes, tub of 100",each,20,5.40
+PO-24003-2,PO-24003,BAT-AA-24,"Batteries AA alkaline, 24-pack",pack,2,15.80
+PO-24004-1,PO-24004,STP-HD,"Stapler, heavy duty",each,5,21.40
+PO-24004-2,PO-24004,BAT-AA-24,"Batteries AA alkaline, 24-pack",pack,12,15.80
+PO-24004-3,PO-24004,HDMI-2M,HDMI cable 2 m,each,12,7.90
+PO-24005-1,PO-24005,PEN-BLK-50,"Ballpoint pen black, box of 50",box,4,12.90
+PO-24005-2,PO-24005,CHR-ERG,Ergonomic office chair,each,6,189.00
+PO-24005-3,PO-24005,MOU-WL,Wireless mouse,each,6,14.50
+PO-24005-4,PO-24005,BAT-AA-24,"Batteries AA alkaline, 24-pack",pack,5,15.80
+PO-24006-1,PO-24006,WIPE-100,"Screen cleaning wipes, tub of 100",each,20,5.40
+PO-24006-2,PO-24006,TN-26A,"Toner 26A Black, 2-pack",pack,5,164.00
+PO-24007-1,PO-24007,MOU-WL,Wireless mouse,each,6,14.50
+PO-24007-2,PO-24007,STP-HD,"Stapler, heavy duty",each,6,21.40
+PO-24007-3,PO-24007,BAT-AA-24,"Batteries AA alkaline, 24-pack",pack,12,15.80
+PO-24007-4,PO-24007,HDMI-2M,HDMI cable 2 m,each,6,7.90
+PO-24008-1,PO-24008,STP-HD,"Stapler, heavy duty",each,10,21.40
+PO-24008-2,PO-24008,BAT-AA-24,"Batteries AA alkaline, 24-pack",pack,6,15.80
+PO-24008-3,PO-24008,PEN-BLK-50,"Ballpoint pen black, box of 50",box,2,12.90
+PO-24009-1,PO-24009,PEN-BLK-50,"Ballpoint pen black, box of 50",box,10,12.90
+PO-24009-2,PO-24009,WBM-4,"Whiteboard markers, assorted 4-pack",pack,2,6.80
+PO-24009-3,PO-24009,HDMI-2M,HDMI cable 2 m,each,6,7.90
+PO-24009-4,PO-24009,ENV-C4,"Envelopes C4 white, box of 250",box,6,31.20
+PO-24010-1,PO-24010,HDMI-2M,HDMI cable 2 m,each,2,7.90
+PO-24010-2,PO-24010,MOU-WL,Wireless mouse,each,12,14.50
+PO-24011-1,PO-24011,PEN-BLK-50,"Ballpoint pen black, box of 50",box,12,12.90
+PO-24011-2,PO-24011,NB-A5,"Notebook A5 ruled, pack of 10",pack,12,18.60
+PO-24011-3,PO-24011,TN-26A,"Toner 26A Black, 2-pack",pack,5,164.00
+PO-24012-1,PO-24012,MON-24,Monitor 24 inch IPS,each,20,139.00
+PO-24012-2,PO-24012,BAT-AA-24,"Batteries AA alkaline, 24-pack",pack,4,15.80
+PO-24012-3,PO-24012,PEN-BLK-50,"Ballpoint pen black, box of 50",box,10,12.90
+PO-24012-4,PO-24012,STP-HD,"Stapler, heavy duty",each,20,21.40
+PO-24013-1,PO-24013,PAP-A4-80,"Copy paper A4 80gsm, box of 5 reams",box,20,27.50
+PO-24013-2,PO-24013,STP-HD,"Stapler, heavy duty",each,20,21.40
+PO-24014-1,PO-24014,NB-A5,"Notebook A5 ruled, pack of 10",pack,4,18.60
+PO-24014-2,PO-24014,PAP-A4-80,"Copy paper A4 80gsm, box of 5 reams",box,12,27.50
+PO-24014-3,PO-24014,CHR-ERG,Ergonomic office chair,each,6,189.00
+PO-24014-4,PO-24014,PEN-BLK-50,"Ballpoint pen black, box of 50",box,10,12.90
+PO-24015-1,PO-24015,BAT-AA-24,"Batteries AA alkaline, 24-pack",pack,12,15.80
+PO-24015-2,PO-24015,CHR-ERG,Ergonomic office chair,each,4,189.00
+PO-24015-3,PO-24015,MOU-WL,Wireless mouse,each,12,14.50
+PO-24016-1,PO-24016,STP-HD,"Stapler, heavy duty",each,2,21.40
+PO-24016-2,PO-24016,NB-A5,"Notebook A5 ruled, pack of 10",pack,4,18.60
+PO-24016-3,PO-24016,CHR-ERG,Ergonomic office chair,each,4,189.00
+PO-24016-4,PO-24016,WBM-4,"Whiteboard markers, assorted 4-pack",pack,2,6.80
+PO-24017-1,PO-24017,BAT-AA-24,"Batteries AA alkaline, 24-pack",pack,2,15.80
+PO-24017-2,PO-24017,TN-26A,"Toner 26A Black, 2-pack",pack,4,164.00
+PO-24017-3,PO-24017,PAP-A4-80,"Copy paper A4 80gsm, box of 5 reams",box,2,27.50
+PO-24017-4,PO-24017,HDMI-2M,HDMI cable 2 m,each,2,7.90
+PO-24018-1,PO-24018,TN-410A-K,Toner 410A Black,each,6,96.00
+PO-24018-2,PO-24018,HDMI-2M,HDMI cable 2 m,each,4,7.90
+PO-24019-1,PO-24019,WBM-4,"Whiteboard markers, assorted 4-pack",pack,2,6.80
+PO-24019-2,PO-24019,ENV-C4,"Envelopes C4 white, box of 250",box,2,31.20
+PO-24019-3,PO-24019,BAT-AA-24,"Batteries AA alkaline, 24-pack",pack,12,15.80
+PO-24020-1,PO-24020,TN-410A-K,Toner 410A Black,each,20,96.00
+PO-24020-2,PO-24020,MON-24,Monitor 24 inch IPS,each,20,139.00
+PO-24020-3,PO-24020,CHR-ERG,Ergonomic office chair,each,2,189.00
+PO-24021-1,PO-24021,TN-410A-K,Toner 410A Black,each,4,96.00
+PO-24021-2,PO-24021,NB-A5,"Notebook A5 ruled, pack of 10",pack,20,18.60
+PO-24022-1,PO-24022,TN-26A,"Toner 26A Black, 2-pack",pack,10,164.00
+PO-24022-2,PO-24022,HDMI-2M,HDMI cable 2 m,each,20,7.90
+PO-24023-1,PO-24023,NB-A5,"Notebook A5 ruled, pack of 10",pack,2,18.60
+PO-24023-2,PO-24023,BAT-AA-24,"Batteries AA alkaline, 24-pack",pack,4,15.80
+PO-24023-3,PO-24023,ENV-C4,"Envelopes C4 white, box of 250",box,6,31.20
+PO-24024-1,PO-24024,BAT-AA-24,"Batteries AA alkaline, 24-pack",pack,4,15.80
+PO-24024-2,PO-24024,MOU-WL,Wireless mouse,each,4,14.50
+PO-24024-3,PO-24024,HDMI-2M,HDMI cable 2 m,each,5,7.90
+PO-24025-1,PO-24025,STP-HD,"Stapler, heavy duty",each,6,21.40
+PO-24025-2,PO-24025,TN-26A,"Toner 26A Black, 2-pack",pack,10,164.00
+PO-24025-3,PO-24025,WBM-4,"Whiteboard markers, assorted 4-pack",pack,20,6.80
+PO-24025-4,PO-24025,MON-24,Monitor 24 inch IPS,each,10,139.00
+PO-24026-1,PO-24026,ENV-C4,"Envelopes C4 white, box of 250",box,10,31.20
+PO-24026-2,PO-24026,PAP-A4-80,"Copy paper A4 80gsm, box of 5 reams",box,4,27.50
+PO-24027-1,PO-24027,MON-24,Monitor 24 inch IPS,each,4,139.00
+PO-24027-2,PO-24027,CHR-ERG,Ergonomic office chair,each,12,189.00
+PO-24027-3,PO-24027,STP-HD,"Stapler, heavy duty",each,12,21.40
+PO-24027-4,PO-24027,TN-410A-K,Toner 410A Black,each,5,96.00
+PO-24028-1,PO-24028,PEN-BLK-50,"Ballpoint pen black, box of 50",box,2,12.90
+PO-24028-2,PO-24028,CHR-ERG,Ergonomic office chair,each,6,189.00
+PO-24028-3,PO-24028,PAP-A4-80,"Copy paper A4 80gsm, box of 5 reams",box,10,27.50
+PO-24029-1,PO-24029,PEN-BLK-50,"Ballpoint pen black, box of 50",box,4,12.90
+PO-24029-2,PO-24029,STP-HD,"Stapler, heavy duty",each,5,21.40
+PO-24029-3,PO-24029,PAP-A4-80,"Copy paper A4 80gsm, box of 5 reams",box,5,27.50
+PO-24030-1,PO-24030,MON-24,Monitor 24 inch IPS,each,10,139.00
+PO-24030-2,PO-24030,WBM-4,"Whiteboard markers, assorted 4-pack",pack,2,6.80
+PO-24030-3,PO-24030,HDMI-2M,HDMI cable 2 m,each,12,7.90
+PO-24031-1,PO-24031,PAP-A4-80,"Copy paper A4 80gsm, box of 5 reams",box,10,27.50
+PO-24031-2,PO-24031,WIPE-100,"Screen cleaning wipes, tub of 100",each,4,5.40
+PO-24031-3,PO-24031,MOU-WL,Wireless mouse,each,5,14.50
+PO-24032-1,PO-24032,BAT-AA-24,"Batteries AA alkaline, 24-pack",pack,20,15.80
+PO-24032-2,PO-24032,HDMI-2M,HDMI cable 2 m,each,5,7.90
+PO-24032-3,PO-24032,WBM-4,"Whiteboard markers, assorted 4-pack",pack,10,6.80
+PO-24033-1,PO-24033,HDMI-2M,HDMI cable 2 m,each,20,7.90
+PO-24033-2,PO-24033,ENV-C4,"Envelopes C4 white, box of 250",box,5,31.20
+PO-24034-1,PO-24034,HDMI-2M,HDMI cable 2 m,each,4,7.90
+PO-24034-2,PO-24034,TN-410A-K,Toner 410A Black,each,12,96.00
+PO-24035-1,PO-24035,MOU-WL,Wireless mouse,each,10,14.50
+PO-24035-2,PO-24035,PEN-BLK-50,"Ballpoint pen black, box of 50",box,2,12.90
+PO-24036-1,PO-24036,STP-HD,"Stapler, heavy duty",each,5,21.40
+PO-24036-2,PO-24036,WBM-4,"Whiteboard markers, assorted 4-pack",pack,4,6.80
+PO-24036-3,PO-24036,TN-26A,"Toner 26A Black, 2-pack",pack,12,164.00
+PO-24037-1,PO-24037,MON-24,Monitor 24 inch IPS,each,4,139.00
+PO-24037-2,PO-24037,MOU-WL,Wireless mouse,each,20,14.50
+PO-24037-3,PO-24037,PEN-BLK-50,"Ballpoint pen black, box of 50",box,4,12.90
+PO-24038-1,PO-24038,MOU-WL,Wireless mouse,each,20,14.50
+PO-24038-2,PO-24038,STP-HD,"Stapler, heavy duty",each,6,21.40

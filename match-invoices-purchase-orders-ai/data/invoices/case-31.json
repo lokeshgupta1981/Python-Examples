@@ -1,0 +1,39 @@
+{
+  "vendor_name": "Guzman, Hoffman and Baldwin",
+  "invoice_number": "INV-7241",
+  "invoice_date": "2026-10-03",
+  "po_number": "PO-24029",
+  "currency": "USD",
+  "line_items": [
+    {
+      "line_no": 1,
+      "item_code": "PEN-BLK-50",
+      "description": "Black ballpoint pens (50 pcs)",
+      "quantity": 4,
+      "unit": "box",
+      "unit_price": 12.9,
+      "amount": 51.6
+    },
+    {
+      "line_no": 2,
+      "item_code": "STP-HD",
+      "description": "Heavy-duty desk stapler",
+      "quantity": 5,
+      "unit": "each",
+      "unit_price": 21.4,
+      "amount": 107.0
+    },
+    {
+      "line_no": 3,
+      "item_code": "PAP-A4-80",
+      "description": "A4 multipurpose paper 80 g/m2, 5 x 500 sheets",
+      "quantity": 5,
+      "unit": "box",
+      "unit_price": 27.5,
+      "amount": 137.5
+    }
+  ],
+  "subtotal": 296.1,
+  "tax": 23.69,
+  "total": 319.79
+}

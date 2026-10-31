@@ -1,0 +1,30 @@
+{
+  "vendor_name": "Rodriguez, Figueroa and Sanchez",
+  "invoice_number": "INV-7263",
+  "invoice_date": "2026-10-08",
+  "po_number": "PO-24035",
+  "currency": "USD",
+  "line_items": [
+    {
+      "line_no": 1,
+      "item_code": null,
+      "description": "Cordless optical mouse",
+      "quantity": 10,
+      "unit": "each",
+      "unit_price": 14.5,
+      "amount": 145.0
+    },
+    {
+      "line_no": 2,
+      "item_code": null,
+      "description": "Black ballpoint pens (50 pcs)",
+      "quantity": 2,
+      "unit": "box",
+      "unit_price": 12.9,
+      "amount": 25.8
+    }
+  ],
+  "subtotal": 170.8,
+  "tax": 13.66,
+  "total": 184.46
+}

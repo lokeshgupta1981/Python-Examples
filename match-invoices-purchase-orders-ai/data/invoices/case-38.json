@@ -1,0 +1,39 @@
+{
+  "vendor_name": "Rodriguez, Figueroa and Sanchez",
+  "invoice_number": "INV-7266",
+  "invoice_date": "2026-10-28",
+  "po_number": "PO-24036",
+  "currency": "USD",
+  "line_items": [
+    {
+      "line_no": 1,
+      "item_code": "STP-HD",
+      "description": "Heavy-duty desk stapler",
+      "quantity": 4,
+      "unit": "each",
+      "unit_price": 21.4,
+      "amount": 85.6
+    },
+    {
+      "line_no": 2,
+      "item_code": "WBM-4",
+      "description": "Dry-erase markers x4, assorted colours",
+      "quantity": 4,
+      "unit": "pack",
+      "unit_price": 6.8,
+      "amount": 27.2
+    },
+    {
+      "line_no": 3,
+      "item_code": "TN-26A",
+      "description": "Black toner cartridge 26A (pack of 2)",
+      "quantity": 12,
+      "unit": "pack",
+      "unit_price": 164.0,
+      "amount": 1968.0
+    }
+  ],
+  "subtotal": 2080.8,
+  "tax": 166.46,
+  "total": 2247.26
+}

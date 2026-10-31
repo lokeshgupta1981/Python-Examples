@@ -1,0 +1,48 @@
+{
+  "vendor_name": "Guzman, Hoffman and Baldwin",
+  "invoice_number": "INV-7120",
+  "invoice_date": "2026-10-10",
+  "po_number": "PO-240051",
+  "currency": "USD",
+  "line_items": [
+    {
+      "line_no": 1,
+      "item_code": "PEN-BLK-50",
+      "description": "Black ballpoint pens (50 pcs)",
+      "quantity": 4,
+      "unit": "box",
+      "unit_price": 12.9,
+      "amount": 51.6
+    },
+    {
+      "line_no": 2,
+      "item_code": "CHR-ERG",
+      "description": "Office chair, ergonomic mesh back",
+      "quantity": 6,
+      "unit": "each",
+      "unit_price": 189.0,
+      "amount": 1134.0
+    },
+    {
+      "line_no": 3,
+      "item_code": "MOU-WL",
+      "description": "Cordless optical mouse",
+      "quantity": 6,
+      "unit": "each",
+      "unit_price": 14.5,
+      "amount": 87.0
+    },
+    {
+      "line_no": 4,
+      "item_code": "BAT-AA-24",
+      "description": "Alkaline AA cells x24",
+      "quantity": 5,
+      "unit": "pack",
+      "unit_price": 15.8,
+      "amount": 79.0
+    }
+  ],
+  "subtotal": 1351.6,
+  "tax": 108.13,
+  "total": 1459.73
+}

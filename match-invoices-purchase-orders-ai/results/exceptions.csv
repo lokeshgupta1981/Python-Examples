@@ -1,0 +1,43 @@
+invoice_file,invoice_number,codes,details,explanation
+case-02.json,INV-7108,PO_NOT_FOUND,no purchase order PO-240021,"What is wrong: The PO_NOT_FOUND exception indicates that there is no purchase order with the number PO-240021.
+What the clerk should check: Verify if there was a mistake in the invoice number or if the purchase order was not properly created or entered."
+case-04.json,INV-7118,NO_RECEIPT,no goods receipt for PO-24004,"What is wrong: There is no goods receipt for the purchase order PO-24004.
+What the clerk should check: Verify if a goods receipt has been received for PO-24004."
+case-05.json,INV-7120,PO_NOT_FOUND,no purchase order PO-240051,"What is wrong: The PO_NOT_FOUND exception indicates that there is no purchase order with the number PO-240051.
+What the clerk should check: Verify if there was a mistake in the invoice number or if the purchase order was not created as expected."
+case-06.json,INV-7126,QTY_OVER_RECEIVED,"billed 5, received 3","What is wrong: Quantity received (3) exceeds the quantity billed (5) on line 2.
+What the clerk should check: Verify if there was any error in the receiving process or if a correction is needed for the quantity discrepancy."
+case-07.json,INV-7128,UNMATCHED_LINE;UNMATCHED_LINE,'Cordless optical mouse': no PO line suggested | '2m HDMI lead': no PO line suggested,"What is wrong: The invoice contains unmatched lines for 'Cordless optical mouse' and '2m HDMI lead', as no PO line suggests these items.
+What the clerk should check: Verify if there is a PO line for 'Cordless optical mouse' and '2m HDMI lead' in the system or if these items are indeed needed for the purchase order."
+case-09.json,INV-7137,PRICE_VARIANCE,unit price 34.94 vs PO 31.20 (max 31.82),"What is wrong: The unit price on line 4 of the invoice (34.94 USD) exceeds the maximum price allowed in the Purchase Order (PO) (31.20 USD, max 31.82 USD).
+What the clerk should check: Verify if the unit price on line 4 is correct and ensure it does not exceed the maximum price specified in the PO."
+case-10.json,INV-7142,QTY_OVER_RECEIVED,"billed 12, received 10","What is wrong: Quantity received (10) exceeds the quantity billed (12) on line 2.
+What the clerk should check: Verify if there was any error in the receiving process or if a return needs to be processed for the excess quantity."
+case-11.json,INV-7144,PRICE_VARIANCE,unit price 183.68 vs PO 164.00 (max 167.28),"What is wrong: The unit price of line 3 is 183.68 USD, which exceeds the maximum allowed price of 167.28 USD as specified in the PRICE_VARIANCE rule.
+What the clerk should check: Verify if there are any approved price variances for line 3 that justify the higher unit price of 183.68 USD."
+case-13.json,INV-7155,UNMATCHED_LINE,"'A4 multipurpose paper 80 g/m2, 5 x 500 sheets': no PO line suggested","What is wrong: The invoice line 'A4 multipurpose paper 80 g/m2, 5 x 500 sheets' does not have a corresponding purchase order line, which is flagged as an exception.
+What the clerk should check: Verify if there is a purchase order line that matches the description of 'A4 multipurpose paper 80 g/m2, 5 x 500 sheets' and ensure it is"
+case-16.json,INV-7173,PRICE_VARIANCE,unit price 198.45 vs PO 189.00 (max 192.78),"What is wrong: The unit price on line 3 of the invoice (198.45 USD) exceeds the maximum allowed price (192.78 USD) as per the purchase order.
+What the clerk should check: Verify if there are any special pricing exceptions or if the unit price needs to be adjusted to comply with the maximum allowed price."
+case-18.json,INV-7184,PRICE_VARIANCE,unit price 107.52 vs PO 96.00 (max 97.92),"What is wrong: The unit price for line 1 of the invoice (107.52 USD) exceeds the maximum allowed price (97.92 USD) as per the Purchase Order.
+What the clerk should check: Verify if there are any approved price variances or exceptions for this specific item that might justify the higher price."
+case-19.json,INV-7192,UNMATCHED_LINE,"'Dry-erase markers x4, assorted colours': no PO line suggested","What is wrong: The invoice line 'Dry-erase markers x4, assorted colours' does not have a corresponding line in the Purchase Order (PO) PO-24019.
+What the clerk should check: Verify if there is a PO line for 'Dry-erase markers x4, assorted colours' or if it was mistakenly omitted."
+case-20.json,INV-7135,DUPLICATE_INVOICE,"INV-7135 from Guzman, Hoffman and Baldwin was already processed","What is wrong: The invoice INV-7135 from Guzman, Hoffman and Baldwin has been processed previously.
+What the clerk should check: Verify if there are any discrepancies or if the second processing is due to a system error."
+case-21.json,INV-7193,UNMATCHED_LINE;UNMATCHED_LINE,'410A cyan LaserJet toner': no PO line suggested | '24in IPS display': no PO line suggested,"What is wrong: There are unmatched lines in the invoice, specifically '410A cyan LaserJet toner' and '24in IPS display' lines, which have no corresponding purchase order lines.
+What the clerk should check: Verify if there are any purchase orders that match the items '410A cyan LaserJet toner' and '24in IPS display' and ensure they are correctly reflected in the invoice."
+case-22.json,INV-7196,NO_RECEIPT,no goods receipt for PO-24021,"What is wrong: There is no goods receipt for the purchase order PO-24021.
+What the clerk should check: Verify if a goods receipt has been received for PO-24021."
+case-23.json,INV-7204,PRICE_VARIANCE,unit price 172.2 vs PO 164.00 (max 167.28),"What is wrong: The unit price of line 1 on the invoice (172.2 USD) exceeds the maximum allowed price (167.28 USD) as per the PRICE_VARIANCE rule.
+What the clerk should check: Verify if there are any authorized price adjustments for line 1 that could justify the higher unit price."
+case-29.json,INV-7149,DUPLICATE_INVOICE,"INV-7149 from Gardner, Robinson and Lawrence was already processed","What is wrong: The invoice INV-7149 from Gardner, Robinson and Lawrence has been processed previously.
+What the clerk should check: Verify that this invoice is not a duplicate and ensure all details match the previous transaction."
+case-30.json,INV-7237,UNMATCHED_LINE;UNMATCHED_LINE,"'Blue ballpoint pens (50 pcs)': no PO line suggested | 'A4 multipurpose paper 80 g/m2, 5 x 500 sheets': no PO line suggested","What is wrong: There are unmatched lines in the invoice, specifically line 1 for 'Blue ballpoint pens (50 pcs)' and line 3 for 'A4 multipurpose paper 80 g/m2, 5 x 500 sheets', as no PO line suggested for these items.
+What the clerk should check: The clerk should verify if there is a PO line for 'Blue ballpoint pens (50 pcs)'"
+case-31.json,INV-7241,QTY_OVER_RECEIVED,"billed 4, received 2","What is wrong: The quantity received (2) exceeds the quantity billed (4) on line 1 of the invoice.
+What the clerk should check: Verify the receiving record for line 1 to ensure the correct quantity received matches the billed quantity."
+case-32.json,INV-7250,PRICE_VARIANCE,unit price 8.53 vs PO 7.90 (max 8.06),"What is wrong: The unit price of line 3 is 8.53 USD, which exceeds the maximum allowed price of 8.06 USD as specified in the PRICE_VARIANCE rule.
+What the clerk should check: Verify if there are any approved price variances for line 3 that allow a price higher than 8.06 USD."
+case-37.json,INV-7263,UNMATCHED_LINE,'Cordless optical mouse': no PO line suggested,"What is wrong: The invoice contains an item ('Cordless optical mouse') that has no corresponding line in the purchase order (PO).
+What the clerk should check: Verify if there is a PO line for the item 'Cordless optical mouse' or if it was mistakenly included in the invoice."

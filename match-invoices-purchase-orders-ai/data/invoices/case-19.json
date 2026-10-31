@@ -1,0 +1,39 @@
+{
+  "vendor_name": "Doyle Ltd",
+  "invoice_number": "INV-7192",
+  "invoice_date": "2026-10-24",
+  "po_number": "PO-24019",
+  "currency": "USD",
+  "line_items": [
+    {
+      "line_no": 1,
+      "item_code": null,
+      "description": "Dry-erase markers x4, assorted colours",
+      "quantity": 2,
+      "unit": "pack",
+      "unit_price": 6.8,
+      "amount": 13.6
+    },
+    {
+      "line_no": 2,
+      "item_code": null,
+      "description": "C4 white envelopes 250/box",
+      "quantity": 2,
+      "unit": "box",
+      "unit_price": 31.2,
+      "amount": 62.4
+    },
+    {
+      "line_no": 3,
+      "item_code": "BAT-AA-24",
+      "description": "Alkaline AA cells x24",
+      "quantity": 12,
+      "unit": "pack",
+      "unit_price": 15.8,
+      "amount": 189.6
+    }
+  ],
+  "subtotal": 265.6,
+  "tax": 21.25,
+  "total": 286.85
+}

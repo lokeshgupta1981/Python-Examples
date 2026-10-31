@@ -1,0 +1,23 @@
+{
+  "config": "qwen2.5:3b",
+  "invoices": 40,
+  "correct_decisions": 35,
+  "exact_codes": 35,
+  "false_approvals": [
+    "case-25.json"
+  ],
+  "false_holds": [
+    "case-07.json",
+    "case-13.json",
+    "case-19.json",
+    "case-37.json"
+  ],
+  "lines_without_code": 27,
+  "lines_paired_correctly": 19,
+  "model_calls": 27,
+  "invalid_model_answers": 0,
+  "pairing_model_seconds": 267.4,
+  "run_seconds": 267.5,
+  "explanations": 21,
+  "explain_model_seconds": 371.1
+}

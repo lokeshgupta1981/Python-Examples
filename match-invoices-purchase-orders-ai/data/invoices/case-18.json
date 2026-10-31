@@ -1,0 +1,30 @@
+{
+  "vendor_name": "Guzman, Hoffman and Baldwin",
+  "invoice_number": "INV-7184",
+  "invoice_date": "2026-10-16",
+  "po_number": "PO-24018",
+  "currency": "USD",
+  "line_items": [
+    {
+      "line_no": 1,
+      "item_code": "TN-410A-K",
+      "description": "410A black LaserJet toner",
+      "quantity": 6,
+      "unit": "each",
+      "unit_price": 107.52,
+      "amount": 645.12
+    },
+    {
+      "line_no": 2,
+      "item_code": "HDMI-2M",
+      "description": "2m HDMI lead",
+      "quantity": 4,
+      "unit": "each",
+      "unit_price": 7.9,
+      "amount": 31.6
+    }
+  ],
+  "subtotal": 676.72,
+  "tax": 54.14,
+  "total": 730.86
+}

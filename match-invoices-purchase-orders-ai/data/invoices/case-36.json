@@ -1,0 +1,30 @@
+{
+  "vendor_name": "Mcclain, Miller and Henderson",
+  "invoice_number": "INV-7262",
+  "invoice_date": "2026-10-06",
+  "po_number": "PO-24034",
+  "currency": "USD",
+  "line_items": [
+    {
+      "line_no": 1,
+      "item_code": null,
+      "description": "2m HDMI lead",
+      "quantity": 4,
+      "unit": "each",
+      "unit_price": 7.9,
+      "amount": 31.6
+    },
+    {
+      "line_no": 2,
+      "item_code": null,
+      "description": "410A black LaserJet toner",
+      "quantity": 12,
+      "unit": "each",
+      "unit_price": 96.0,
+      "amount": 1152.0
+    }
+  ],
+  "subtotal": 1183.6,
+  "tax": 94.69,
+  "total": 1278.29
+}

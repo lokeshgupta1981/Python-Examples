@@ -1,0 +1,30 @@
+{
+  "vendor_name": "Davis and Sons",
+  "invoice_number": "INV-7101",
+  "invoice_date": "2026-10-24",
+  "po_number": "PO-24001",
+  "currency": "USD",
+  "line_items": [
+    {
+      "line_no": 1,
+      "item_code": null,
+      "description": "Heavy-duty desk stapler",
+      "quantity": 10,
+      "unit": "each",
+      "unit_price": 21.4,
+      "amount": 214.0
+    },
+    {
+      "line_no": 2,
+      "item_code": null,
+      "description": "Monitor wipes, tub of 100",
+      "quantity": 5,
+      "unit": "each",
+      "unit_price": 5.4,
+      "amount": 27.0
+    }
+  ],
+  "subtotal": 241.0,
+  "tax": 19.28,
+  "total": 260.28
+}

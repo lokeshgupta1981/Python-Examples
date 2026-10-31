@@ -1,0 +1,30 @@
+{
+  "vendor_name": "Guzman, Hoffman and Baldwin",
+  "invoice_number": "INV-7204",
+  "invoice_date": "2026-10-17",
+  "po_number": "PO-24022",
+  "currency": "USD",
+  "line_items": [
+    {
+      "line_no": 1,
+      "item_code": null,
+      "description": "Black toner cartridge 26A (pack of 2)",
+      "quantity": 10,
+      "unit": "pack",
+      "unit_price": 172.2,
+      "amount": 1722.0
+    },
+    {
+      "line_no": 2,
+      "item_code": "HDMI-2M",
+      "description": "2m HDMI lead",
+      "quantity": 20,
+      "unit": "each",
+      "unit_price": 7.9,
+      "amount": 158.0
+    }
+  ],
+  "subtotal": 1880.0,
+  "tax": 150.4,
+  "total": 2030.4
+}

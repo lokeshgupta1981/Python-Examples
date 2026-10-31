@@ -1,0 +1,39 @@
+{
+  "vendor_name": "Davis and Sons",
+  "invoice_number": "INV-7237",
+  "invoice_date": "2026-10-06",
+  "po_number": "PO-24028",
+  "currency": "USD",
+  "line_items": [
+    {
+      "line_no": 1,
+      "item_code": null,
+      "description": "Blue ballpoint pens (50 pcs)",
+      "quantity": 2,
+      "unit": "box",
+      "unit_price": 12.9,
+      "amount": 25.8
+    },
+    {
+      "line_no": 2,
+      "item_code": "CHR-ERG",
+      "description": "Office chair, ergonomic mesh back",
+      "quantity": 6,
+      "unit": "each",
+      "unit_price": 189.0,
+      "amount": 1134.0
+    },
+    {
+      "line_no": 3,
+      "item_code": null,
+      "description": "A4 multipurpose paper 80 g/m2, 5 x 500 sheets",
+      "quantity": 10,
+      "unit": "box",
+      "unit_price": 27.5,
+      "amount": 275.0
+    }
+  ],
+  "subtotal": 1434.8,
+  "tax": 114.78,
+  "total": 1549.58
+}

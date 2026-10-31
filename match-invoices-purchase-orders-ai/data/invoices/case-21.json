@@ -1,0 +1,39 @@
+{
+  "vendor_name": "Gardner, Robinson and Lawrence",
+  "invoice_number": "INV-7193",
+  "invoice_date": "2026-10-18",
+  "po_number": "PO-24020",
+  "currency": "USD",
+  "line_items": [
+    {
+      "line_no": 1,
+      "item_code": null,
+      "description": "410A cyan LaserJet toner",
+      "quantity": 20,
+      "unit": "each",
+      "unit_price": 96.0,
+      "amount": 1920.0
+    },
+    {
+      "line_no": 2,
+      "item_code": null,
+      "description": "24in IPS display",
+      "quantity": 20,
+      "unit": "each",
+      "unit_price": 139.0,
+      "amount": 2780.0
+    },
+    {
+      "line_no": 3,
+      "item_code": "CHR-ERG",
+      "description": "Office chair, ergonomic mesh back",
+      "quantity": 2,
+      "unit": "each",
+      "unit_price": 189.0,
+      "amount": 378.0
+    }
+  ],
+  "subtotal": 5078.0,
+  "tax": 406.24,
+  "total": 5484.24
+}

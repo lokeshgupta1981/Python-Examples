@@ -1,0 +1,39 @@
+{
+  "vendor_name": "Doyle Ltd",
+  "invoice_number": "INV-7252",
+  "invoice_date": "2026-10-19",
+  "po_number": "PO-24031",
+  "currency": "USD",
+  "line_items": [
+    {
+      "line_no": 1,
+      "item_code": "PAP-A4-80",
+      "description": "A4 multipurpose paper 80 g/m2, 5 x 500 sheets",
+      "quantity": 10,
+      "unit": "box",
+      "unit_price": 27.5,
+      "amount": 275.0
+    },
+    {
+      "line_no": 2,
+      "item_code": "WIPE-100",
+      "description": "Monitor wipes, tub of 100",
+      "quantity": 4,
+      "unit": "each",
+      "unit_price": 5.45,
+      "amount": 21.8
+    },
+    {
+      "line_no": 3,
+      "item_code": "MOU-WL",
+      "description": "Cordless optical mouse",
+      "quantity": 5,
+      "unit": "each",
+      "unit_price": 14.5,
+      "amount": 72.5
+    }
+  ],
+  "subtotal": 369.3,
+  "tax": 29.54,
+  "total": 398.84
+}

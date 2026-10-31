@@ -1,0 +1,48 @@
+{
+  "vendor_name": "Gardner, Robinson and Lawrence",
+  "invoice_number": "INV-7149",
+  "invoice_date": "2026-10-18",
+  "po_number": "PO-24012",
+  "currency": "USD",
+  "line_items": [
+    {
+      "line_no": 1,
+      "item_code": "MON-24",
+      "description": "24in IPS display",
+      "quantity": 20,
+      "unit": "each",
+      "unit_price": 139.0,
+      "amount": 2780.0
+    },
+    {
+      "line_no": 2,
+      "item_code": "BAT-AA-24",
+      "description": "Alkaline AA cells x24",
+      "quantity": 4,
+      "unit": "pack",
+      "unit_price": 15.8,
+      "amount": 63.2
+    },
+    {
+      "line_no": 3,
+      "item_code": "PEN-BLK-50",
+      "description": "Black ballpoint pens (50 pcs)",
+      "quantity": 10,
+      "unit": "box",
+      "unit_price": 12.9,
+      "amount": 129.0
+    },
+    {
+      "line_no": 4,
+      "item_code": "STP-HD",
+      "description": "Heavy-duty desk stapler",
+      "quantity": 20,
+      "unit": "each",
+      "unit_price": 21.4,
+      "amount": 428.0
+    }
+  ],
+  "subtotal": 3400.2,
+  "tax": 272.02,
+  "total": 3672.22
+}

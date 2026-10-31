@@ -1,0 +1,48 @@
+{
+  "vendor_name": "Rodriguez, Figueroa and Sanchez",
+  "invoice_number": "INV-7108",
+  "invoice_date": "2026-09-30",
+  "po_number": "PO-240021",
+  "currency": "USD",
+  "line_items": [
+    {
+      "line_no": 1,
+      "item_code": "TN-410A-K",
+      "description": "410A black LaserJet toner",
+      "quantity": 10,
+      "unit": "each",
+      "unit_price": 96.0,
+      "amount": 960.0
+    },
+    {
+      "line_no": 2,
+      "item_code": "HDMI-2M",
+      "description": "2m HDMI lead",
+      "quantity": 4,
+      "unit": "each",
+      "unit_price": 7.9,
+      "amount": 31.6
+    },
+    {
+      "line_no": 3,
+      "item_code": "MON-24",
+      "description": "24in IPS display",
+      "quantity": 12,
+      "unit": "each",
+      "unit_price": 139.0,
+      "amount": 1668.0
+    },
+    {
+      "line_no": 4,
+      "item_code": "STP-HD",
+      "description": "Heavy-duty desk stapler",
+      "quantity": 2,
+      "unit": "each",
+      "unit_price": 21.4,
+      "amount": 42.8
+    }
+  ],
+  "subtotal": 2702.4,
+  "tax": 216.19,
+  "total": 2918.59
+}

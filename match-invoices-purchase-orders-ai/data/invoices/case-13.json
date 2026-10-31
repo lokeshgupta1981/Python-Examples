@@ -1,0 +1,30 @@
+{
+  "vendor_name": "Davis and Sons",
+  "invoice_number": "INV-7155",
+  "invoice_date": "2026-10-24",
+  "po_number": "PO-24013",
+  "currency": "USD",
+  "line_items": [
+    {
+      "line_no": 1,
+      "item_code": null,
+      "description": "A4 multipurpose paper 80 g/m2, 5 x 500 sheets",
+      "quantity": 20,
+      "unit": "box",
+      "unit_price": 27.5,
+      "amount": 550.0
+    },
+    {
+      "line_no": 2,
+      "item_code": null,
+      "description": "Heavy-duty desk stapler",
+      "quantity": 20,
+      "unit": "each",
+      "unit_price": 21.4,
+      "amount": 428.0
+    }
+  ],
+  "subtotal": 978.0,
+  "tax": 78.24,
+  "total": 1056.24
+}

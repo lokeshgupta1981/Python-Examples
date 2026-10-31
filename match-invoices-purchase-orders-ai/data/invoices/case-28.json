@@ -1,0 +1,48 @@
+{
+  "vendor_name": "Gardner, Robinson and Lawrence",
+  "invoice_number": "INV-7232",
+  "invoice_date": "2026-10-02",
+  "po_number": "PO-24027",
+  "currency": "USD",
+  "line_items": [
+    {
+      "line_no": 1,
+      "item_code": "MON-24",
+      "description": "24in IPS display",
+      "quantity": 4,
+      "unit": "each",
+      "unit_price": 139.0,
+      "amount": 556.0
+    },
+    {
+      "line_no": 2,
+      "item_code": "CHR-ERG",
+      "description": "Office chair, ergonomic mesh back",
+      "quantity": 12,
+      "unit": "each",
+      "unit_price": 189.0,
+      "amount": 2268.0
+    },
+    {
+      "line_no": 3,
+      "item_code": "STP-HD",
+      "description": "Heavy-duty desk stapler",
+      "quantity": 12,
+      "unit": "each",
+      "unit_price": 21.4,
+      "amount": 256.8
+    },
+    {
+      "line_no": 4,
+      "item_code": "TN-410A-K",
+      "description": "410A black LaserJet toner",
+      "quantity": 5,
+      "unit": "each",
+      "unit_price": 96.0,
+      "amount": 480.0
+    }
+  ],
+  "subtotal": 3560.8,
+  "tax": 284.86,
+  "total": 3845.66
+}

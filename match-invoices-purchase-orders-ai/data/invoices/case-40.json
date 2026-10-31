@@ -1,0 +1,30 @@
+{
+  "vendor_name": "Rodriguez, Figueroa and Sanchez",
+  "invoice_number": "INV-7279",
+  "invoice_date": "2026-10-18",
+  "po_number": "PO-24038",
+  "currency": "USD",
+  "line_items": [
+    {
+      "line_no": 1,
+      "item_code": "MOU-WL",
+      "description": "Cordless optical mouse",
+      "quantity": 20,
+      "unit": "each",
+      "unit_price": 14.5,
+      "amount": 290.0
+    },
+    {
+      "line_no": 2,
+      "item_code": "STP-HD",
+      "description": "Heavy-duty desk stapler",
+      "quantity": 6,
+      "unit": "each",
+      "unit_price": 21.4,
+      "amount": 128.4
+    }
+  ],
+  "subtotal": 418.4,
+  "tax": 33.47,
+  "total": 451.87
+}

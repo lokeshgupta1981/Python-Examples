@@ -1,0 +1,39 @@
+{
+  "vendor_name": "Davis and Sons",
+  "invoice_number": "INV-7207",
+  "invoice_date": "2026-10-21",
+  "po_number": "PO-24023",
+  "currency": "USD",
+  "line_items": [
+    {
+      "line_no": 1,
+      "item_code": "NB-A5",
+      "description": "Ruled A5 notebooks (10)",
+      "quantity": 2,
+      "unit": "pack",
+      "unit_price": 18.6,
+      "amount": 37.2
+    },
+    {
+      "line_no": 2,
+      "item_code": "BAT-AA-24",
+      "description": "Alkaline AA cells x24",
+      "quantity": 4,
+      "unit": "pack",
+      "unit_price": 15.8,
+      "amount": 63.2
+    },
+    {
+      "line_no": 3,
+      "item_code": "ENV-C4",
+      "description": "C4 white envelopes 250/box",
+      "quantity": 6,
+      "unit": "box",
+      "unit_price": 31.2,
+      "amount": 187.2
+    }
+  ],
+  "subtotal": 287.6,
+  "tax": 23.01,
+  "total": 310.61
+}

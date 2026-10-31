@@ -1,0 +1,30 @@
+{
+  "vendor_name": "Gardner, Robinson and Lawrence",
+  "invoice_number": "INV-7225",
+  "invoice_date": "2026-10-08",
+  "po_number": "PO-24026",
+  "currency": "USD",
+  "line_items": [
+    {
+      "line_no": 1,
+      "item_code": "ENV-C4",
+      "description": "C4 white envelopes 250/box",
+      "quantity": 9,
+      "unit": "box",
+      "unit_price": 31.2,
+      "amount": 280.8
+    },
+    {
+      "line_no": 2,
+      "item_code": "PAP-A4-80",
+      "description": "A4 multipurpose paper 80 g/m2, 5 x 500 sheets",
+      "quantity": 4,
+      "unit": "box",
+      "unit_price": 27.5,
+      "amount": 110.0
+    }
+  ],
+  "subtotal": 390.8,
+  "tax": 31.26,
+  "total": 422.06
+}

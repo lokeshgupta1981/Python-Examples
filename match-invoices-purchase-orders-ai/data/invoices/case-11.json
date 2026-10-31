@@ -1,0 +1,39 @@
+{
+  "vendor_name": "Mcclain, Miller and Henderson",
+  "invoice_number": "INV-7144",
+  "invoice_date": "2026-10-25",
+  "po_number": "PO-24011",
+  "currency": "USD",
+  "line_items": [
+    {
+      "line_no": 1,
+      "item_code": "PEN-BLK-50",
+      "description": "Black ballpoint pens (50 pcs)",
+      "quantity": 12,
+      "unit": "box",
+      "unit_price": 12.9,
+      "amount": 154.8
+    },
+    {
+      "line_no": 2,
+      "item_code": null,
+      "description": "Ruled A5 notebooks (10)",
+      "quantity": 12,
+      "unit": "pack",
+      "unit_price": 18.6,
+      "amount": 223.2
+    },
+    {
+      "line_no": 3,
+      "item_code": null,
+      "description": "Black toner cartridge 26A (pack of 2)",
+      "quantity": 5,
+      "unit": "pack",
+      "unit_price": 183.68,
+      "amount": 918.4
+    }
+  ],
+  "subtotal": 1296.4,
+  "tax": 103.71,
+  "total": 1400.11
+}

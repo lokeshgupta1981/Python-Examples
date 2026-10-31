@@ -1,0 +1,48 @@
+{
+  "vendor_name": "Doyle Ltd",
+  "invoice_number": "INV-7137",
+  "invoice_date": "2026-10-02",
+  "po_number": "PO-24009",
+  "currency": "USD",
+  "line_items": [
+    {
+      "line_no": 1,
+      "item_code": "PEN-BLK-50",
+      "description": "Black ballpoint pens (50 pcs)",
+      "quantity": 10,
+      "unit": "box",
+      "unit_price": 12.9,
+      "amount": 129.0
+    },
+    {
+      "line_no": 2,
+      "item_code": "WBM-4",
+      "description": "Dry-erase markers x4, assorted colours",
+      "quantity": 2,
+      "unit": "pack",
+      "unit_price": 6.8,
+      "amount": 13.6
+    },
+    {
+      "line_no": 3,
+      "item_code": "HDMI-2M",
+      "description": "2m HDMI lead",
+      "quantity": 6,
+      "unit": "each",
+      "unit_price": 7.9,
+      "amount": 47.4
+    },
+    {
+      "line_no": 4,
+      "item_code": "ENV-C4",
+      "description": "C4 white envelopes 250/box",
+      "quantity": 6,
+      "unit": "box",
+      "unit_price": 34.94,
+      "amount": 209.64
+    }
+  ],
+  "subtotal": 399.64,
+  "tax": 31.97,
+  "total": 431.61
+}

@@ -1,0 +1,29 @@
+{
+  "config": "two-way",
+  "invoices": 40,
+  "correct_decisions": 27,
+  "exact_codes": 25,
+  "false_approvals": [
+    "case-04.json",
+    "case-06.json",
+    "case-10.json",
+    "case-22.json",
+    "case-31.json"
+  ],
+  "false_holds": [
+    "case-01.json",
+    "case-03.json",
+    "case-07.json",
+    "case-13.json",
+    "case-19.json",
+    "case-26.json",
+    "case-36.json",
+    "case-37.json"
+  ],
+  "lines_without_code": 27,
+  "lines_paired_correctly": 3,
+  "model_calls": 0,
+  "invalid_model_answers": 0,
+  "pairing_model_seconds": 0.0,
+  "run_seconds": 0.0
+}

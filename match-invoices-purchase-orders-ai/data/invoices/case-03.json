@@ -1,0 +1,30 @@
+{
+  "vendor_name": "Mcclain, Miller and Henderson",
+  "invoice_number": "INV-7112",
+  "invoice_date": "2026-10-24",
+  "po_number": "PO-24003",
+  "currency": "USD",
+  "line_items": [
+    {
+      "line_no": 1,
+      "item_code": null,
+      "description": "Monitor wipes, tub of 100",
+      "quantity": 20,
+      "unit": "each",
+      "unit_price": 5.4,
+      "amount": 108.0
+    },
+    {
+      "line_no": 2,
+      "item_code": null,
+      "description": "Alkaline AA cells x24",
+      "quantity": 2,
+      "unit": "pack",
+      "unit_price": 15.8,
+      "amount": 31.6
+    }
+  ],
+  "subtotal": 139.6,
+  "tax": 11.17,
+  "total": 150.77
+}

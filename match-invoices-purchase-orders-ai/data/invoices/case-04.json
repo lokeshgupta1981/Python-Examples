@@ -1,0 +1,39 @@
+{
+  "vendor_name": "Doyle Ltd",
+  "invoice_number": "INV-7118",
+  "invoice_date": "2026-10-20",
+  "po_number": "PO-24004",
+  "currency": "USD",
+  "line_items": [
+    {
+      "line_no": 1,
+      "item_code": "STP-HD",
+      "description": "Heavy-duty desk stapler",
+      "quantity": 5,
+      "unit": "each",
+      "unit_price": 21.4,
+      "amount": 107.0
+    },
+    {
+      "line_no": 2,
+      "item_code": "BAT-AA-24",
+      "description": "Alkaline AA cells x24",
+      "quantity": 12,
+      "unit": "pack",
+      "unit_price": 15.8,
+      "amount": 189.6
+    },
+    {
+      "line_no": 3,
+      "item_code": "HDMI-2M",
+      "description": "2m HDMI lead",
+      "quantity": 12,
+      "unit": "each",
+      "unit_price": 7.9,
+      "amount": 94.8
+    }
+  ],
+  "subtotal": 391.4,
+  "tax": 31.31,
+  "total": 422.71
+}

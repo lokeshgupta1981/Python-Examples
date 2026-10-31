@@ -1,0 +1,39 @@
+{
+  "vendor_name": "Gardner, Robinson and Lawrence",
+  "invoice_number": "INV-7250",
+  "invoice_date": "2026-10-08",
+  "po_number": "PO-24030",
+  "currency": "USD",
+  "line_items": [
+    {
+      "line_no": 1,
+      "item_code": "MON-24",
+      "description": "24in IPS display",
+      "quantity": 10,
+      "unit": "each",
+      "unit_price": 139.0,
+      "amount": 1390.0
+    },
+    {
+      "line_no": 2,
+      "item_code": "WBM-4",
+      "description": "Dry-erase markers x4, assorted colours",
+      "quantity": 2,
+      "unit": "pack",
+      "unit_price": 6.8,
+      "amount": 13.6
+    },
+    {
+      "line_no": 3,
+      "item_code": "HDMI-2M",
+      "description": "2m HDMI lead",
+      "quantity": 12,
+      "unit": "each",
+      "unit_price": 8.53,
+      "amount": 102.36
+    }
+  ],
+  "subtotal": 1505.96,
+  "tax": 120.48,
+  "total": 1626.44
+}

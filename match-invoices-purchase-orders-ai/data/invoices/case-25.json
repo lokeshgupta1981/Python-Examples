@@ -1,0 +1,39 @@
+{
+  "vendor_name": "Mcclain, Miller and Henderson",
+  "invoice_number": "INV-7214",
+  "invoice_date": "2026-10-01",
+  "po_number": "PO-24024",
+  "currency": "USD",
+  "line_items": [
+    {
+      "line_no": 1,
+      "item_code": null,
+      "description": "Alkaline AAA cells x24",
+      "quantity": 4,
+      "unit": "pack",
+      "unit_price": 15.8,
+      "amount": 63.2
+    },
+    {
+      "line_no": 2,
+      "item_code": "MOU-WL",
+      "description": "Cordless optical mouse",
+      "quantity": 4,
+      "unit": "each",
+      "unit_price": 14.5,
+      "amount": 58.0
+    },
+    {
+      "line_no": 3,
+      "item_code": "HDMI-2M",
+      "description": "2m HDMI lead",
+      "quantity": 5,
+      "unit": "each",
+      "unit_price": 7.9,
+      "amount": 39.5
+    }
+  ],
+  "subtotal": 160.7,
+  "tax": 12.86,
+  "total": 173.56
+}

@@ -1,0 +1,164 @@
+[
+  {
+    "line": "Heavy-duty desk stapler",
+    "candidates": "PO-24001-1: Stapler, heavy duty\nPO-24001-2: Screen cleaning wipes, tub of 100",
+    "po_line_id": "PO-24001-1",
+    "reason": "Same product: heavy-duty desk stapler"
+  },
+  {
+    "line": "Monitor wipes, tub of 100",
+    "candidates": "PO-24001-2: Screen cleaning wipes, tub of 100",
+    "po_line_id": "PO-24001-2",
+    "reason": "Same product, different wording"
+  },
+  {
+    "line": "Monitor wipes, tub of 100",
+    "candidates": "PO-24003-1: Screen cleaning wipes, tub of 100\nPO-24003-2: Batteries AA alkaline, 24-pack",
+    "po_line_id": "PO-24003-1",
+    "reason": "Same product, different wording"
+  },
+  {
+    "line": "Alkaline AA cells x24",
+    "candidates": "PO-24003-2: Batteries AA alkaline, 24-pack",
+    "po_line_id": "PO-24003-2",
+    "reason": "Same product: same item, model number, size, colour and pack size."
+  },
+  {
+    "line": "Cordless optical mouse",
+    "candidates": "PO-24007-1: Wireless mouse\nPO-24007-2: Stapler, heavy duty\nPO-24007-4: HDMI cable 2 m",
+    "po_line_id": "NONE",
+    "reason": "No suitable match found among the candidates"
+  },
+  {
+    "line": "Heavy-duty desk stapler",
+    "candidates": "PO-24007-2: Stapler, heavy duty\nPO-24007-1: Wireless mouse\nPO-24007-3: Batteries AA alkaline, 24-pack",
+    "po_line_id": "PO-24007-2",
+    "reason": "Same product: heavy-duty desk stapler"
+  },
+  {
+    "line": "Alkaline AA cells x24",
+    "candidates": "PO-24007-3: Batteries AA alkaline, 24-pack\nPO-24007-4: HDMI cable 2 m\nPO-24007-1: Wireless mouse",
+    "po_line_id": "PO-24007-3",
+    "reason": "Same product: same item, model number, size, colour and pack size."
+  },
+  {
+    "line": "2m HDMI lead",
+    "candidates": "PO-24007-4: HDMI cable 2 m\nPO-24007-1: Wireless mouse",
+    "po_line_id": "NONE",
+    "reason": "Different product type: HDMI lead vs HDMI cable"
+  },
+  {
+    "line": "Ruled A5 notebooks (10)",
+    "candidates": "PO-24011-2: Notebook A5 ruled, pack of 10\nPO-24011-3: Toner 26A Black, 2-pack",
+    "po_line_id": "PO-24011-2",
+    "reason": "Same product: ruled A5 notebook, pack size 10"
+  },
+  {
+    "line": "Black toner cartridge 26A (pack of 2)",
+    "candidates": "PO-24011-3: Toner 26A Black, 2-pack",
+    "po_line_id": "PO-24011-3",
+    "reason": "Same product with same specifications"
+  },
+  {
+    "line": "A4 multipurpose paper 80 g/m2, 5 x 500 sheets",
+    "candidates": "PO-24013-1: Copy paper A4 80gsm, box of 5 reams\nPO-24013-2: Stapler, heavy duty",
+    "po_line_id": "NONE",
+    "reason": "Product descriptions are different, no match found"
+  },
+  {
+    "line": "Heavy-duty desk stapler",
+    "candidates": "PO-24013-2: Stapler, heavy duty\nPO-24013-1: Copy paper A4 80gsm, box of 5 reams",
+    "po_line_id": "PO-24013-2",
+    "reason": "Same product: heavy-duty desk stapler"
+  },
+  {
+    "line": "Dry-erase markers x4, assorted colours",
+    "candidates": "PO-24019-1: Whiteboard markers, assorted 4-pack\nPO-24019-2: Envelopes C4 white, box of 250",
+    "po_line_id": "NONE",
+    "reason": "Different product type and colour"
+  },
+  {
+    "line": "C4 white envelopes 250/box",
+    "candidates": "PO-24019-2: Envelopes C4 white, box of 250\nPO-24019-1: Whiteboard markers, assorted 4-pack",
+    "po_line_id": "PO-24019-2",
+    "reason": "Same product: white C4 envelopes"
+  },
+  {
+    "line": "410A cyan LaserJet toner",
+    "candidates": "PO-24020-1: Toner 410A Black\nPO-24020-2: Monitor 24 inch IPS",
+    "po_line_id": "NONE",
+    "reason": "Different product: not cyan toner"
+  },
+  {
+    "line": "24in IPS display",
+    "candidates": "PO-24020-2: Monitor 24 inch IPS\nPO-24020-1: Toner 410A Black",
+    "po_line_id": "NONE",
+    "reason": "Different product type and size"
+  },
+  {
+    "line": "Black toner cartridge 26A (pack of 2)",
+    "candidates": "PO-24022-1: Toner 26A Black, 2-pack",
+    "po_line_id": "PO-24022-1",
+    "reason": "Same product, different wording"
+  },
+  {
+    "line": "Alkaline AAA cells x24",
+    "candidates": "PO-24024-1: Batteries AA alkaline, 24-pack",
+    "po_line_id": "PO-24024-1",
+    "reason": "Same product: same item, model number, size, colour and pack size."
+  },
+  {
+    "line": "Heavy-duty desk stapler",
+    "candidates": "PO-24025-1: Stapler, heavy duty\nPO-24025-2: Toner 26A Black, 2-pack\nPO-24025-4: Monitor 24 inch IPS",
+    "po_line_id": "PO-24025-1",
+    "reason": "Same product: heavy-duty desk stapler"
+  },
+  {
+    "line": "Black toner cartridge 26A (pack of 2)",
+    "candidates": "PO-24025-2: Toner 26A Black, 2-pack\nPO-24025-4: Monitor 24 inch IPS",
+    "po_line_id": "PO-24025-2",
+    "reason": "Same product: Black toner cartridge 26A (pack of 2)"
+  },
+  {
+    "line": "24in IPS display",
+    "candidates": "PO-24025-4: Monitor 24 inch IPS",
+    "po_line_id": "PO-24025-4",
+    "reason": "Same product: 24in IPS display"
+  },
+  {
+    "line": "Blue ballpoint pens (50 pcs)",
+    "candidates": "PO-24028-1: Ballpoint pen black, box of 50\nPO-24028-3: Copy paper A4 80gsm, box of 5 reams",
+    "po_line_id": "NONE",
+    "reason": "Different product type and color"
+  },
+  {
+    "line": "A4 multipurpose paper 80 g/m2, 5 x 500 sheets",
+    "candidates": "PO-24028-3: Copy paper A4 80gsm, box of 5 reams\nPO-24028-1: Ballpoint pen black, box of 50",
+    "po_line_id": "NONE",
+    "reason": "Product descriptions are different"
+  },
+  {
+    "line": "2m HDMI lead",
+    "candidates": "PO-24034-1: HDMI cable 2 m\nPO-24034-2: Toner 410A Black",
+    "po_line_id": "PO-24034-1",
+    "reason": "Same product: HDMI lead 2m"
+  },
+  {
+    "line": "410A black LaserJet toner",
+    "candidates": "PO-24034-2: Toner 410A Black",
+    "po_line_id": "PO-24034-2",
+    "reason": "Same product with same specifications"
+  },
+  {
+    "line": "Cordless optical mouse",
+    "candidates": "PO-24035-1: Wireless mouse\nPO-24035-2: Ballpoint pen black, box of 50",
+    "po_line_id": "NONE",
+    "reason": "Different product type and description"
+  },
+  {
+    "line": "Black ballpoint pens (50 pcs)",
+    "candidates": "PO-24035-2: Ballpoint pen black, box of 50\nPO-24035-1: Wireless mouse",
+    "po_line_id": "PO-24035-2",
+    "reason": "Same product: Black ballpoint pens (50 pcs)"
+  }
+]

@@ -1,0 +1,30 @@
+{
+  "vendor_name": "Rodriguez, Figueroa and Sanchez",
+  "invoice_number": "INV-7261",
+  "invoice_date": "2026-10-11",
+  "po_number": "PO-24033",
+  "currency": "USD",
+  "line_items": [
+    {
+      "line_no": 1,
+      "item_code": "HDMI-2M",
+      "description": "2m HDMI lead",
+      "quantity": 20,
+      "unit": "each",
+      "unit_price": 7.9,
+      "amount": 158.0
+    },
+    {
+      "line_no": 2,
+      "item_code": "ENV-C4",
+      "description": "C4 white envelopes 250/box",
+      "quantity": 5,
+      "unit": "box",
+      "unit_price": 31.2,
+      "amount": 156.0
+    }
+  ],
+  "subtotal": 314.0,
+  "tax": 25.12,
+  "total": 339.12
+}

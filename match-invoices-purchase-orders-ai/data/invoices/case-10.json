@@ -1,0 +1,30 @@
+{
+  "vendor_name": "Guzman, Hoffman and Baldwin",
+  "invoice_number": "INV-7142",
+  "invoice_date": "2026-10-02",
+  "po_number": "PO-24010",
+  "currency": "USD",
+  "line_items": [
+    {
+      "line_no": 1,
+      "item_code": "HDMI-2M",
+      "description": "2m HDMI lead",
+      "quantity": 2,
+      "unit": "each",
+      "unit_price": 7.9,
+      "amount": 15.8
+    },
+    {
+      "line_no": 2,
+      "item_code": "MOU-WL",
+      "description": "Cordless optical mouse",
+      "quantity": 12,
+      "unit": "each",
+      "unit_price": 14.5,
+      "amount": 174.0
+    }
+  ],
+  "subtotal": 189.8,
+  "tax": 15.18,
+  "total": 204.98
+}
