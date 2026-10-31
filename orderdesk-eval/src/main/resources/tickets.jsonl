@@ -1,0 +1,40 @@
+{"id":"T01","text":"I was charged twice for order 4411 and my card is now over its limit.","category":"BILLING","priority":"HIGH"}
+{"id":"T02","text":"Can you send me a copy of the invoice for order 3982? I need it for my expense report.","category":"BILLING","priority":"LOW"}
+{"id":"T03","text":"My refund for the returned jacket was approved two weeks ago but the money is still not on my card.","category":"BILLING","priority":"HIGH"}
+{"id":"T04","text":"Which payment methods do you accept? Is PayPal possible?","category":"BILLING","priority":"LOW"}
+{"id":"T05","text":"The discount code SPRING10 was not applied at checkout, I paid full price for order 5120.","category":"BILLING","priority":"NORMAL"}
+{"id":"T06","text":"I see a charge from OrderDesk that I don't recognize. I never ordered anything this month.","category":"BILLING","priority":"HIGH"}
+{"id":"T07","text":"Please change the billing address on my next invoice to our new office.","category":"BILLING","priority":"NORMAL"}
+{"id":"T08","text":"Why is there a 4.99 service fee on my order? Nobody mentioned it before I paid.","category":"BILLING","priority":"NORMAL"}
+{"id":"T09","text":"Where is my order 6033? Tracking hasn't changed in 5 days.","category":"SHIPPING","priority":"NORMAL"}
+{"id":"T10","text":"The courier says the parcel was delivered yesterday but there is nothing at my door. It was a 900 euro laptop.","category":"SHIPPING","priority":"HIGH"}
+{"id":"T11","text":"Do you ship to Norway, and how long does it usually take?","category":"SHIPPING","priority":"LOW"}
+{"id":"T12","text":"I just placed order 7120 and typed the wrong street number. Can you fix the address before it ships?","category":"SHIPPING","priority":"NORMAL"}
+{"id":"T13","text":"The wedding is on Saturday and the dress still hasn't arrived even though you promised delivery by Tuesday.","category":"SHIPPING","priority":"HIGH"}
+{"id":"T14","text":"Can I pick up my order from a parcel locker instead of home delivery?","category":"SHIPPING","priority":"LOW"}
+{"id":"T15","text":"Only one of the two boxes for order 5521 arrived. Is the second one coming separately?","category":"SHIPPING","priority":"NORMAL"}
+{"id":"T16","text":"Great service, the package came a day early! Just wanted to say thanks.","category":"SHIPPING","priority":"LOW"}
+{"id":"T17","text":"The shoes are too small. How do I return them for a bigger size?","category":"RETURNS","priority":"NORMAL"}
+{"id":"T18","text":"The blender arrived with a cracked jug. I want a replacement.","category":"RETURNS","priority":"NORMAL"}
+{"id":"T19","text":"How many days do I have to return an item I bought in the sale?","category":"RETURNS","priority":"LOW"}
+{"id":"T20","text":"I sent the return parcel three weeks ago and have heard nothing. Did you receive it?","category":"RETURNS","priority":"NORMAL"}
+{"id":"T21","text":"The return label in the email doesn't work, the post office refused it.","category":"RETURNS","priority":"NORMAL"}
+{"id":"T22","text":"Can I exchange the blue sweater for the green one without sending it back first?","category":"RETURNS","priority":"LOW"}
+{"id":"T23","text":"The heater you sold me started smoking after ten minutes. I unplugged it. I want to send it back immediately.","category":"RETURNS","priority":"HIGH"}
+{"id":"T24","text":"Is the return shipping free or do I have to pay for it?","category":"RETURNS","priority":"LOW"}
+{"id":"T25","text":"I can't log in, the reset password email never arrives.","category":"ACCOUNT","priority":"HIGH"}
+{"id":"T26","text":"Someone changed the email on my account and placed an order I didn't make.","category":"ACCOUNT","priority":"HIGH"}
+{"id":"T27","text":"How do I unsubscribe from the newsletter?","category":"ACCOUNT","priority":"LOW"}
+{"id":"T28","text":"Please delete my account and all my data.","category":"ACCOUNT","priority":"NORMAL"}
+{"id":"T29","text":"I want to change the email address on my account to my work address.","category":"ACCOUNT","priority":"NORMAL"}
+{"id":"T30","text":"Can I have two delivery addresses saved in my profile?","category":"ACCOUNT","priority":"LOW"}
+{"id":"T31","text":"My account is locked after too many login attempts and I need to download my invoices today.","category":"ACCOUNT","priority":"HIGH"}
+{"id":"T32","text":"I signed up with Google, can I also set a normal password?","category":"ACCOUNT","priority":"LOW"}
+{"id":"T33","text":"Does the X200 phone case fit the X200 Pro as well?","category":"PRODUCT","priority":"LOW"}
+{"id":"T34","text":"When will the black running jacket in size M be back in stock?","category":"PRODUCT","priority":"LOW"}
+{"id":"T35","text":"The coffee machine shows error E4 every morning. The manual doesn't mention it.","category":"PRODUCT","priority":"NORMAL"}
+{"id":"T36","text":"Is the kids' backpack waterproof or only water-resistant?","category":"PRODUCT","priority":"LOW"}
+{"id":"T37","text":"The charger you sell gets very hot and smells of burning plastic. Is this normal? My son uses it every night.","category":"PRODUCT","priority":"HIGH"}
+{"id":"T38","text":"How do I pair the wireless headphones with two devices at once?","category":"PRODUCT","priority":"LOW"}
+{"id":"T39","text":"The app for the smart scale stopped syncing after the last update.","category":"PRODUCT","priority":"NORMAL"}
+{"id":"T40","text":"What's the difference between the Basic and Plus versions of the vacuum cleaner?","category":"PRODUCT","priority":"LOW"}
