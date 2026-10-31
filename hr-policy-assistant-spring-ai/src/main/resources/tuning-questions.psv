@@ -1,0 +1,7 @@
+id|region|employee_type|as_of|expected_route|expected_section|question
+T01|IN|full-time|2026-10-31|ANSWERED|Leave Policy India v3, 1.3|How many sick days do I get?
+T02|DE|full-time|2026-10-31|ANSWERED|Expense Policy v1, 3.3|Who has to approve an expense of 800 EUR?
+T03|IN|contractor|2026-10-31|ANSWERED|Contractor Terms v1, 8.2|Am I paid for public holidays?
+T04|IN|full-time|2026-10-31|REFUSED||Is there a canteen in the office?
+T05|DE|full-time|2026-10-31|REFUSED||Does the company pay for my train ticket to work?
+T06|IN|contractor|2026-10-31|REFUSED||How do I get a bonus?

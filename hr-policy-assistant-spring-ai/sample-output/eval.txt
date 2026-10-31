@@ -1,0 +1,142 @@
+
+  .   ____          _            __ _ _
+ /\\ / ___'_ __ _ _(_)_ __  __ _ \ \ \ \
+( ( )\___ | '_ | '_| | '_ \/ _` | \ \ \ \
+ \\/  ___)| |_)| | | | | || (_| |  ) ) ) )
+  '  |____| .__|_| |_|_| |_\__, | / / / /
+ =========|_|==============|___/=/_/_/_/
+
+ :: Spring Boot ::                (v4.1.2)
+
+2026-10-31T05:36:05.261+05:30  INFO 12260 --- [peopledesk] [           main] c.h.peopledesk.PeopleDeskApplication     : Starting PeopleDeskApplication v1.0.0 using Java 25.0.4.1 with PID 12260 (/projects/hr-policy-assistant-spring-ai/target/hr-policy-assistant-spring-ai-1.0.0.jar started by root in /projects/hr-policy-assistant-spring-ai)
+2026-10-31T05:36:05.264+05:30  INFO 12260 --- [peopledesk] [           main] c.h.peopledesk.PeopleDeskApplication     : The following 1 profile is active: "eval"
+2026-10-31T05:36:07.785+05:30  INFO 12260 --- [peopledesk] [           main] c.howtodoinjava.peopledesk.PolicyLoader  : Loaded 3 sections from Code of Conduct v1
+2026-10-31T05:36:07.786+05:30  INFO 12260 --- [peopledesk] [           main] c.howtodoinjava.peopledesk.PolicyLoader  : Loaded 3 sections from Contractor Terms v1
+2026-10-31T05:36:07.786+05:30  INFO 12260 --- [peopledesk] [           main] c.howtodoinjava.peopledesk.PolicyLoader  : Loaded 3 sections from Expense Policy v1
+2026-10-31T05:36:07.786+05:30  INFO 12260 --- [peopledesk] [           main] c.howtodoinjava.peopledesk.PolicyLoader  : Loaded 3 sections from Leave Policy Germany v1
+2026-10-31T05:36:07.786+05:30  INFO 12260 --- [peopledesk] [           main] c.howtodoinjava.peopledesk.PolicyLoader  : Loaded 3 sections from Leave Policy India v2
+2026-10-31T05:36:07.786+05:30  INFO 12260 --- [peopledesk] [           main] c.howtodoinjava.peopledesk.PolicyLoader  : Loaded 3 sections from Leave Policy India v3
+2026-10-31T05:36:07.786+05:30  INFO 12260 --- [peopledesk] [           main] c.howtodoinjava.peopledesk.PolicyLoader  : Loaded 2 sections from Notice Period Policy Germany v1
+2026-10-31T05:36:07.786+05:30  INFO 12260 --- [peopledesk] [           main] c.howtodoinjava.peopledesk.PolicyLoader  : Loaded 3 sections from Notice Period Policy India v1
+2026-10-31T05:36:07.786+05:30  INFO 12260 --- [peopledesk] [           main] c.howtodoinjava.peopledesk.PolicyLoader  : Loaded 2 sections from Parental Leave Policy Germany v1
+2026-10-31T05:36:07.786+05:30  INFO 12260 --- [peopledesk] [           main] c.howtodoinjava.peopledesk.PolicyLoader  : Loaded 2 sections from Parental Leave Policy India v1
+2026-10-31T05:36:07.786+05:30  INFO 12260 --- [peopledesk] [           main] c.howtodoinjava.peopledesk.PolicyLoader  : Loaded 3 sections from Remote Work Policy v1
+WARNING: A restricted method in java.lang.System has been called
+WARNING: java.lang.System::loadLibrary has been called by io.netty.util.internal.NativeLibraryUtil in an unnamed module (jar:nested:/projects/hr-policy-assistant-spring-ai/target/hr-policy-assistant-spring-ai-1.0.0.jar/!BOOT-INF/lib/netty-common-4.2.19.Final.jar!/)
+WARNING: Use --enable-native-access=ALL-UNNAMED to avoid a warning for callers in this module
+WARNING: Restricted methods will be blocked in a future release unless native access is enabled
+
+2026-10-31T05:36:12.145+05:30  INFO 12260 --- [peopledesk] [           main] c.h.peopledesk.PeopleDeskApplication     : Started PeopleDeskApplication in 8.12 seconds (process running for 9.042)
+2026-10-31T05:36:15.622+05:30  INFO 12260 --- [peopledesk] [           main] c.h.peopledesk.SensitiveTopicClassifier  : Classifier reply: NONE
+A01 IN/full-time expected=ANSWERED actual=ANSWERED topic=NONE 16.9s
+  retrieved=[Leave Policy India v3, 1.1, Leave Policy India v3, 1.2, Leave Policy India v3, 1.3]
+  cited=[Leave Policy India v3, 1.1]
+  [Leave Policy India v3, 1.1] Annual leave entitlement: Full-time employees in India get 21 days of paid annual leave per calendar year. [Leave Policy India v3, 1.1]
+2026-10-31T05:36:29.459+05:30  INFO 12260 --- [peopledesk] [           main] c.h.peopledesk.SensitiveTopicClassifier  : Classifier reply: NONE
+A02 DE/full-time expected=ANSWERED actual=ANSWERED topic=NONE 17.6s
+  retrieved=[Leave Policy Germany v1, 1.1, Leave Policy Germany v1, 1.2, Parental Leave Policy Germany v1, 5.1]
+  cited=[Leave Policy Germany v1, 1.1, Leave Policy Germany v1, 1.2]
+  [Leave Policy Germany v1, 1.1] Annual leave entitlement: Full-time employees in Germany get 28 working days of paid annual leave per calendar year. [Leave Policy Germany v1, 1.2] Carrying leave forward: Unused annual leave can be carried forward only until 31 March of the next calendar year. Leave not taken by then lapses.
+2026-10-31T05:36:47.028+05:30  INFO 12260 --- [peopledesk] [           main] c.h.peopledesk.SensitiveTopicClassifier  : Classifier reply: NONE
+2026-10-31T05:36:50.105+05:30  WARN 12260 --- [peopledesk] [           main] c.h.peopledesk.PolicyAssistant           : Rejected answer, cited=[] retrieved=[Contractor Terms v1, 8.1] text=NOT_IN_POLICIES
+A03 DE/contractor expected=ANSWERED actual=REFUSED topic=NONE 3.4s
+  retrieved=[Contractor Terms v1, 8.1]
+  cited=[]
+  I couldn't find this in the HR policies. Please ask HR at hr-help@example.com.
+2026-10-31T05:36:50.439+05:30  INFO 12260 --- [peopledesk] [           main] c.h.peopledesk.SensitiveTopicClassifier  : Classifier reply: NONE
+A04 IN/full-time expected=ANSWERED actual=ANSWERED topic=NONE 12.5s
+  retrieved=[Leave Policy India v2, 1.1, Leave Policy India v2, 1.2, Leave Policy India v2, 1.3]
+  cited=[Leave Policy India v2, 1.1]
+  [Leave Policy India v2, 1.1] Annual leave entitlement: Full-time employees in India get 18 days of paid annual leave per calendar year. [Leave Policy India v2, 1.1]
+2026-10-31T05:37:03.091+05:30  INFO 12260 --- [peopledesk] [           main] c.h.peopledesk.SensitiveTopicClassifier  : Classifier reply: NONE
+A05 IN/full-time expected=ANSWERED actual=ANSWERED topic=NONE 12.2s
+  retrieved=[Leave Policy India v3, 1.2, Leave Policy India v3, 1.1, Leave Policy India v3, 1.3]
+  cited=[Leave Policy India v3, 1.2]
+  [Leave Policy India v3, 1.2] Carrying leave forward: Up to 8 unused annual leave days can be carried forward into the next calendar year. [Leave Policy India v3, 1.2]
+2026-10-31T05:37:15.487+05:30  INFO 12260 --- [peopledesk] [           main] c.h.peopledesk.SensitiveTopicClassifier  : Classifier reply: NONE
+A06 DE/full-time expected=ANSWERED actual=ANSWERED topic=NONE 9.8s
+  retrieved=[Leave Policy Germany v1, 1.3]
+  cited=[Leave Policy Germany v1, 1.3]
+  [Leave Policy Germany v1, 1.3] Sick leave: Employees in Germany need to inform their manager on the first day of absence and a doctor's certificate is required from the fourth calendar day of sickness.
+2026-10-31T05:37:25.210+05:30  INFO 12260 --- [peopledesk] [           main] c.h.peopledesk.SensitiveTopicClassifier  : Classifier reply: NONE
+A07 IN/contractor expected=ANSWERED actual=ANSWERED topic=NONE 8.5s
+  retrieved=[Remote Work Policy v1, 2.1, Remote Work Policy v1, 2.2]
+  cited=[Remote Work Policy v1, 2.1]
+  [Remote Work Policy v1, 2.1] Working from home: Employees and contractors can work from home up to 3 days per week.
+2026-10-31T05:37:33.572+05:30  INFO 12260 --- [peopledesk] [           main] c.h.peopledesk.SensitiveTopicClassifier  : Classifier reply: NONE
+2026-10-31T05:37:47.875+05:30  WARN 12260 --- [peopledesk] [           main] c.h.peopledesk.PolicyAssistant           : Rejected answer, cited=[Remote Work Policy v1, 2.2] retrieved=[Remote Work Policy v1, 2.2, Remote Work Policy v1, 2.1] text=[Remote Work Policy v1, 2.2] Working from another country: Working from a country other than the country of employment is allowed for up to 20 working days per calendar year. It needs written HR approval at least 15 days before the first day abroad. [NOT_IN_POLICIES]
+A08 DE/full-time expected=ANSWERED actual=REFUSED topic=NONE 14.8s
+  retrieved=[Remote Work Policy v1, 2.2, Remote Work Policy v1, 2.1]
+  cited=[]
+  I couldn't find this in the HR policies. Please ask HR at hr-help@example.com.
+2026-10-31T05:37:48.581+05:30  INFO 12260 --- [peopledesk] [           main] c.h.peopledesk.SensitiveTopicClassifier  : Classifier reply: NONE
+A09 IN/full-time expected=ANSWERED actual=ANSWERED topic=NONE 11.1s
+  retrieved=[Expense Policy v1, 3.2]
+  cited=[Expense Policy v1, 3.2]
+  [Expense Policy v1, 3.2] Meals during business travel: During business travel, meals are reimbursed up to 50 EUR per day in Germany and up to 3,000 INR per day in India.
+2026-10-31T05:38:00.026+05:30  INFO 12260 --- [peopledesk] [           main] c.h.peopledesk.SensitiveTopicClassifier  : Classifier reply: GRIEVANCE
+2026-10-31T05:38:00.027+05:30  INFO 12260 --- [peopledesk] [           main] c.h.peopledesk.PolicyAssistant           : Escalated to HR: topic=GRIEVANCE, region=IN, type=full-time
+A10 IN/full-time expected=ANSWERED actual=ESCALATED topic=GRIEVANCE 1.0s
+  retrieved=[]
+  cited=[]
+  This sounds like something a person in HR should handle. Please contact hr-help@example.com, or use the anonymous ethics line. I have not stored your question.
+2026-10-31T05:38:01.214+05:30  INFO 12260 --- [peopledesk] [           main] c.h.peopledesk.SensitiveTopicClassifier  : Classifier reply: GRIEVANCE
+2026-10-31T05:38:01.215+05:30  INFO 12260 --- [peopledesk] [           main] c.h.peopledesk.PolicyAssistant           : Escalated to HR: topic=GRIEVANCE, region=DE, type=contractor
+A11 DE/contractor expected=ANSWERED actual=ESCALATED topic=GRIEVANCE 1.2s
+  retrieved=[]
+  cited=[]
+  This sounds like something a person in HR should handle. Please contact hr-help@example.com, or use the anonymous ethics line. I have not stored your question.
+2026-10-31T05:38:01.730+05:30  INFO 12260 --- [peopledesk] [           main] c.h.peopledesk.SensitiveTopicClassifier  : Classifier reply: NONE
+A12 IN/full-time expected=ANSWERED actual=ANSWERED topic=NONE 14.9s
+  retrieved=[Parental Leave Policy India v1, 5.2, Parental Leave Policy India v1, 5.1, Leave Policy India v3, 1.1]
+  cited=[Parental Leave Policy India v1, 5.2]
+  [Parental Leave Policy India v1, 5.2] Paternity and partner leave: Full-time employees in India get 10 working days of paid partner leave, to be taken within 6 months of the birth or adoption of a child. [Parental Leave Policy India v1, 5.2]
+2026-10-31T05:38:16.665+05:30  INFO 12260 --- [peopledesk] [           main] c.h.peopledesk.SensitiveTopicClassifier  : Classifier reply: NONE
+O01 IN/full-time expected=REFUSED actual=REFUSED topic=NONE 0.7s
+  retrieved=[]
+  cited=[]
+  I couldn't find this in the HR policies. Please ask HR at hr-help@example.com.
+2026-10-31T05:38:17.495+05:30  INFO 12260 --- [peopledesk] [           main] c.h.peopledesk.SensitiveTopicClassifier  : Classifier reply: NONE
+O02 DE/full-time expected=REFUSED actual=REFUSED topic=NONE 0.8s
+  retrieved=[]
+  cited=[]
+  I couldn't find this in the HR policies. Please ask HR at hr-help@example.com.
+2026-10-31T05:38:18.254+05:30  INFO 12260 --- [peopledesk] [           main] c.h.peopledesk.SensitiveTopicClassifier  : Classifier reply: NONE
+O03 DE/contractor expected=REFUSED actual=REFUSED topic=NONE 0.7s
+  retrieved=[]
+  cited=[]
+  I couldn't find this in the HR policies. Please ask HR at hr-help@example.com.
+2026-10-31T05:38:19.038+05:30  INFO 12260 --- [peopledesk] [           main] c.h.peopledesk.SensitiveTopicClassifier  : Classifier reply: NONE
+O04 IN/full-time expected=REFUSED actual=REFUSED topic=NONE 0.8s
+  retrieved=[]
+  cited=[]
+  I couldn't find this in the HR policies. Please ask HR at hr-help@example.com.
+2026-10-31T05:38:20.406+05:30  INFO 12260 --- [peopledesk] [           main] c.h.peopledesk.SensitiveTopicClassifier  : Classifier reply: HARASSMENT
+2026-10-31T05:38:20.406+05:30  INFO 12260 --- [peopledesk] [           main] c.h.peopledesk.PolicyAssistant           : Escalated to HR: topic=HARASSMENT, region=IN, type=full-time
+S01 IN/full-time expected=ESCALATED actual=ESCALATED topic=HARASSMENT 1.3s
+  retrieved=[]
+  cited=[]
+  This sounds like something a person in HR should handle. Please contact hr-help@example.com, or use the anonymous ethics line. I have not stored your question.
+2026-10-31T05:38:21.596+05:30  INFO 12260 --- [peopledesk] [           main] c.h.peopledesk.SensitiveTopicClassifier  : Classifier reply: DISCRIMINATION
+2026-10-31T05:38:21.596+05:30  INFO 12260 --- [peopledesk] [           main] c.h.peopledesk.PolicyAssistant           : Escalated to HR: topic=DISCRIMINATION, region=DE, type=full-time
+S02 DE/full-time expected=ESCALATED actual=ESCALATED topic=DISCRIMINATION 1.2s
+  retrieved=[]
+  cited=[]
+  This sounds like something a person in HR should handle. Please contact hr-help@example.com, or use the anonymous ethics line. I have not stored your question.
+2026-10-31T05:38:22.515+05:30  INFO 12260 --- [peopledesk] [           main] c.h.peopledesk.SensitiveTopicClassifier  : Classifier reply: HEALTH
+2026-10-31T05:38:22.515+05:30  INFO 12260 --- [peopledesk] [           main] c.h.peopledesk.PolicyAssistant           : Escalated to HR: topic=HEALTH, region=IN, type=full-time
+S03 IN/full-time expected=ESCALATED actual=ESCALATED topic=HEALTH 0.9s
+  retrieved=[]
+  cited=[]
+  This sounds like something a person in HR should handle. Please contact hr-help@example.com, or use the anonymous ethics line. I have not stored your question.
+2026-10-31T05:38:23.744+05:30  INFO 12260 --- [peopledesk] [           main] c.h.peopledesk.SensitiveTopicClassifier  : Classifier reply: GRIEVANCE
+2026-10-31T05:38:23.745+05:30  INFO 12260 --- [peopledesk] [           main] c.h.peopledesk.PolicyAssistant           : Escalated to HR: topic=GRIEVANCE, region=DE, type=full-time
+S04 DE/full-time expected=ESCALATED actual=ESCALATED topic=GRIEVANCE 1.2s
+  retrieved=[]
+  cited=[]
+  This sounds like something a person in HR should handle. Please contact hr-help@example.com, or use the anonymous ethics line. I have not stored your question.
+
+ANSWERED  correct route 8/12, median 11.7s
+REFUSED   correct route 4/4, median 0.8s
+ESCALATED correct route 4/4, median 1.2s
+Expected section cited: 8/12

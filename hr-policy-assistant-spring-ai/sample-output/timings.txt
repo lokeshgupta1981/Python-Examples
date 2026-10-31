@@ -1,0 +1,3 @@
+probe 26s, eval 141s, demo 600s (wall clock, each includes JVM start and embedding the 30 sections)
+The demo printed all its output within about 10 s; the remaining time is the JVM waiting on the
+advisor's thread pool until `timeout 600` stopped it. Fixed afterwards in PeopleDeskApplication.

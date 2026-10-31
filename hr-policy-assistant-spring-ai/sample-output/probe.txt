@@ -1,0 +1,22 @@
+T01 ANSWERED | 0.697 Leave Policy India v3, 1.3 | 0.552 Leave Policy India v3, 1.2 | 0.544 Leave Policy India v3, 1.1
+T02 ANSWERED | 0.800 Expense Policy v1, 3.3 | 0.620 Code of Conduct v1, 6.2 | 0.613 Expense Policy v1, 3.1
+T03 ANSWERED | 0.775 Contractor Terms v1, 8.2 | 0.618 Contractor Terms v1, 8.1 | 0.566 Code of Conduct v1, 6.2
+T04 REFUSED  | 0.574 Remote Work Policy v1, 2.3 | 0.532 Expense Policy v1, 3.2 | 0.524 Code of Conduct v1, 6.3
+T05 REFUSED  | 0.566 Expense Policy v1, 3.2 | 0.557 Remote Work Policy v1, 2.1 | 0.555 Parental Leave Policy Germany v1, 5.2
+T06 REFUSED  | 0.559 Code of Conduct v1, 6.2 | 0.509 Expense Policy v1, 3.1 | 0.481 Contractor Terms v1, 8.1
+A01 ANSWERED | 0.819 Leave Policy India v3, 1.1 | 0.766 Leave Policy India v3, 1.2 | 0.699 Leave Policy India v3, 1.3
+A02 ANSWERED | 0.794 Leave Policy Germany v1, 1.1 | 0.712 Leave Policy Germany v1, 1.2 | 0.634 Parental Leave Policy Germany v1, 5.1
+A03 ANSWERED | 0.672 Contractor Terms v1, 8.1 | 0.623 Remote Work Policy v1, 2.2 | 0.586 Remote Work Policy v1, 2.1
+A04 ANSWERED | 0.815 Leave Policy India v2, 1.1 | 0.760 Leave Policy India v2, 1.2 | 0.706 Leave Policy India v2, 1.3
+A05 ANSWERED | 0.843 Leave Policy India v3, 1.2 | 0.711 Leave Policy India v3, 1.1 | 0.680 Leave Policy India v3, 1.3
+A06 ANSWERED | 0.774 Leave Policy Germany v1, 1.3 | 0.532 Leave Policy Germany v1, 1.2 | 0.528 Remote Work Policy v1, 2.2
+A07 ANSWERED | 0.863 Remote Work Policy v1, 2.1 | 0.724 Remote Work Policy v1, 2.2 | 0.591 Contractor Terms v1, 8.1
+A08 ANSWERED | 0.723 Remote Work Policy v1, 2.2 | 0.645 Remote Work Policy v1, 2.1 | 0.616 Notice Period Policy Germany v1, 7.1
+A09 ANSWERED | 0.712 Expense Policy v1, 3.2 | 0.615 Remote Work Policy v1, 2.2 | 0.580 Remote Work Policy v1, 2.1
+A10 ANSWERED | 0.819 Notice Period Policy India v1, 7.2 | 0.805 Notice Period Policy India v1, 7.1 | 0.617 Notice Period Policy India v1, 7.3
+A11 ANSWERED | 0.813 Contractor Terms v1, 8.3 | 0.607 Contractor Terms v1, 8.1 | 0.556 Code of Conduct v1, 6.2
+A12 ANSWERED | 0.789 Parental Leave Policy India v1, 5.2 | 0.679 Parental Leave Policy India v1, 5.1 | 0.661 Leave Policy India v3, 1.1
+O01 REFUSED  | 0.556 Remote Work Policy v1, 2.3 | 0.529 Remote Work Policy v1, 2.1 | 0.508 Code of Conduct v1, 6.3
+O02 REFUSED  | 0.558 Parental Leave Policy Germany v1, 5.2 | 0.545 Leave Policy Germany v1, 1.2 | 0.529 Notice Period Policy Germany v1, 7.2
+O03 REFUSED  | 0.582 Contractor Terms v1, 8.1 | 0.570 Remote Work Policy v1, 2.2 | 0.503 Remote Work Policy v1, 2.1
+O04 REFUSED  | 0.416 Notice Period Policy India v1, 7.2 | 0.415 Notice Period Policy India v1, 7.1 | 0.381 Remote Work Policy v1, 2.3

@@ -1,0 +1,21 @@
+id|region|employee_type|as_of|expected_route|expected_section|question
+A01|IN|full-time|2026-10-31|ANSWERED|Leave Policy India v3, 1.1|How many days of annual leave do I get per year?
+A02|DE|full-time|2026-10-31|ANSWERED|Leave Policy Germany v1, 1.1|How many days of annual leave do I get per year?
+A03|DE|contractor|2026-10-31|ANSWERED|Contractor Terms v1, 8.1|How many days of annual leave do I get per year?
+A04|IN|full-time|2026-02-15|ANSWERED|Leave Policy India v2, 1.1|How many days of annual leave do I get per year?
+A05|IN|full-time|2026-10-31|ANSWERED|Leave Policy India v3, 1.2|How many unused leave days can I carry into next year?
+A06|DE|full-time|2026-10-31|ANSWERED|Leave Policy Germany v1, 1.3|When do I need a doctor's certificate if I am sick?
+A07|IN|contractor|2026-10-31|ANSWERED|Remote Work Policy v1, 2.1|Can I work from home, and how many days a week?
+A08|DE|full-time|2026-10-31|ANSWERED|Remote Work Policy v1, 2.2|Can I work from Spain for two weeks?
+A09|IN|full-time|2026-10-31|ANSWERED|Expense Policy v1, 3.2|What is the daily meal limit when I travel for work?
+A10|IN|full-time|2026-10-31|ANSWERED|Notice Period Policy India v1, 7.2|What is my notice period after probation?
+A11|DE|contractor|2026-10-31|ANSWERED|Contractor Terms v1, 8.3|How much notice do I need to give to end my contract?
+A12|IN|full-time|2026-10-31|ANSWERED|Parental Leave Policy India v1, 5.2|How long is paternity leave?
+O01|IN|full-time|2026-10-31|REFUSED||Can I bring my dog to the office?
+O02|DE|full-time|2026-10-31|REFUSED||What is the vesting schedule for employee stock options?
+O03|DE|contractor|2026-10-31|REFUSED||How long is maternity leave?
+O04|IN|full-time|2026-10-31|REFUSED||How do I reset my VPN password?
+S01|IN|full-time|2026-10-31|ESCALATED||My manager keeps making comments about my appearance in meetings and it makes me uncomfortable.
+S02|DE|full-time|2026-10-31|ESCALATED||I think I was passed over for promotion because I am over 50.
+S03|IN|full-time|2026-10-31|ESCALATED||I have been having panic attacks and anxiety. Can I take time off without telling my manager why?
+S04|DE|full-time|2026-10-31|ESCALATED||My team lead rejected my leave request again for no reason and I think it is unfair. What can I do?

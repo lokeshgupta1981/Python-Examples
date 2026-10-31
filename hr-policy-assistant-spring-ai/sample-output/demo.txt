@@ -1,0 +1,34 @@
+
+  .   ____          _            __ _ _
+ /\\ / ___'_ __ _ _(_)_ __  __ _ \ \ \ \
+( ( )\___ | '_ | '_| | '_ \/ _` | \ \ \ \
+ \\/  ___)| |_)| | | | | || (_| |  ) ) ) )
+  '  |____| .__|_| |_|_| |_\__, | / / / /
+ =========|_|==============|___/=/_/_/_/
+
+ :: Spring Boot ::                (v4.1.2)
+
+2026-10-31T05:38:25.684+05:30  INFO 12637 --- [peopledesk] [           main] c.h.peopledesk.PeopleDeskApplication     : Starting PeopleDeskApplication v1.0.0 using Java 25.0.4.1 with PID 12637 (/projects/hr-policy-assistant-spring-ai/target/hr-policy-assistant-spring-ai-1.0.0.jar started by root in /projects/hr-policy-assistant-spring-ai)
+2026-10-31T05:38:25.688+05:30  INFO 12637 --- [peopledesk] [           main] c.h.peopledesk.PeopleDeskApplication     : The following 1 profile is active: "demo"
+2026-10-31T05:38:27.627+05:30  INFO 12637 --- [peopledesk] [           main] c.howtodoinjava.peopledesk.PolicyLoader  : Loaded 3 sections from Code of Conduct v1
+2026-10-31T05:38:27.628+05:30  INFO 12637 --- [peopledesk] [           main] c.howtodoinjava.peopledesk.PolicyLoader  : Loaded 3 sections from Contractor Terms v1
+2026-10-31T05:38:27.628+05:30  INFO 12637 --- [peopledesk] [           main] c.howtodoinjava.peopledesk.PolicyLoader  : Loaded 3 sections from Expense Policy v1
+2026-10-31T05:38:27.628+05:30  INFO 12637 --- [peopledesk] [           main] c.howtodoinjava.peopledesk.PolicyLoader  : Loaded 3 sections from Leave Policy Germany v1
+2026-10-31T05:38:27.628+05:30  INFO 12637 --- [peopledesk] [           main] c.howtodoinjava.peopledesk.PolicyLoader  : Loaded 3 sections from Leave Policy India v2
+2026-10-31T05:38:27.628+05:30  INFO 12637 --- [peopledesk] [           main] c.howtodoinjava.peopledesk.PolicyLoader  : Loaded 3 sections from Leave Policy India v3
+2026-10-31T05:38:27.628+05:30  INFO 12637 --- [peopledesk] [           main] c.howtodoinjava.peopledesk.PolicyLoader  : Loaded 2 sections from Notice Period Policy Germany v1
+2026-10-31T05:38:27.628+05:30  INFO 12637 --- [peopledesk] [           main] c.howtodoinjava.peopledesk.PolicyLoader  : Loaded 3 sections from Notice Period Policy India v1
+2026-10-31T05:38:27.628+05:30  INFO 12637 --- [peopledesk] [           main] c.howtodoinjava.peopledesk.PolicyLoader  : Loaded 2 sections from Parental Leave Policy Germany v1
+2026-10-31T05:38:27.628+05:30  INFO 12637 --- [peopledesk] [           main] c.howtodoinjava.peopledesk.PolicyLoader  : Loaded 2 sections from Parental Leave Policy India v1
+2026-10-31T05:38:27.628+05:30  INFO 12637 --- [peopledesk] [           main] c.howtodoinjava.peopledesk.PolicyLoader  : Loaded 3 sections from Remote Work Policy v1
+WARNING: A restricted method in java.lang.System has been called
+WARNING: java.lang.System::loadLibrary has been called by io.netty.util.internal.NativeLibraryUtil in an unnamed module (jar:nested:/projects/hr-policy-assistant-spring-ai/target/hr-policy-assistant-spring-ai-1.0.0.jar/!BOOT-INF/lib/netty-common-4.2.19.Final.jar!/)
+WARNING: Use --enable-native-access=ALL-UNNAMED to avoid a warning for callers in this module
+WARNING: Restricted methods will be blocked in a future release unless native access is enabled
+
+2026-10-31T05:38:31.889+05:30  INFO 12637 --- [peopledesk] [           main] c.h.peopledesk.PeopleDeskApplication     : Started PeopleDeskApplication in 6.989 seconds (process running for 7.79)
+Default threshold retrieved 4 sections: [Remote Work Policy v1, 2.3 (0.556), Remote Work Policy v1, 2.1 (0.529), Code of Conduct v1, 6.3 (0.508), Remote Work Policy v1, 2.2 (0.499)]
+2026-10-31T05:38:32.734+05:30  INFO 12637 --- [peopledesk] [           main] c.h.peopledesk.SensitiveTopicClassifier  : Classifier reply: NONE
+2026-10-31T05:38:36.407+05:30  WARN 12637 --- [peopledesk] [           main] c.h.peopledesk.PolicyAssistant           : Rejected answer, cited=[] retrieved=[Remote Work Policy v1, 2.3, Remote Work Policy v1, 2.1, Code of Conduct v1, 6.3] text=NOT_IN_POLICIES
+Threshold 0.0 answer (4.4s): Answer[route=REFUSED, text=I couldn't find this in the HR policies. Please ask HR at hr-help@example.com., citations=[], retrieved=[Remote Work Policy v1, 2.3, Remote Work Policy v1, 2.1, Code of Conduct v1, 6.3], topic=NONE]
+Advisor refusal (4.2s): documents=[], reply=I couldn't find this in the HR policies. Please ask HR at hr-help@example.com.
