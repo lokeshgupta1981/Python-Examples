@@ -1,0 +1,4 @@
+2026-10-14T13:48:12Z deploy service=search-api version=2.31.0 by=deploy-bot
+2026-10-14T14:02:37Z config service=checkout-api change=db.pool.max_size 50->5 by=U02
+2026-10-14T14:21:30Z rollback service=search-api version=2.30.4 by=U05
+2026-10-14T14:31:40Z config service=checkout-api change=db.pool.max_size 5->50 by=U02

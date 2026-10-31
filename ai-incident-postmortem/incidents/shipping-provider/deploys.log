@@ -1,0 +1,3 @@
+2026-10-03T15:52:30Z deploy service=checkout-api version=7.12.0 by=deploy-bot
+2026-10-03T16:31:15Z config service=checkout-api change=shipping.fallback flat_rate=on by=U02
+2026-10-03T17:22:30Z config service=checkout-api change=shipping.fallback flat_rate=off by=U02

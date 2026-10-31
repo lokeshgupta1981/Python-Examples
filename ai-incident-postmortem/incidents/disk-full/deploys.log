@@ -1,0 +1,3 @@
+2026-10-08T22:15:00Z migration service=orders-db host=db-02->db-07 by=U02
+2026-10-09T03:30:15Z manual service=orders-db change=delete logs older than 2 days by=U03
+2026-10-09T03:52:00Z config service=orders-db change=enable log rotation by=U02
