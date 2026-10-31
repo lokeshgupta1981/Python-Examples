@@ -1,0 +1,9 @@
+setting,problem,correct,thinking_tokens,answer_tokens,eval_count,done_reason,millis,answer
+off,1,true,0,86,87,stop,10293,"Bakery bakes:   $7 \text{ trays} \times 24 \text{ muffins pe..."
+off,2,true,0,117,118,stop,14797,"To find the average speed for the whole trip; we use the for..."
+off,3,true,0,127,128,stop,13893,"Let's calculate the final price step by step.  1. **Original..."
+off,4,true,0,249,250,stop,28844,"Let's define the variables:  - Let $ T $ be Tom's current ag..."
+off,5,true,0,236,237,stop,26425,"We are given:  - Perimeter of the rectangle = 46 cm   - Leng..."
+off,6,true,0,171,172,stop,20481,"To find how long both pipes take together; we use the concep..."
+off,7,true,0,187,188,stop,21884,"Let the cost of one notebook be $ x $ dollars and the cost o..."
+off,8,true,0,410,412,stop,47611,"We are asked to find how many **whole numbers from 1 to 100*..."

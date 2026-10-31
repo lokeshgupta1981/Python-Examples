@@ -1,0 +1,22 @@
+=== think=false num_predict=64
+{"model":"qwen3:1.7b","created_at":"2026-10-30T22:23:56.985362593Z","message":{"role":"assistant","content":"4 pens × $3 per pen = $12\n\nThe total cost is $12.\n\nAnswer: 12"},"done":true,"done_reason":"stop","total_duration":7159570091,"load_duration":3606590626,"prompt_eval_count":40,"prompt_eval_cached_count":0,"prompt_eval_duration":646262000,"eval_count":26,"eval_duration":2902771000}
+HTTP 200 7.160349s
+
+=== think=true num_predict=64
+{"model":"qwen3:1.7b","created_at":"2026-10-30T22:24:05.200398652Z","message":{"role":"assistant","content":"","thinking":"Okay, let's see. The problem says a shop sells pens at $3 each, and we need to find out how much 4 pens cost. Hmm, so first, I need to figure out the total cost. If each pen is $3, then for 4 pens, it should be "},"done":true,"done_reason":"length","total_duration":8204562235,"load_duration":1777779,"prompt_eval_count":34,"prompt_eval_cached_count":28,"prompt_eval_duration":166344000,"eval_count":64,"eval_duration":8028339000}
+HTTP 200 8.205879s
+
+=== think="low" num_predict=64
+{"model":"qwen3:1.7b","created_at":"2026-10-30T22:24:28.549693816Z","message":{"role":"assistant","content":"","thinking":"Okay, let's see. The problem says a shop sells pens at $3 each, and we need to find out how much 4 pens cost. Hmm, so first, I need to figure out the total cost. If each pen is $3, then for 4 pens, it should be "},"done":true,"done_reason":"length","total_duration":23340556707,"load_duration":4531795,"prompt_eval_count":34,"prompt_eval_cached_count":33,"prompt_eval_duration":92453000,"eval_count":64,"eval_duration":23228578000}
+HTTP 200 23.341172s
+
+=== think="max" num_predict=64
+{"model":"qwen3:1.7b","created_at":"2026-10-30T22:24:35.624633802Z","message":{"role":"assistant","content":"","thinking":"Okay, let's see. The problem says a shop sells pens at $3 each, and we need to find out how much 4 pens cost. Hmm, so first, I need to figure out the total cost. If each pen is $3, then for 4 pens, it should be "},"done":true,"done_reason":"length","total_duration":7063471931,"load_duration":1327360,"prompt_eval_count":34,"prompt_eval_cached_count":33,"prompt_eval_duration":100710000,"eval_count":64,"eval_duration":6958799000}
+HTTP 200 7.064139s
+
+=== think=512 num_predict=64
+{"error":"think must be a boolean or string; supported values: [false,true]"}
+HTTP 400 0.004914s
+
+
+

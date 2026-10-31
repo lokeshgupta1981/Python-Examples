@@ -1,0 +1,6 @@
+setting,problem,correct,thinking_tokens,answer_tokens,eval_count,done_reason,millis,answer
+on,1,true,411,108,524,stop,75474,"To determine how many muffins are left; we start by calculat..."
+on,2,true,646,219,870,stop,113348,"To determine the average speed of the train for the entire t..."
+on,3,true,914,243,1162,stop,156162,"To determine the final price of the shirt after the given ch..."
+on,4,true,928,331,1264,stop,161736,"To determine Tom's current age; we start by defining variabl..."
+on,5,true,821,367,1193,stop,147379,"To find the area of the rectangle; we are given:  - **Perime..."

@@ -1,0 +1,55 @@
+thinking: 2620 characters
+answer: [To determine Tom's current age, we start by defining variables based on the information given:
+
+Let the son's current age be $ S $.  
+Since Tom is three times as old as his son, Tom's current age is $ 3S $.
+
+In 12 years, the son will be $ S + 12 $ years old, and Tom will be $ 3S + 12 $ years old.
+
+The problem states that in 12 years, Tom will be twice as old as his son. This gives us the equation:
+
+$$
+3S + 12 = 2(S + 12)
+$$
+
+Now, solve the equation step by step:
+
+$$
+3S + 12 = 2S + 24
+$$
+
+Subtract $ 2S $ from both sides:
+
+$$
+S + 12 = 24
+$$
+
+Subtract 12 from both sides:
+
+$$
+S = 12
+$$
+
+So, the son is currently 12 years old. Therefore, Tom's current age is:
+
+$$
+3S = 3 \times 12 = 36
+$$
+
+---
+
+**Verification:**
+
+In 12 years:
+- The son will be $ 12 + 12 = 24 $ years old.
+- Tom will be $ 36 + 12 = 48 $ years old.
+
+Indeed, $ 48 = 2 \times 24 $, confirming the solution is correct.
+
+---
+
+**Final Answer**
+$$
+\boxed{36}
+$$]
+finish reason: STOP, output tokens: 1264
