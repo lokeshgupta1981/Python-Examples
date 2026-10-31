@@ -1,0 +1,129 @@
+lock acquired 23:34:27
+Model qwen2.5:3b at http://localhost:11434, Java 25.0.4.1
+Warm-up call: 5283 ms
+
+== Two requests without history ==
+User: My name is Priya and I own the billing service.
+Model: Hello Priya, it's great to have you on board with your billing service. How can I assist you further in backend development?
+User: What's my name and which service do I own?
+Model: To find out which services you own, you can check your email inbox for domain registration confirmations or use a domain search tool. As for your name, you can check your social media profiles, professional networks, or contact lists for your name.
+
+== Full history ==
+Turn Messages  Prompt  Cached  Output  Time ms
+   1        2      42      41      28    15708
+   2        4      99      69      47     8494
+Request body of turn 2:
+{
+  "model" : "qwen2.5:3b",
+  "stream" : false,
+  "options" : {
+    "temperature" : 0,
+    "num_predict" : 60
+  },
+  "messages" : [ {
+    "role" : "system",
+    "content" : "You are a helpful assistant for backend developers. Answer in at most two short sentences."
+  }, {
+    "role" : "user",
+    "content" : "My name is Priya and I own the billing service."
+  }, {
+    "role" : "assistant",
+    "content" : "Hello Priya, it's great to have you on board with your billing service. How can I assist you further in backend development?"
+  }, {
+    "role" : "user",
+    "content" : "Our invoices are created by a nightly batch job. How do I make it safe to run twice?"
+  } ]
+}
+   3        6     164     145      56    10016
+   4        8     242     219      39     7009
+   5       10     303     280      60    11149
+   6       12     382     362      42     8080
+   7       14     444     423      59    11221
+   8       16     523     502      44     9001
+   9       18     589     566      60    11588
+  10       20     670     648      13     3194
+Final answer: Your name is Priya and you own the billing service.
+
+== Sliding window (3 turns) ==
+Turn Messages  Prompt  Cached  Output  Time ms
+   1        2      42      41      28     4854
+   2        4      99      69      47     8528
+   3        6     164     145      56    10282
+   4        8     242     219      39     6966
+   5        8     254      25      60    14927
+   6        8     257      25      42    12114
+   7        8     245      25      60    13990
+   8        8     265      25      41    11641
+   9        8     245      26      60    13960
+  10        8     266      25      42    11839
+Final answer: I'm sorry, but as an AI, I don't have access to personal information or ownership details. You can find this information by checking your account settings or contact information associated with the services you own.
+
+== Token budget (300) ==
+Turn Messages  Prompt  Cached  Output  Time ms
+   1        2      42      25      28     5596
+   2        4      99      69      47     8627
+   3        6     164     145      56     9464
+   4        8     242     219      39     7035
+   5       10     303     280      60    10569
+   6       10     333     266      42     9392
+   7       10     319     190      55    12608
+   8       10     320     116      45    11907
+   9        8     243      25      60    14576
+  10        8     264      25      42    11359
+Final answer: I'm sorry, but as an AI, I don't have access to personal information or ownership details. You can find this information by checking your account settings or contact information associated with the services you own.
+
+== Summary (300) ==
+Turn Messages  Prompt  Cached  Output  Time ms
+   1        2      42      25      28     5035
+   2        4      99      69      47     8185
+   3        6     164     145      56     9612
+   4        8     242     219      39     7269
+   5       10     303     280      60    11049
+   6        6     253       3      42    11673
+   7        8     315     294      48     8888
+   8        6     227       3      23     7635
+   9        8     272     249      60    11090
+  10        6     208       3      38    10394
+Final answer: I'm sorry, but as an AI, I don't have access to personal information or ownership details. You can find this information through your account settings or contact the service provider directly.
+Summary: Priya logs details like transaction ID, amount, timestamp, and error messages for failed payments. She tests her nightly job on her laptop using a sample dataset or mock connections.
+
+== Retrieval (2 + top 2) ==
+Turn Messages  Prompt  Cached  Output  Time ms
+   1        2      42      19      31     5637
+   2        4     102      72      48     8908
+   3        6     168     149      46     8840
+   4        8     236     213      45     8406
+   5       10     303     280      60    10848
+   6       10     318     154      55    13680
+   7       10     338      25      60    16656
+   8       10     336     166      46    12093
+   9       10     319     155      60    14180
+  10       10     309      77      13     6428
+Final answer: Your name is Priya and you own the billing service.
+Retrieved turns for the last question: [1, 4]
+
+== Full history, num_ctx 512 ==
+Turn Messages  Prompt  Cached  Output  Time ms
+   1        2      42       0      28     9616
+   2        4      99      69      47     9499
+   3        6     164     145      56    11075
+   4        8     242     219      39     7687
+   5       10     303     280      60    11698
+   6       12     382     362      42     7855
+   7       14     444     423      59    10631
+   8       16     506      23      60    19218
+   9       18     481       4      60    18643
+  10       20     488       4      32    14414
+Final answer: I'm sorry, but as an AI, I don't have personal information or ownership details. How can I assist you with your query or task today?
+
+== Same last request, num_ctx 512, truncate=false ==
+HTTP 400: {"error":"request (687 tokens) exceeds the available context size (512 tokens), try increasing it"}
+
+Strategy                     Correct   LastPrm   SumPrm  SumCach  Extra   Time ms
+Full history                 yes           670     3458     3255      0     95473
+Sliding window (3 turns)     no            266     2079      625      0    109116
+Token budget (300)           no            264     2329     1360      0    101145
+Summary (300)                no            208     2125     1290      3    128926
+Retrieval (2 + top 2)        yes           309     2471     1310     16    109742
+Full history, num_ctx 512    no            488     3151     1529      0    120343
+exit 0 at 23:45:53

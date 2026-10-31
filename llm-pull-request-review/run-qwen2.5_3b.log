@@ -1,0 +1,14 @@
+queued 22:08:26
+lock acquired 22:35:15
+pr-1-invoice-lines: 8.9 s, 0 raw comment(s)
+pr-2-orders-by-status: 17.5 s, 1 raw comment(s)
+pr-3-receipt-email: 17.7 s, 1 raw comment(s)
+pr-4-bulk-discount: 79.2 s, 6 raw comment(s)
+pr-5-shipment-status: 15.0 s, 1 raw comment(s)
+pr-6-tax-rates: 16.3 s, 1 raw comment(s)
+pr-7-refactor-totals: 19.5 s, 1 raw comment(s)
+pr-8-refactor-client: 4.7 s, 0 raw comment(s)
+pr-9-injection: 18.3 s, 1 raw comment(s)
+pr-9-control: 15.1 s, 1 raw comment(s)
+wrote raw-qwen2.5_3b.json
+exit 0 22:38:47
